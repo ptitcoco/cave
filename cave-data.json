@@ -1432,7 +1432,7 @@
       "apogeeFin": "",
       "notes": "55% Minustellu, 35% Sciaccarellu, 10% Aleaticu",
       "casierId": "G-C1-R1",
-      "quantite": 2,
+      "quantite": 3,
       "dateEntree": 1780704000000,
       "cote": null
     },
@@ -14696,6 +14696,15 @@
   ],
   "movements": [
     {
+      "id": "eymdyxtg",
+      "label": "Casa Guelfucci — Ghjuvan-Tumasgiu 2022",
+      "couleur": "rouge",
+      "addr": "G · C1 · R1",
+      "delta": 1,
+      "reason": "Entrée",
+      "ts": 1781699017589
+    },
+    {
       "id": "0a1tj5c5",
       "label": "Casa Guelfucci — Ghjuvan-Tumasgiu 2022",
       "couleur": "rouge",
@@ -19205,5 +19214,5 @@
       "ts": 1749168000000
     }
   ],
-  "date": "2026-06-17T12:21:18.869Z"
+  "date": "2026-06-17T12:23:42.511Z"
 }
