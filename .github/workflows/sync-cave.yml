@@ -1,11 +1,8 @@
 name: sync-cave
-# Récupère chaque jour le dernier ma-cave-AAAA-MM-JJ.json du dossier Drive "CAVE WEB"
-# et le commit dans le dépôt sous cave-data.json (même origine que la PWA).
 on:
   schedule:
-    - cron: "0 2 * * *"        # 02:00 UTC (~03h/04h Paris) — l'heure n'a aucune incidence,
-                                # les appareils secondaires tirent le fichier à leur ouverture.
-  workflow_dispatch: {}         # bouton "Run workflow" pour un pull manuel.
+    - cron: "0 2 * * *"
+  workflow_dispatch: {}
 
 jobs:
   pull:
@@ -15,31 +12,24 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Récupérer le dernier JSON depuis Drive
+      - name: Recuperer le dernier JSON depuis Drive
         env:
           KEY: ${{ secrets.DRIVE_API_KEY }}
           FOLDER: "1AQuijdIb7gN1tZ56L9QHLF_e9B97hes9"
         run: |
           set -euo pipefail
-          LIST=$(curl -sf \
-            "https://www.googleapis.com/drive/v3/files?q='${FOLDER}'+in+parents+and+trashed=false&fields=files(id,name)&pageSize=1000&key=${KEY}")
-          # On choisit par la DATE contenue dans le nom (ma-cave-...AAAA-MM-JJ.json),
-          # pas par l'horodatage d'upload : ré-uploader un vieux fichier ne le fait pas "gagner".
-          PICK=$(echo "$LIST" | jq -c '
-            [ .files[]
-              | select(.name | test("ma-cave-.*[0-9]{4}-[0-9]{2}-[0-9]{2}\\.json$"))
-              | . + { d: (.name | capture("(?<d>[0-9]{4}-[0-9]{2}-[0-9]{2})").d) } ]
-            | sort_by(.d) | last // empty')
+          LIST=$(curl -sf "https://www.googleapis.com/drive/v3/files?q='${FOLDER}'+in+parents+and+trashed=false&fields=files(id,name)&pageSize=1000&key=${KEY}")
+          PICK=$(echo "$LIST" | jq -c '[ .files[] | select(.name | test("ma-cave-.*[0-9]{4}-[0-9]{2}-[0-9]{2}\\.json$")) | . + { d: (.name | capture("(?<d>[0-9]{4}-[0-9]{2}-[0-9]{2})").d) } ] | sort_by(.d) | last // empty')
           if [ -z "$PICK" ]; then
-            echo "::error::Aucun fichier ma-cave-*AAAA-MM-JJ.json trouvé (dossier public ? clé valide ?)"; exit 1
+            echo "::error::Aucun fichier ma-cave-*AAAA-MM-JJ.json trouve (dossier public ? cle valide ?)"; exit 1
           fi
           ID=$(echo "$PICK" | jq -r '.id')
           NAME=$(echo "$PICK" | jq -r '.name')
           echo "Dernier : $NAME"
           curl -sfL "https://www.googleapis.com/drive/v3/files/${ID}?alt=media&key=${KEY}" -o cave-data.json
-          jq empty cave-data.json   # rejette un téléchargement corrompu/HTML d'erreur
+          jq empty cave-data.json
 
-     - name: Commit si modifié
+      - name: Commit si modifie
         run: |
           set -e
           git config user.name "cave-bot"
@@ -48,9 +38,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "Aucun changement."
           else
-            git commit -m "sync: cave-data.json $(date -u +%F)"
-            git push
-          fi
             git commit -m "sync: cave-data.json $(date -u +%F)"
             git push
           fi
