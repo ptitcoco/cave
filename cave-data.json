@@ -14696,6 +14696,15 @@
   ],
   "movements": [
     {
+      "id": "w6vhmips",
+      "label": "Domaine Maratray-Dubreuil — 1er Cru Creux de la Net 2019",
+      "couleur": "rouge",
+      "addr": "G · C9 · R1",
+      "delta": -1,
+      "reason": "Sortie",
+      "ts": 1781638879759
+    },
+    {
       "id": "j5zayrax",
       "label": "Domaine u stiliccionu  — Kalliste 2020",
       "couleur": "rouge",
@@ -19185,16 +19194,7 @@
       "delta": 2,
       "reason": "Import",
       "ts": 1749168000000
-    },
-    {
-      "id": "imp-albert-morot-beaune-bressandes-2021",
-      "label": "Albert Morot — 1er Cru Les Bressandes 2021",
-      "couleur": "rouge",
-      "addr": "D · C1 · R1",
-      "delta": 2,
-      "reason": "Import",
-      "ts": 1749168000000
     }
   ],
-  "date": "2026-06-16T19:48:18.286Z"
+  "date": "2026-06-17T12:16:15.881Z"
 }
