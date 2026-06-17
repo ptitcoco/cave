@@ -852,13 +852,49 @@ function App() {
   const removeLot = id => {
     if (confirm("Supprimer ce vin du casier ?")) setLots(ls => ls.filter(l => l.id !== id));
   };
-  const exportJSON = async () => {
+  const ghPush = async text => {
+    let token = localStorage.getItem("cave:ghtoken");
+    if (!token) {
+      token = prompt("Token GitHub (fine-grained · dépôt ptitcoco/cave · Contents: Read and write). Collé une seule fois :");
+      if (!token) throw new Error("no-token");
+      token = token.trim();
+      localStorage.setItem("cave:ghtoken", token);
+    }
+    const api = "https://api.github.com/repos/ptitcoco/cave/contents/cave-data.json";
+    const headers = {
+      Authorization: "Bearer " + token,
+      Accept: "application/vnd.github+json",
+      "X-GitHub-Api-Version": "2022-11-28"
+    };
+    let sha;
+    const g = await fetch(api + "?ref=main", { headers });
+    if (g.ok) sha = (await g.json()).sha;
+    else if (g.status === 401) { localStorage.removeItem("cave:ghtoken"); throw new Error("token invalide (401)"); }
+    else if (g.status !== 404) throw new Error("GET " + g.status);
+    const bytes = new TextEncoder().encode(text);
+    let bin = "";
+    bytes.forEach(b => bin += String.fromCharCode(b));
+    const body = { message: "export cave " + new Date().toISOString(), content: btoa(bin), branch: "main" };
+    if (sha) body.sha = sha;
+    const p = await fetch(api, { method: "PUT", headers, body: JSON.stringify(body) });
+    if (!p.ok) {
+      if (p.status === 401) localStorage.removeItem("cave:ghtoken");
+      throw new Error("PUT " + p.status);
+    }
+  };const exportJSON = async () => {
     const text = JSON.stringify({
       lots,
       movements,
       date: new Date().toISOString()
     }, null, 2);
-    const fname = "ma-cave-" + new Date().toISOString().slice(0, 10) + ".json";
+    try {
+      await ghPush(text);
+      alert("Cave synchronisée sur GitHub ✓\nLes appareils secondaires se mettront à jour à leur ouverture.");
+      return;
+    } catch (e) {
+      if (!(e && e.message === "no-token"))
+        alert("Push GitHub échoué (" + (e && e.message) + ") — export local en repli.");
+    }const fname = "ma-cave-" + new Date().toISOString().slice(0, 10) + ".json";
     const file = new File([text], fname, {
       type: "application/json"
     });
