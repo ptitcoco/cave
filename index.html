@@ -878,10 +878,11 @@ function App() {
     if (sha) body.sha = sha;
     const p = await fetch(api, { method: "PUT", headers, body: JSON.stringify(body) });
     if (!p.ok) {
-      if (p.status === 401) localStorage.removeItem("cave:ghtoken");
+      if (p.status === 401 || p.status === 403) localStorage.removeItem("cave:ghtoken");
       throw new Error("PUT " + p.status);
     }
-  };const exportJSON = async () => {
+  };
+  const exportJSON = async () => {
     const text = JSON.stringify({
       lots,
       movements,
@@ -894,7 +895,8 @@ function App() {
     } catch (e) {
       if (!(e && e.message === "no-token"))
         alert("Push GitHub échoué (" + (e && e.message) + ") — export local en repli.");
-    }const fname = "ma-cave-" + new Date().toISOString().slice(0, 10) + ".json";
+    }
+    const fname = "ma-cave-" + new Date().toISOString().slice(0, 10) + ".json";
     const file = new File([text], fname, {
       type: "application/json"
     });
