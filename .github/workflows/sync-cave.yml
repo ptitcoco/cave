@@ -39,15 +39,18 @@ jobs:
           curl -sfL "https://www.googleapis.com/drive/v3/files/${ID}?alt=media&key=${KEY}" -o cave-data.json
           jq empty cave-data.json   # rejette un téléchargement corrompu/HTML d'erreur
 
-      - name: Commit si modifié
+     - name: Commit si modifié
         run: |
           set -e
           git config user.name "cave-bot"
           git config user.email "cave-bot@users.noreply.github.com"
-          if git diff --quiet -- cave-data.json; then
+          git add cave-data.json
+          if git diff --cached --quiet; then
             echo "Aucun changement."
           else
-            git add cave-data.json
+            git commit -m "sync: cave-data.json $(date -u +%F)"
+            git push
+          fi
             git commit -m "sync: cave-data.json $(date -u +%F)"
             git push
           fi
