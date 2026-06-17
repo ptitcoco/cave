@@ -748,6 +748,25 @@ function App() {
   useEffect(() => LS.set("cave:lots", lots), [lots]);
   useEffect(() => LS.set("cave:mv", movements.slice(0, 500)), [movements]);
   useEffect(() => LS.set("cave:maskVal", maskVal), [maskVal]);
+  // --- Auto-sync : appareils SECONDAIRES uniquement (miroir du coffre Drive) ---
+  useEffect(() => {
+    try {
+      const r = new URLSearchParams(location.search).get("role");
+      if (r === "secondaire") localStorage.setItem("cave:role", "secondaire");
+      else if (r === "maitre") localStorage.removeItem("cave:role");
+    } catch (e) {}
+    if (localStorage.getItem("cave:role") !== "secondaire") return; // maitre = jamais d'auto-pull
+    fetch("./cave-data.json", { cache: "no-store" })
+      .then(res => res.ok ? res.json() : null)
+      .then(d => {
+        if (!d || !Array.isArray(d.lots)) return;
+        if (d.date && localStorage.getItem("cave:syncDate") === d.date) return; // deja applique
+        setLots(d.lots);                          // remplacement strict (propage les suppressions)
+        setMv((d.movements || []).slice(0, 500));
+        if (d.date) localStorage.setItem("cave:syncDate", d.date);
+      })
+      .catch(() => {});                           // hors-ligne -> on garde l'etat local
+  }, []);
   const byCasier = useMemo(() => {
     const m = {};
     lots.forEach(l => {
