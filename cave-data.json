@@ -6956,7 +6956,7 @@
       "apogeeFin": "",
       "notes": "",
       "casierId": "F-C1-R4",
-      "quantite": 3,
+      "quantite": 2,
       "dateEntree": 1749168000000,
       "cote": {
         "valeur_eur": null,
@@ -14696,6 +14696,15 @@
   ],
   "movements": [
     {
+      "id": "gdoxxhjp",
+      "label": "Georges Noëllat — Aux Échezeaux 2023",
+      "couleur": "rouge",
+      "addr": "F · C1 · R4",
+      "delta": -1,
+      "reason": "Sortie",
+      "ts": 1782147150731
+    },
+    {
       "id": "eymdyxtg",
       "label": "Casa Guelfucci — Ghjuvan-Tumasgiu 2022",
       "couleur": "rouge",
@@ -19194,25 +19203,7 @@
       "delta": 1,
       "reason": "Import",
       "ts": 1749168000000
-    },
-    {
-      "id": "imp-albert-morot-beaune-bressandes-2016",
-      "label": "Albert Morot — 1er Cru Les Bressandes 2016",
-      "couleur": "rouge",
-      "addr": "D · C1 · R1",
-      "delta": 1,
-      "reason": "Import",
-      "ts": 1749168000000
-    },
-    {
-      "id": "imp-albert-morot-beaune-bressandes-2018",
-      "label": "Albert Morot — 1er Cru Les Bressandes 2018",
-      "couleur": "rouge",
-      "addr": "D · C1 · R1",
-      "delta": 2,
-      "reason": "Import",
-      "ts": 1749168000000
     }
   ],
-  "date": "2026-06-17T12:23:42.511Z"
+  "date": "2026-06-22T16:52:35.671Z"
 }
