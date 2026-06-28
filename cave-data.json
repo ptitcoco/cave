@@ -12044,31 +12044,6 @@
       }
     },
     {
-      "id": "albert-morot-pommard-village-2019",
-      "domaine": "Albert Morot",
-      "cuvee": "",
-      "appellation": "Pommard",
-      "region": "Bourgogne",
-      "millesime": "2019",
-      "couleur": "rouge",
-      "format": "75 cl",
-      "apogeeDebut": "",
-      "apogeeFin": "",
-      "notes": "",
-      "casierId": "D-C1-R2",
-      "quantite": 1,
-      "dateEntree": 1749168000000,
-      "cote": {
-        "valeur_eur": 0,
-        "devise": "EUR",
-        "source": "wine-searcher (calculateur de cave)",
-        "valeurLocation": "Europe (HT)",
-        "dateReleve": "2026-06-08T14:35:09.921Z",
-        "url": "https://www.wine-searcher.com/find/albert+morot+pommard+cote+de+beaune+burgundy+france/2019/europe",
-        "statut": "ok"
-      }
-    },
-    {
       "id": "albert-morot-pommard-village-2019-r3",
       "domaine": "Albert Morot",
       "cuvee": "",
@@ -14695,6 +14670,15 @@
     }
   ],
   "movements": [
+    {
+      "id": "3azjl02y",
+      "label": "Albert Morot — Pommard 2019",
+      "couleur": "rouge",
+      "addr": "D · C1 · R2",
+      "delta": -1,
+      "reason": "Sortie",
+      "ts": 1782656111083
+    },
     {
       "id": "gdoxxhjp",
       "label": "Georges Noëllat — Aux Échezeaux 2023",
@@ -19194,16 +19178,7 @@
       "delta": 1,
       "reason": "Import",
       "ts": 1749168000000
-    },
-    {
-      "id": "imp-amiot-servelle-msd-village-2021-r6",
-      "label": "Amiot-Servelle — Morey-Saint-Denis 2021",
-      "couleur": "rouge",
-      "addr": "F · C6 · R6",
-      "delta": 1,
-      "reason": "Import",
-      "ts": 1749168000000
     }
   ],
-  "date": "2026-06-22T16:52:35.671Z"
+  "date": "2026-06-28T14:16:02.600Z"
 }
