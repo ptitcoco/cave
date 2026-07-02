@@ -1382,7 +1382,7 @@
       "apogeeFin": "",
       "notes": "",
       "casierId": "G-C1-R1",
-      "quantite": 3,
+      "quantite": 2,
       "dateEntree": 1780704000000,
       "cote": {
         "valeur_eur": null,
@@ -14671,6 +14671,15 @@
   ],
   "movements": [
     {
+      "id": "g25ujj33",
+      "label": "Casa Guelfucci — Sciaccarellu 2020",
+      "couleur": "rouge",
+      "addr": "G · C1 · R1",
+      "delta": -1,
+      "reason": "Sortie",
+      "ts": 1783015378128
+    },
+    {
       "id": "3azjl02y",
       "label": "Albert Morot — Pommard 2019",
       "couleur": "rouge",
@@ -19169,16 +19178,7 @@
       "delta": 1,
       "reason": "Import",
       "ts": 1749168000000
-    },
-    {
-      "id": "imp-amiot-servelle-chambolle-charmes-2021-r6",
-      "label": "Amiot-Servelle — 1er Cru Les Charmes 2021",
-      "couleur": "rouge",
-      "addr": "F · C6 · R6",
-      "delta": 1,
-      "reason": "Import",
-      "ts": 1749168000000
     }
   ],
-  "date": "2026-06-28T14:16:02.600Z"
+  "date": "2026-07-02T18:03:04.263Z"
 }
