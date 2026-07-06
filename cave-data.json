@@ -13744,31 +13744,6 @@
       }
     },
     {
-      "id": "wagner-stempel-heerkretz-riesling-gg-2022",
-      "domaine": "Wagner-Stempel",
-      "cuvee": "Heerkretz Riesling GG",
-      "appellation": "Rheinhessen",
-      "region": "Allemagne",
-      "millesime": "2022",
-      "couleur": "blanc",
-      "format": "75 cl",
-      "apogeeDebut": "",
-      "apogeeFin": "",
-      "notes": "Grosses Gewächs",
-      "casierId": "D-C10-R5",
-      "quantite": 1,
-      "dateEntree": 1749168000000,
-      "cote": {
-        "valeur_eur": 42.84,
-        "devise": "EUR",
-        "source": "wine-searcher (calculateur de cave)",
-        "valeurLocation": "Europe (HT)",
-        "dateReleve": "2026-06-08T14:35:09.921Z",
-        "url": "https://www.wine-searcher.com/find/wagner+stempel+heerkretz+riesling+grosses+gewachs+siefersheim+rheinhessen+germany/2022/europe",
-        "statut": "ok"
-      }
-    },
-    {
       "id": "rebholz-kastanienbusch-riesling-gg-2022",
       "domaine": "Ökonomierat Rebholz",
       "cuvee": "Kastanienbusch Riesling GG",
@@ -19169,16 +19144,7 @@
       "delta": 1,
       "reason": "Import",
       "ts": 1749168000000
-    },
-    {
-      "id": "imp-amiot-servelle-msd-village-2022",
-      "label": "Amiot-Servelle — Morey-Saint-Denis 2022",
-      "couleur": "rouge",
-      "addr": "F · C6 · R5",
-      "delta": 1,
-      "reason": "Import",
-      "ts": 1749168000000
     }
   ],
-  "date": "2026-07-02T18:03:04.263Z"
+  "date": "2026-07-06T13:17:14.009Z"
 }
