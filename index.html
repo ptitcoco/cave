@@ -850,7 +850,11 @@ function App() {
     }
   };
   const removeLot = id => {
-    if (confirm("Supprimer ce vin du casier ?")) setLots(ls => ls.filter(l => l.id !== id));
+    if (confirm("Supprimer ce vin du casier ?")) {
+      const _l = lots.find(x => x.id === id);
+      if (_l && (+_l.quantite || 0) > 0) logMv(_l, -(+_l.quantite || 0), "Sortie");
+      setLots(ls => ls.filter(l => l.id !== id));
+    }
   };
   const ghPush = async text => {
     let token = localStorage.getItem("cave:ghtoken");
