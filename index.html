@@ -715,7 +715,7 @@ function coteInfo(l) {
     show: true,
     credible: true,
     text: Math.round(v) + " €",
-    title: "Valeur Wine-Searcher (€/bouteille, toutes provenances)"
+    title: c.source && String(c.source).indexOf("manuelle") >= 0 ? "Prix saisi manuellement (€/bouteille)" : "Valeur Wine-Searcher (€/bouteille, toutes provenances)"
   };
 }
 const LS = {
@@ -823,6 +823,20 @@ function App() {
     logMv(lot, delta, reason);
   };
   const saveForm = d => {
+    if (Object.prototype.hasOwnProperty.call(d, "_prix")) {
+      const raw = String(d._prix).replace(",", ".").trim();
+      const v = raw === "" ? null : parseFloat(raw);
+      const cote = v == null || isNaN(v) ? null : {
+        valeur_eur: v,
+        devise: "EUR",
+        source: "saisie manuelle",
+        dateReleve: new Date().toISOString().slice(0, 10),
+        url: d.cote && d.cote.url || "",
+        statut: "ok"
+      };
+      const { _prix, ...rest } = d;
+      d = { ...rest, cote };
+    }
     if (d.id && lots.some(l => l.id === d.id)) {
       const old = lots.find(l => l.id === d.id);
       const delta = (+d.quantite || 0) - (+old.quantite || 0);
@@ -1731,6 +1745,15 @@ function BottleForm({
     min: "0",
     value: f.quantite ?? 1,
     onChange: e => set("quantite", +e.target.value)
+  })), /*#__PURE__*/React.createElement("div", {
+    className: "field"
+  }, /*#__PURE__*/React.createElement("label", null, "Prix / bouteille (\u20AC)"), /*#__PURE__*/React.createElement("input", {
+    type: "number",
+    min: "0",
+    step: "0.01",
+    value: f._prix !== undefined ? f._prix : (f.cote && f.cote.statut === "ok" && f.cote.valeur_eur != null ? f.cote.valeur_eur : ""),
+    onChange: e => set("_prix", e.target.value),
+    placeholder: "prix manuel"
   })), /*#__PURE__*/React.createElement("div", {
     className: "field"
   }, /*#__PURE__*/React.createElement("label", null, "Casier"), /*#__PURE__*/React.createElement("select", {
