@@ -14642,9 +14642,87 @@
         "url": "https://www.wine-searcher.com/find/dom+jean+claude+bachelet+le+charmois+st+aubin+premier+cru+cote+de+beaune+burgundy+france/2022/europe",
         "statut": "ok"
       }
+    },
+    {
+      "region": "Corse",
+      "domaine": "Antoine-Marie Arena",
+      "format": "75cl",
+      "apogeeDebut": null,
+      "apogeeFin": null,
+      "notes": null,
+      "casierId": "G-C2-R4",
+      "dateEntree": 1783429130487,
+      "movements": [],
+      "id": "amarena-carco-niellucciu-patrimonio-2023-gc2r4",
+      "cuvee": "Carco",
+      "appellation": "Patrimonio",
+      "couleur": "rouge",
+      "millesime": 2023,
+      "quantite": 2
+    },
+    {
+      "region": "Corse",
+      "domaine": "Antoine-Marie Arena",
+      "format": "75cl",
+      "apogeeDebut": null,
+      "apogeeFin": null,
+      "notes": null,
+      "casierId": "G-C2-R4",
+      "dateEntree": 1783429130487,
+      "movements": [],
+      "id": "amarena-morta-maio-patrimonio-2024-gc2r4",
+      "cuvee": "Morta Maiò",
+      "appellation": "Patrimonio",
+      "couleur": "rouge",
+      "millesime": 2024,
+      "quantite": 2
+    },
+    {
+      "region": "Corse",
+      "domaine": "Antoine-Marie Arena",
+      "format": "75cl",
+      "apogeeDebut": null,
+      "apogeeFin": null,
+      "notes": null,
+      "casierId": "G-C2-R4",
+      "dateEntree": 1783429130487,
+      "movements": [],
+      "id": "amarena-san-giovanni-vermentinu-patrimonio-2025-gc2r4",
+      "cuvee": "San Giovanni",
+      "appellation": "Patrimonio",
+      "couleur": "blanc",
+      "millesime": 2025,
+      "quantite": 2
     }
   ],
   "movements": [
+    {
+      "id": "imp-amarena-carco-niellucciu-patrimonio-2023-gc2r4",
+      "label": "Antoine-Marie Arena — Carco 2023",
+      "couleur": "rouge",
+      "addr": "G · C2 · R4",
+      "delta": 2,
+      "reason": "Import",
+      "ts": 1783429130487
+    },
+    {
+      "id": "imp-amarena-morta-maio-patrimonio-2024-gc2r4",
+      "label": "Antoine-Marie Arena — Morta Maiò 2024",
+      "couleur": "rouge",
+      "addr": "G · C2 · R4",
+      "delta": 2,
+      "reason": "Import",
+      "ts": 1783429130487
+    },
+    {
+      "id": "imp-amarena-san-giovanni-vermentinu-patrimonio-2025-gc2r4",
+      "label": "Antoine-Marie Arena — San Giovanni 2025",
+      "couleur": "blanc",
+      "addr": "G · C2 · R4",
+      "delta": 2,
+      "reason": "Import",
+      "ts": 1783429130487
+    },
     {
       "id": "g25ujj33",
       "label": "Casa Guelfucci — Sciaccarellu 2020",
@@ -19117,34 +19195,7 @@
       "delta": 2,
       "reason": "Import",
       "ts": 1749168000000
-    },
-    {
-      "id": "imp-amiot-servelle-chambolle-village-2021",
-      "label": "Amiot-Servelle — Chambolle-Musigny 2021",
-      "couleur": "rouge",
-      "addr": "F · C6 · R5",
-      "delta": 1,
-      "reason": "Import",
-      "ts": 1749168000000
-    },
-    {
-      "id": "imp-amiot-servelle-chambolle-village-2022",
-      "label": "Amiot-Servelle — Chambolle-Musigny 2022",
-      "couleur": "rouge",
-      "addr": "F · C6 · R5",
-      "delta": 1,
-      "reason": "Import",
-      "ts": 1749168000000
-    },
-    {
-      "id": "imp-amiot-servelle-msd-village-2020",
-      "label": "Amiot-Servelle — Morey-Saint-Denis 2020",
-      "couleur": "rouge",
-      "addr": "F · C6 · R5",
-      "delta": 1,
-      "reason": "Import",
-      "ts": 1749168000000
     }
   ],
-  "date": "2026-07-06T13:17:14.009Z"
+  "date": "2026-07-07T13:02:30.511Z"
 }
