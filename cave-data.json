@@ -14658,7 +14658,15 @@
       "appellation": "Patrimonio",
       "couleur": "rouge",
       "millesime": 2023,
-      "quantite": 2
+      "quantite": 2,
+      "cote": {
+        "valeur_eur": 25,
+        "devise": "EUR",
+        "source": "saisie manuelle",
+        "dateReleve": "2026-07-07",
+        "url": "",
+        "statut": "ok"
+      }
     },
     {
       "region": "Corse",
@@ -14675,7 +14683,15 @@
       "appellation": "Patrimonio",
       "couleur": "rouge",
       "millesime": 2024,
-      "quantite": 2
+      "quantite": 2,
+      "cote": {
+        "valeur_eur": 18,
+        "devise": "EUR",
+        "source": "saisie manuelle",
+        "dateReleve": "2026-07-07",
+        "url": "",
+        "statut": "ok"
+      }
     },
     {
       "region": "Corse",
@@ -14692,7 +14708,15 @@
       "appellation": "Patrimonio",
       "couleur": "blanc",
       "millesime": 2025,
-      "quantite": 2
+      "quantite": 2,
+      "cote": {
+        "valeur_eur": 16,
+        "devise": "EUR",
+        "source": "saisie manuelle",
+        "dateReleve": "2026-07-07",
+        "url": "",
+        "statut": "ok"
+      }
     }
   ],
   "movements": [
@@ -19197,5 +19221,5 @@
       "ts": 1749168000000
     }
   ],
-  "date": "2026-07-07T13:32:09.205Z"
+  "date": "2026-07-07T13:33:17.162Z"
 }
