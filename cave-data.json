@@ -12994,31 +12994,6 @@
       }
     },
     {
-      "id": "hgermain-meursault-closmouches-2020-r3",
-      "domaine": "Henri Germain et Fils",
-      "cuvee": "Clos des Mouches (Monopole)",
-      "appellation": "Meursault",
-      "region": "Bourgogne",
-      "millesime": "2020",
-      "couleur": "rouge",
-      "format": "75 cl",
-      "apogeeDebut": "",
-      "apogeeFin": "",
-      "notes": "Monopole",
-      "casierId": "D-C9-R3",
-      "quantite": 1,
-      "dateEntree": 1749168000000,
-      "cote": {
-        "valeur_eur": 113.47,
-        "devise": "EUR",
-        "source": "wine-searcher (calculateur de cave)",
-        "valeurLocation": "Europe (HT)",
-        "dateReleve": "2026-06-08T14:35:09.921Z",
-        "url": "https://www.wine-searcher.com/find/henri+germain+clos+de+mouches+rouge+cote+beaune+meursault+burgundy+france/2020/europe",
-        "statut": "ok"
-      }
-    },
-    {
       "id": "hgermain-chassagne-morgeot-fairendes-2018-r3",
       "domaine": "Henri Germain et Fils",
       "cuvee": "Morgeot 1er Cru Les Fairendes",
@@ -14720,6 +14695,15 @@
     }
   ],
   "movements": [
+    {
+      "id": "fpbokta3",
+      "label": "Henri Germain et Fils — Clos des Mouches (Monopole) 2020",
+      "couleur": "rouge",
+      "addr": "D · C9 · R3",
+      "delta": -1,
+      "reason": "Sortie",
+      "ts": 1783529138628
+    },
     {
       "id": "imp-amarena-carco-niellucciu-patrimonio-2023-gc2r4",
       "label": "Antoine-Marie Arena — Carco 2023",
@@ -19221,5 +19205,5 @@
       "ts": 1749168000000
     }
   ],
-  "date": "2026-07-07T13:33:17.162Z"
+  "date": "2026-07-08T16:45:45.794Z"
 }
