@@ -14119,31 +14119,6 @@
       }
     },
     {
-      "id": "bachelet-staubin-en-remilly-2016",
-      "domaine": "Jean-Claude Bachelet et Fils",
-      "cuvee": "1er Cru En Remilly",
-      "appellation": "Saint-Aubin",
-      "region": "Bourgogne",
-      "millesime": "2016",
-      "couleur": "blanc",
-      "format": "75 cl",
-      "apogeeDebut": "",
-      "apogeeFin": "",
-      "notes": "",
-      "casierId": "D-C11-R3",
-      "quantite": 1,
-      "dateEntree": 1749168000000,
-      "cote": {
-        "valeur_eur": 0,
-        "devise": "EUR",
-        "source": "wine-searcher (calculateur de cave)",
-        "valeurLocation": "Europe (HT)",
-        "dateReleve": "2026-06-08T14:35:09.921Z",
-        "url": "https://www.wine-searcher.com/find/dom+jean+claude+bachelet+remilly+st+aubin+premier+cru+cote+de+beaune+burgundy+france/2016/europe",
-        "statut": "ok"
-      }
-    },
-    {
       "id": "bachelet-staubin-en-remilly-2018",
       "domaine": "Jean-Claude Bachelet et Fils",
       "cuvee": "1er Cru En Remilly",
@@ -14695,6 +14670,15 @@
     }
   ],
   "movements": [
+    {
+      "id": "yw7j4qbw",
+      "label": "Jean-Claude Bachelet et Fils — 1er Cru En Remilly 2016",
+      "couleur": "blanc",
+      "addr": "D · C11 · R3",
+      "delta": -1,
+      "reason": "Sortie",
+      "ts": 1783967483979
+    },
     {
       "id": "fpbokta3",
       "label": "Henri Germain et Fils — Clos des Mouches (Monopole) 2020",
@@ -19194,16 +19178,7 @@
       "delta": 2,
       "reason": "Import",
       "ts": 1749168000000
-    },
-    {
-      "id": "imp-amiot-servelle-chambolle-plantes-2022",
-      "label": "Amiot-Servelle — 1er Cru Les Plantes 2022",
-      "couleur": "rouge",
-      "addr": "F · C6 · R5",
-      "delta": 2,
-      "reason": "Import",
-      "ts": 1749168000000
     }
   ],
-  "date": "2026-07-08T16:45:45.794Z"
+  "date": "2026-07-13T18:31:31.721Z"
 }
