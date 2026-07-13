@@ -12631,7 +12631,7 @@
       "apogeeFin": "",
       "notes": "",
       "casierId": "D-C9-R2",
-      "quantite": 3,
+      "quantite": 2,
       "dateEntree": 1749168000000,
       "cote": {
         "valeur_eur": 179.47,
@@ -14670,6 +14670,15 @@
     }
   ],
   "movements": [
+    {
+      "id": "90fosoks",
+      "label": "Henri Germain et Fils — Charmes 1er Cru 2016",
+      "couleur": "blanc",
+      "addr": "D · C9 · R2",
+      "delta": -1,
+      "reason": "Sortie",
+      "ts": 1783970671982
+    },
     {
       "id": "yw7j4qbw",
       "label": "Jean-Claude Bachelet et Fils — 1er Cru En Remilly 2016",
@@ -19169,16 +19178,7 @@
       "delta": 2,
       "reason": "Import",
       "ts": 1749168000000
-    },
-    {
-      "id": "imp-amiot-servelle-chambolle-plantes-2021",
-      "label": "Amiot-Servelle — 1er Cru Les Plantes 2021",
-      "couleur": "rouge",
-      "addr": "F · C6 · R5",
-      "delta": 2,
-      "reason": "Import",
-      "ts": 1749168000000
     }
   ],
-  "date": "2026-07-13T18:31:31.721Z"
+  "date": "2026-07-13T19:24:35.379Z"
 }
