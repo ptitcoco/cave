@@ -13256,7 +13256,7 @@
       "apogeeFin": "",
       "notes": "Romain et Damien Bouchard",
       "casierId": "D-C10-R1",
-      "quantite": 2,
+      "quantite": 1,
       "dateEntree": 1749168000000,
       "cote": {
         "valeur_eur": 0,
@@ -14645,6 +14645,15 @@
     }
   ],
   "movements": [
+    {
+      "id": "hjtz6ykk",
+      "label": "Domaine de l'Enclos — Chablis 2018",
+      "couleur": "blanc",
+      "addr": "D · C10 · R1",
+      "delta": -1,
+      "reason": "Sortie",
+      "ts": 1784032036097
+    },
     {
       "id": "b854tqyp",
       "label": "Georges Noëllat — Côte de Nuits Villages 2022",
@@ -19144,25 +19153,7 @@
       "delta": 1,
       "reason": "Import",
       "ts": 1749168000000
-    },
-    {
-      "id": "imp-amiot-servelle-chambolle-charmes-2019",
-      "label": "Amiot-Servelle — 1er Cru Les Charmes 2019",
-      "couleur": "rouge",
-      "addr": "F · C6 · R5",
-      "delta": 1,
-      "reason": "Import",
-      "ts": 1749168000000
-    },
-    {
-      "id": "imp-amiot-servelle-chambolle-charmes-2021",
-      "label": "Amiot-Servelle — 1er Cru Les Charmes 2021",
-      "couleur": "rouge",
-      "addr": "F · C6 · R5",
-      "delta": 1,
-      "reason": "Import",
-      "ts": 1749168000000
     }
   ],
-  "date": "2026-07-14T10:32:48.585Z"
+  "date": "2026-07-14T12:27:23.546Z"
 }
