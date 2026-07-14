@@ -7094,31 +7094,6 @@
       }
     },
     {
-      "id": "noellat-cdnv-2022",
-      "domaine": "Georges Noëllat",
-      "cuvee": "",
-      "appellation": "Côte de Nuits Villages",
-      "region": "Bourgogne",
-      "millesime": "2022",
-      "couleur": "rouge",
-      "format": "75 cl",
-      "apogeeDebut": "",
-      "apogeeFin": "",
-      "notes": "",
-      "casierId": "F-C1-R6",
-      "quantite": 2,
-      "dateEntree": 1749168000000,
-      "cote": {
-        "valeur_eur": 47.47,
-        "devise": "EUR",
-        "source": "wine-searcher (calculateur de cave)",
-        "valeurLocation": "Europe (HT)",
-        "dateReleve": "2026-06-08T14:35:09.921Z",
-        "url": "https://www.wine-searcher.com/find/dom+george+noellat+cote+de+nuit+village+burgundy+france/2022/europe",
-        "statut": "ok"
-      }
-    },
-    {
       "id": "noellat-gevrey-aux-echezeaux-2022",
       "domaine": "Georges Noëllat",
       "cuvee": "Aux Échezeaux",
@@ -14671,6 +14646,24 @@
   ],
   "movements": [
     {
+      "id": "b854tqyp",
+      "label": "Georges Noëllat — Côte de Nuits Villages 2022",
+      "couleur": "rouge",
+      "addr": "F · C1 · R6",
+      "delta": -1,
+      "reason": "Sortie",
+      "ts": 1784025161051
+    },
+    {
+      "id": "3d28woqr",
+      "label": "Georges Noëllat — Côte de Nuits Villages 2022",
+      "couleur": "rouge",
+      "addr": "F · C1 · R6",
+      "delta": -1,
+      "reason": "Sortie",
+      "ts": 1784025160888
+    },
+    {
       "id": "90fosoks",
       "label": "Henri Germain et Fils — Charmes 1er Cru 2016",
       "couleur": "blanc",
@@ -19169,16 +19162,7 @@
       "delta": 1,
       "reason": "Import",
       "ts": 1749168000000
-    },
-    {
-      "id": "imp-amiot-servelle-chambolle-charmes-2022",
-      "label": "Amiot-Servelle — 1er Cru Les Charmes 2022",
-      "couleur": "rouge",
-      "addr": "F · C6 · R5",
-      "delta": 2,
-      "reason": "Import",
-      "ts": 1749168000000
     }
   ],
-  "date": "2026-07-13T19:24:35.379Z"
+  "date": "2026-07-14T10:32:48.585Z"
 }
