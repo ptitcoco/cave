@@ -6756,7 +6756,7 @@
       "apogeeFin": "",
       "notes": "",
       "casierId": "F-C1-R3",
-      "quantite": 5,
+      "quantite": 4,
       "dateEntree": 1749168000000,
       "cote": {
         "valeur_eur": 100.73,
@@ -11981,7 +11981,7 @@
       "apogeeFin": "",
       "notes": "",
       "casierId": "D-C1-R2",
-      "quantite": 2,
+      "quantite": 1,
       "dateEntree": 1749168000000,
       "cote": {
         "valeur_eur": 61.37,
@@ -14645,6 +14645,24 @@
     }
   ],
   "movements": [
+    {
+      "id": "20gqtv37",
+      "label": "Albert Morot — 1er Cru Les Teurons 2021",
+      "couleur": "rouge",
+      "addr": "D · C1 · R2",
+      "delta": -1,
+      "reason": "Sortie",
+      "ts": 1784132977764
+    },
+    {
+      "id": "v1yic016",
+      "label": "Georges Noëllat — Vosne-Romanée 2018",
+      "couleur": "rouge",
+      "addr": "F · C1 · R3",
+      "delta": -1,
+      "reason": "Sortie",
+      "ts": 1784047444788
+    },
     {
       "id": "hjtz6ykk",
       "label": "Domaine de l'Enclos — Chablis 2018",
@@ -19135,25 +19153,7 @@
       "delta": 1,
       "reason": "Import",
       "ts": 1749168000000
-    },
-    {
-      "id": "imp-arlaud-msd-cheseaux-2022-r4",
-      "label": "Domaine Arlaud — 1er Cru Aux Cheseaux 2022",
-      "couleur": "rouge",
-      "addr": "F · C6 · R4",
-      "delta": 1,
-      "reason": "Import",
-      "ts": 1749168000000
-    },
-    {
-      "id": "imp-arlaud-msd-ruchots-2018-r4",
-      "label": "Domaine Arlaud — 1er Cru Les Ruchots 2018",
-      "couleur": "rouge",
-      "addr": "F · C6 · R4",
-      "delta": 1,
-      "reason": "Import",
-      "ts": 1749168000000
     }
   ],
-  "date": "2026-07-14T12:27:23.546Z"
+  "date": "2026-07-15T16:29:42.653Z"
 }
