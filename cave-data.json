@@ -19144,16 +19144,7 @@
       "delta": 1,
       "reason": "Import",
       "ts": 1749168000000
-    },
-    {
-      "id": "imp-arlaud-clos-roche-gc-2018",
-      "label": "Domaine Arlaud — Clos de la Roche Grand Cru 2018",
-      "couleur": "rouge",
-      "addr": "F · C6 · R4",
-      "delta": 1,
-      "reason": "Import",
-      "ts": 1749168000000
     }
   ],
-  "date": "2026-07-15T16:29:42.653Z"
+  "date": "2026-07-16T14:16:10.679Z"
 }
