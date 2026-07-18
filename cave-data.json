@@ -19119,16 +19119,7 @@
       "delta": 1,
       "reason": "Import",
       "ts": 1749168000000
-    },
-    {
-      "id": "imp-sigaut-chambolle-village-2018",
-      "label": "Domaine Anne et Hervé Sigaut — Chambolle-Musigny 2018",
-      "couleur": "rouge",
-      "addr": "F · C6 · R4",
-      "delta": 1,
-      "reason": "Import",
-      "ts": 1749168000000
     }
   ],
-  "date": "2026-07-18T16:51:42.230Z"
+  "date": "2026-07-18T17:01:50.968Z"
 }
