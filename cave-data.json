@@ -12394,31 +12394,6 @@
       }
     },
     {
-      "id": "hgermain-meursault-village-2015",
-      "domaine": "Henri Germain et Fils",
-      "cuvee": "",
-      "appellation": "Meursault",
-      "region": "Bourgogne",
-      "millesime": "2015",
-      "couleur": "blanc",
-      "format": "75 cl",
-      "apogeeDebut": "",
-      "apogeeFin": "",
-      "notes": "",
-      "casierId": "D-C9-R1",
-      "quantite": 1,
-      "dateEntree": 1749168000000,
-      "cote": {
-        "valeur_eur": 94.94,
-        "devise": "EUR",
-        "source": "wine-searcher (calculateur de cave)",
-        "valeurLocation": "Europe (HT)",
-        "dateReleve": "2026-06-08T14:35:09.921Z",
-        "url": "https://www.wine-searcher.com/find/henri+germain+meursault+cote+de+beaune+burgundy+france/2015/europe",
-        "statut": "ok"
-      }
-    },
-    {
       "id": "hgermain-meursault-chevalieres-2015",
       "domaine": "Henri Germain et Fils",
       "cuvee": "Chevalières",
@@ -14645,6 +14620,15 @@
     }
   ],
   "movements": [
+    {
+      "id": "vtn1lyhb",
+      "label": "Henri Germain et Fils — Meursault 2015",
+      "couleur": "blanc",
+      "addr": "D · C9 · R1",
+      "delta": -1,
+      "reason": "Sortie",
+      "ts": 1784393499235
+    },
     {
       "id": "20gqtv37",
       "label": "Albert Morot — 1er Cru Les Teurons 2021",
@@ -19146,5 +19130,5 @@
       "ts": 1749168000000
     }
   ],
-  "date": "2026-07-16T14:19:05.020Z"
+  "date": "2026-07-18T16:51:42.230Z"
 }
