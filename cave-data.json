@@ -7519,31 +7519,6 @@
       }
     },
     {
-      "id": "chevillon-nsg-chaignots-2015-fc3r2-b",
-      "domaine": "Domaine Robert Chevillon",
-      "cuvee": "1er Cru Les Chaignots",
-      "appellation": "Nuits-Saint-Georges",
-      "region": "Bourgogne",
-      "millesime": "2015",
-      "couleur": "rouge",
-      "format": "75 cl",
-      "apogeeDebut": "",
-      "apogeeFin": "",
-      "notes": "",
-      "casierId": "F-C3-R2",
-      "quantite": 1,
-      "dateEntree": 1749168000000,
-      "cote": {
-        "valeur_eur": 97.26,
-        "devise": "EUR",
-        "source": "wine-searcher (calculateur de cave)",
-        "valeurLocation": "Europe (HT)",
-        "dateReleve": "2026-06-08T14:35:09.921Z",
-        "url": "https://www.wine-searcher.com/find/dom+robert+chevillon+les+chaignots+nuit+st+george+aux+premier+cru+cote+de+burgundy+france/2015/europe",
-        "statut": "ok"
-      }
-    },
-    {
       "id": "chevillon-nsg-chaignots-2015-fc3r2-c",
       "domaine": "Domaine Robert Chevillon",
       "cuvee": "1er Cru Les Chaignots",
@@ -14621,6 +14596,15 @@
   ],
   "movements": [
     {
+      "id": "pggma9ko",
+      "label": "Domaine Robert Chevillon — 1er Cru Les Chaignots 2015",
+      "couleur": "rouge",
+      "addr": "F · C3 · R2",
+      "delta": -1,
+      "reason": "Sortie",
+      "ts": 1784739645014
+    },
+    {
       "id": "vtn1lyhb",
       "label": "Henri Germain et Fils — Meursault 2015",
       "couleur": "blanc",
@@ -19121,5 +19105,5 @@
       "ts": 1749168000000
     }
   ],
-  "date": "2026-07-18T17:01:50.968Z"
+  "date": "2026-07-22T17:00:48.305Z"
 }
