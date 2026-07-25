@@ -6694,31 +6694,6 @@
       }
     },
     {
-      "id": "noellat-echezeaux-gc-2016",
-      "domaine": "Georges Noëllat",
-      "cuvee": "Grand Cru",
-      "appellation": "Échezeaux",
-      "region": "Bourgogne",
-      "millesime": "2016",
-      "couleur": "rouge",
-      "format": "75 cl",
-      "apogeeDebut": "",
-      "apogeeFin": "",
-      "notes": "",
-      "casierId": "F-C1-R2",
-      "quantite": 1,
-      "dateEntree": 1749168000000,
-      "cote": {
-        "valeur_eur": 482.82,
-        "devise": "EUR",
-        "source": "wine-searcher (calculateur de cave)",
-        "valeurLocation": "Europe (HT)",
-        "dateReleve": "2026-06-08T14:35:09.921Z",
-        "url": "https://www.wine-searcher.com/find/dom+george+noellat+grand+cru+echezeaux+flagey+cote+de+nuit+burgundy+france/2016/europe",
-        "statut": "ok"
-      }
-    },
-    {
       "id": "noellat-vr-village-2018",
       "domaine": "Georges Noëllat",
       "cuvee": "",
@@ -9390,31 +9365,6 @@
         "valeurLocation": "Europe (HT)",
         "dateReleve": "2026-06-08T14:35:09.921Z",
         "url": "https://www.wine-searcher.com/find/dom+rossignol+trappet+petit+chapelle+gevrey+chambertin+premier+cru+cote+de+nuit+burgundy+france/2015/europe",
-        "statut": "ok"
-      }
-    },
-    {
-      "id": "bart-chambertin-clos-de-beze-gc-2017",
-      "domaine": "Domaine Bart",
-      "cuvee": "",
-      "appellation": "Chambertin Clos de Bèze",
-      "region": "Bourgogne",
-      "millesime": "2017",
-      "couleur": "rouge",
-      "format": "75 cl",
-      "apogeeDebut": "",
-      "apogeeFin": "",
-      "notes": "Grand Cru",
-      "casierId": "F-C5-R1",
-      "quantite": 1,
-      "dateEntree": 1749168000000,
-      "cote": {
-        "valeur_eur": 193.36,
-        "devise": "EUR",
-        "source": "wine-searcher (calculateur de cave)",
-        "valeurLocation": "Europe (HT)",
-        "dateReleve": "2026-06-08T14:35:09.921Z",
-        "url": "https://www.wine-searcher.com/find/dom+bart+grand+cru+cote+nuit+chambertin+clos+de+beze+gevrey+burgundy+france/2017/europe",
         "statut": "ok"
       }
     },
@@ -14546,6 +14496,24 @@
   ],
   "movements": [
     {
+      "id": "o5aq04li",
+      "label": "Georges Noëllat — Grand Cru 2016",
+      "couleur": "rouge",
+      "addr": "F · C1 · R2",
+      "delta": -1,
+      "reason": "Sortie",
+      "ts": 1785000102533
+    },
+    {
+      "id": "p0u76ofq",
+      "label": "Domaine Bart — Chambertin Clos de Bèze 2017",
+      "couleur": "rouge",
+      "addr": "F · C5 · R1",
+      "delta": -1,
+      "reason": "Sortie",
+      "ts": 1784999999376
+    },
+    {
       "id": "bxfx44tq",
       "label": "François Cotat — Les Culs de Beaujeu 2016",
       "couleur": "blanc",
@@ -19046,5 +19014,5 @@
       "ts": 1749168000000
     }
   ],
-  "date": "2026-07-25T17:14:38.634Z"
+  "date": "2026-07-25T17:21:45.302Z"
 }
