@@ -13506,7 +13506,7 @@
       "apogeeFin": "",
       "notes": "Chavignol",
       "casierId": "D-C10-R4",
-      "quantite": 2,
+      "quantite": 1,
       "dateEntree": 1749168000000,
       "cote": {
         "valeur_eur": 52.1,
@@ -14545,6 +14545,15 @@
     }
   ],
   "movements": [
+    {
+      "id": "bxfx44tq",
+      "label": "François Cotat — Les Culs de Beaujeu 2016",
+      "couleur": "blanc",
+      "addr": "D · C10 · R4",
+      "delta": -1,
+      "reason": "Sortie",
+      "ts": 1784999673622
+    },
     {
       "id": "uk1s6x5g",
       "label": "Henri Germain et Fils — Perrières 1er Cru 2016",
@@ -19035,25 +19044,7 @@
       "delta": 2,
       "reason": "Import",
       "ts": 1749168000000
-    },
-    {
-      "id": "imp-amiot-servelle-chambolle-plantes-2020",
-      "label": "Amiot-Servelle — 1er Cru Les Plantes 2020",
-      "couleur": "rouge",
-      "addr": "F · C6 · R5",
-      "delta": 1,
-      "reason": "Import",
-      "ts": 1749168000000
-    },
-    {
-      "id": "imp-amiot-servelle-chambolle-plantes-2023",
-      "label": "Amiot-Servelle — 1er Cru Les Plantes 2023",
-      "couleur": "rouge",
-      "addr": "F · C6 · R4",
-      "delta": 2,
-      "reason": "Import",
-      "ts": 1749168000000
     }
   ],
-  "date": "2026-07-25T10:30:58.626Z"
+  "date": "2026-07-25T17:14:38.634Z"
 }
