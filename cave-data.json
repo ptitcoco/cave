@@ -251,31 +251,6 @@
       }
     },
     {
-      "id": "droin-vaudesir-gc-2019",
-      "domaine": "Jean-Paul & Benoît Droin",
-      "cuvee": "Vaudésir",
-      "appellation": "Chablis Grand Cru",
-      "region": "Bourgogne",
-      "millesime": "2019",
-      "couleur": "blanc",
-      "format": "75 cl",
-      "apogeeDebut": "",
-      "apogeeFin": "",
-      "notes": "",
-      "casierId": "E-C1-R2",
-      "quantite": 1,
-      "dateEntree": 1780689515976,
-      "cote": {
-        "valeur_eur": 63.68,
-        "devise": "EUR",
-        "source": "wine-searcher (calculateur de cave)",
-        "valeurLocation": "Europe (HT)",
-        "dateReleve": "2026-06-08T14:35:09.921Z",
-        "url": "https://www.wine-searcher.com/find/jean+paul+benoit+droin+vaudesir+chablis+grand+cru+burgundy+france/2019/europe",
-        "statut": "ok"
-      }
-    },
-    {
       "id": "droin-valmur-2019",
       "domaine": "Jean-Paul & Benoît Droin",
       "cuvee": "Valmur",
@@ -12594,31 +12569,6 @@
       }
     },
     {
-      "id": "hgermain-meursault-perrieres-2016",
-      "domaine": "Henri Germain et Fils",
-      "cuvee": "Perrières 1er Cru",
-      "appellation": "Meursault",
-      "region": "Bourgogne",
-      "millesime": "2016",
-      "couleur": "blanc",
-      "format": "75 cl",
-      "apogeeDebut": "",
-      "apogeeFin": "",
-      "notes": "",
-      "casierId": "D-C9-R2",
-      "quantite": 1,
-      "dateEntree": 1749168000000,
-      "cote": {
-        "valeur_eur": 368.19,
-        "devise": "EUR",
-        "source": "wine-searcher (calculateur de cave)",
-        "valeurLocation": "Europe (HT)",
-        "dateReleve": "2026-06-08T14:35:09.921Z",
-        "url": "https://www.wine-searcher.com/find/henri+germain+perrier+meursault+premier+cru+cote+de+beaune+burgundy+france/2016",
-        "statut": "ok"
-      }
-    },
-    {
       "id": "hgermain-meursault-perrieres-2017",
       "domaine": "Henri Germain et Fils",
       "cuvee": "Perrières 1er Cru",
@@ -14595,6 +14545,24 @@
     }
   ],
   "movements": [
+    {
+      "id": "uk1s6x5g",
+      "label": "Henri Germain et Fils — Perrières 1er Cru 2016",
+      "couleur": "blanc",
+      "addr": "D · C9 · R2",
+      "delta": -1,
+      "reason": "Sortie",
+      "ts": 1784975456265
+    },
+    {
+      "id": "chzh0gg3",
+      "label": "Jean-Paul & Benoît Droin — Vaudésir 2019",
+      "couleur": "blanc",
+      "addr": "E · C1 · R2",
+      "delta": -1,
+      "reason": "Sortie",
+      "ts": 1784975376300
+    },
     {
       "id": "pggma9ko",
       "label": "Domaine Robert Chevillon — 1er Cru Les Chaignots 2015",
@@ -19085,25 +19053,7 @@
       "delta": 2,
       "reason": "Import",
       "ts": 1749168000000
-    },
-    {
-      "id": "imp-amiot-servelle-chambolle-village-2023",
-      "label": "Amiot-Servelle — Chambolle-Musigny 2023",
-      "couleur": "rouge",
-      "addr": "F · C6 · R4",
-      "delta": 1,
-      "reason": "Import",
-      "ts": 1749168000000
-    },
-    {
-      "id": "imp-amiot-servelle-msd-village-2023",
-      "label": "Amiot-Servelle — Morey-Saint-Denis 2023",
-      "couleur": "rouge",
-      "addr": "F · C6 · R4",
-      "delta": 1,
-      "reason": "Import",
-      "ts": 1749168000000
     }
   ],
-  "date": "2026-07-22T17:00:48.305Z"
+  "date": "2026-07-25T10:30:58.626Z"
 }
