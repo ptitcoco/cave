@@ -1320,31 +1320,6 @@
       "cote": null
     },
     {
-      "id": "casa-guelfucci-sciaccarellu-2021-gc1r1",
-      "domaine": "Casa Guelfucci",
-      "cuvee": "Sciaccarellu",
-      "appellation": "",
-      "region": "Corse",
-      "millesime": "2021",
-      "couleur": "rouge",
-      "format": "75 cl",
-      "apogeeDebut": "",
-      "apogeeFin": "",
-      "notes": "",
-      "casierId": "G-C1-R1",
-      "quantite": 1,
-      "dateEntree": 1780704000000,
-      "cote": {
-        "valeur_eur": null,
-        "devise": "EUR",
-        "source": "wine-searcher (calculateur de cave)",
-        "valeurLocation": "Europe (HT)",
-        "dateReleve": "2026-06-09T00:00:00.000Z",
-        "url": null,
-        "statut": "sans_prix"
-      }
-    },
-    {
       "id": "casa-guelfucci-sciaccarellu-2020-gc1r1",
       "domaine": "Casa Guelfucci",
       "cuvee": "Sciaccarellu",
@@ -14496,6 +14471,15 @@
   ],
   "movements": [
     {
+      "id": "s23fzp47",
+      "label": "Casa Guelfucci — Sciaccarellu 2021",
+      "couleur": "rouge",
+      "addr": "G · C1 · R1",
+      "delta": -1,
+      "reason": "Sortie",
+      "ts": 1785064883217
+    },
+    {
       "id": "o5aq04li",
       "label": "Georges Noëllat — Grand Cru 2016",
       "couleur": "rouge",
@@ -18994,25 +18978,7 @@
       "delta": 1,
       "reason": "Import",
       "ts": 1749168000000
-    },
-    {
-      "id": "imp-amiot-servelle-chambolle-charmes-2020",
-      "label": "Amiot-Servelle — 1er Cru Les Charmes 2020",
-      "couleur": "rouge",
-      "addr": "F · C6 · R4",
-      "delta": 2,
-      "reason": "Import",
-      "ts": 1749168000000
-    },
-    {
-      "id": "imp-amiot-servelle-chambolle-charmes-2023",
-      "label": "Amiot-Servelle — 1er Cru Les Charmes 2023",
-      "couleur": "rouge",
-      "addr": "F · C6 · R4",
-      "delta": 2,
-      "reason": "Import",
-      "ts": 1749168000000
     }
   ],
-  "date": "2026-07-25T17:21:45.302Z"
+  "date": "2026-07-26T11:21:25.985Z"
 }
