@@ -351,31 +351,6 @@
       }
     },
     {
-      "id": "droin-les-clos-2019",
-      "domaine": "Jean-Paul & Benoît Droin",
-      "cuvee": "Les Clos",
-      "appellation": "Chablis Grand Cru",
-      "region": "Bourgogne",
-      "millesime": "2019",
-      "couleur": "blanc",
-      "format": "75 cl",
-      "apogeeDebut": "",
-      "apogeeFin": "",
-      "notes": "",
-      "casierId": "E-C1-R2",
-      "quantite": 1,
-      "dateEntree": 1780689515976,
-      "cote": {
-        "valeur_eur": 114.63,
-        "devise": "EUR",
-        "source": "wine-searcher (calculateur de cave)",
-        "valeurLocation": "Europe (HT)",
-        "dateReleve": "2026-06-08T14:35:09.921Z",
-        "url": "https://www.wine-searcher.com/find/jean+paul+benoit+droin+les+clos+chablis+grand+cru+burgundy+france/2019/europe",
-        "statut": "ok"
-      }
-    },
-    {
       "id": "droin-montmains-2019",
       "domaine": "Jean-Paul & Benoît Droin",
       "cuvee": "Montmains",
@@ -12669,31 +12644,6 @@
       }
     },
     {
-      "id": "hgermain-meursault-perrieres-2017-r3",
-      "domaine": "Henri Germain et Fils",
-      "cuvee": "Perrières 1er Cru",
-      "appellation": "Meursault",
-      "region": "Bourgogne",
-      "millesime": "2017",
-      "couleur": "blanc",
-      "format": "75 cl",
-      "apogeeDebut": "",
-      "apogeeFin": "",
-      "notes": "",
-      "casierId": "D-C9-R3",
-      "quantite": 1,
-      "dateEntree": 1749168000000,
-      "cote": {
-        "valeur_eur": 310.3,
-        "devise": "EUR",
-        "source": "wine-searcher (calculateur de cave)",
-        "valeurLocation": "Europe (HT)",
-        "dateReleve": "2026-06-08T14:35:09.921Z",
-        "url": "https://www.wine-searcher.com/find/henri+germain+perrier+meursault+premier+cru+cote+de+beaune+burgundy+france/2017",
-        "statut": "ok"
-      }
-    },
-    {
       "id": "hgermain-meursault-perrieres-2018-r3",
       "domaine": "Henri Germain et Fils",
       "cuvee": "Perrières 1er Cru",
@@ -13540,31 +13490,6 @@
         "valeurLocation": "Europe (HT)",
         "dateReleve": "2026-06-08T14:35:09.921Z",
         "url": "https://www.wine-searcher.com/find/okonomierat+rebholz+kastanienbusch+riesling+grosses+gewachs+birkweiler+pfalz+germany/2022/europe",
-        "statut": "ok"
-      }
-    },
-    {
-      "id": "schafer-frohlich-felseneck-riesling-gg-2022",
-      "domaine": "Schäfer-Fröhlich",
-      "cuvee": "Felseneck Riesling GG",
-      "appellation": "Nahe",
-      "region": "Allemagne",
-      "millesime": "2022",
-      "couleur": "blanc",
-      "format": "75 cl",
-      "apogeeDebut": "",
-      "apogeeFin": "",
-      "notes": "Grosses Gewächs",
-      "casierId": "D-C10-R5",
-      "quantite": 1,
-      "dateEntree": 1749168000000,
-      "cote": {
-        "valeur_eur": 67.15,
-        "devise": "EUR",
-        "source": "wine-searcher (calculateur de cave)",
-        "valeurLocation": "Europe (HT)",
-        "dateReleve": "2026-06-08T14:35:09.921Z",
-        "url": "https://www.wine-searcher.com/find/schaef+frohlich+felseneck+riesling+grosses+gewachs+bockenau+nahe+germany/2022/europe",
         "statut": "ok"
       }
     },
@@ -14467,9 +14392,192 @@
         "url": "",
         "statut": "ok"
       }
+    },
+    {
+      "id": "gerin-champin-le-seigneur-2022-c3r1",
+      "domaine": "Jean-Michel Gerin",
+      "cuvee": "Champin le Seigneur",
+      "appellation": "Côte-Rôtie",
+      "region": "Rhône",
+      "millesime": 2022,
+      "couleur": "rouge",
+      "format": "75 cl",
+      "apogeeDebut": 2025,
+      "apogeeFin": 2034,
+      "notes": "",
+      "casierId": "G-C3-R1",
+      "quantite": 2,
+      "dateEntree": "2026-07-30",
+      "cote": null
+    },
+    {
+      "id": "gerin-la-vialliere-2022-c3r1",
+      "domaine": "Jean-Michel Gerin",
+      "cuvee": "La Viallière",
+      "appellation": "Côte-Rôtie",
+      "region": "Rhône",
+      "millesime": 2022,
+      "couleur": "rouge",
+      "format": "75 cl",
+      "apogeeDebut": 2027,
+      "apogeeFin": 2038,
+      "notes": "",
+      "casierId": "G-C3-R1",
+      "quantite": 2,
+      "dateEntree": "2026-07-30",
+      "cote": null
+    },
+    {
+      "id": "gerin-champin-le-seigneur-2023-c3r1",
+      "domaine": "Jean-Michel Gerin",
+      "cuvee": "Champin le Seigneur",
+      "appellation": "Côte-Rôtie",
+      "region": "Rhône",
+      "millesime": 2023,
+      "couleur": "rouge",
+      "format": "75 cl",
+      "apogeeDebut": 2026,
+      "apogeeFin": 2035,
+      "notes": "",
+      "casierId": "G-C3-R1",
+      "quantite": 2,
+      "dateEntree": "2026-07-30",
+      "cote": null
+    },
+    {
+      "id": "gerin-la-vialliere-2023-c3r1",
+      "domaine": "Jean-Michel Gerin",
+      "cuvee": "La Viallière",
+      "appellation": "Côte-Rôtie",
+      "region": "Rhône",
+      "millesime": 2023,
+      "couleur": "rouge",
+      "format": "75 cl",
+      "apogeeDebut": 2028,
+      "apogeeFin": 2039,
+      "notes": "",
+      "casierId": "G-C3-R1",
+      "quantite": 1,
+      "dateEntree": "2026-07-30",
+      "cote": null
+    },
+    {
+      "id": "ganevat-les-survivants-nv-c10r4",
+      "domaine": "Jean-François Ganevat",
+      "cuvee": "Les Survivants",
+      "appellation": "Côtes du Jura",
+      "region": "Jura",
+      "millesime": null,
+      "couleur": "blanc",
+      "format": "75 cl",
+      "apogeeDebut": null,
+      "apogeeFin": null,
+      "notes": "Millésime non visible sur la photo (contre-étiquette non photographiée)",
+      "casierId": "D-C10-R4",
+      "quantite": 1,
+      "dateEntree": "2026-07-30",
+      "cote": null
+    },
+    {
+      "id": "ganevat-les-varrons-vv-nv-c10r4",
+      "domaine": "Jean-François Ganevat",
+      "cuvee": "Les Varrons Vieilles Vignes",
+      "appellation": "Côtes du Jura",
+      "region": "Jura",
+      "millesime": null,
+      "couleur": "blanc",
+      "format": "75 cl",
+      "apogeeDebut": null,
+      "apogeeFin": null,
+      "notes": "Millésime non visible sur la photo (contre-étiquette non photographiée) ; 100% Chardonnay",
+      "casierId": "D-C10-R4",
+      "quantite": 1,
+      "dateEntree": "2026-07-30",
+      "cote": null
     }
   ],
   "movements": [
+    {
+      "id": "imp-ganevat-les-survivants-nv-c10r4",
+      "label": "Jean-François Ganevat — Les Survivants",
+      "couleur": "blanc",
+      "addr": "D · C10 · R4",
+      "delta": 1,
+      "reason": "Import",
+      "ts": "2026-07-30"
+    },
+    {
+      "id": "imp-ganevat-les-varrons-vv-nv-c10r4",
+      "label": "Jean-François Ganevat — Les Varrons Vieilles Vignes",
+      "couleur": "blanc",
+      "addr": "D · C10 · R4",
+      "delta": 1,
+      "reason": "Import",
+      "ts": "2026-07-30"
+    },
+    {
+      "id": "imp-gerin-champin-le-seigneur-2022-c3r1",
+      "label": "Jean-Michel Gerin — Champin le Seigneur 2022",
+      "couleur": "rouge",
+      "addr": "G · C3 · R1",
+      "delta": 2,
+      "reason": "Import",
+      "ts": "2026-07-30"
+    },
+    {
+      "id": "imp-gerin-la-vialliere-2022-c3r1",
+      "label": "Jean-Michel Gerin — La Viallière 2022",
+      "couleur": "rouge",
+      "addr": "G · C3 · R1",
+      "delta": 2,
+      "reason": "Import",
+      "ts": "2026-07-30"
+    },
+    {
+      "id": "imp-gerin-champin-le-seigneur-2023-c3r1",
+      "label": "Jean-Michel Gerin — Champin le Seigneur 2023",
+      "couleur": "rouge",
+      "addr": "G · C3 · R1",
+      "delta": 2,
+      "reason": "Import",
+      "ts": "2026-07-30"
+    },
+    {
+      "id": "imp-gerin-la-vialliere-2023-c3r1",
+      "label": "Jean-Michel Gerin — La Viallière 2023",
+      "couleur": "rouge",
+      "addr": "G · C3 · R1",
+      "delta": 1,
+      "reason": "Import",
+      "ts": "2026-07-30"
+    },
+    {
+      "id": "yn6hh5ir",
+      "label": "Henri Germain et Fils — Perrières 1er Cru 2017",
+      "couleur": "blanc",
+      "addr": "D · C9 · R3",
+      "delta": -1,
+      "reason": "Sortie",
+      "ts": 1785330200021
+    },
+    {
+      "id": "om3vvkba",
+      "label": "Jean-Paul & Benoît Droin — Les Clos 2019",
+      "couleur": "blanc",
+      "addr": "E · C1 · R2",
+      "delta": -1,
+      "reason": "Sortie",
+      "ts": 1785329861062
+    },
+    {
+      "id": "fl7bqniv",
+      "label": "Schäfer-Fröhlich — Felseneck Riesling GG 2022",
+      "couleur": "blanc",
+      "addr": "D · C10 · R5",
+      "delta": -1,
+      "reason": "Sortie",
+      "ts": 1785329812319
+    },
     {
       "id": "s23fzp47",
       "label": "Casa Guelfucci — Sciaccarellu 2021",
@@ -18888,97 +18996,7 @@
       "delta": 1,
       "reason": "Import",
       "ts": 1749168000000
-    },
-    {
-      "id": "imp-arlaud-msd-ruchots-1er-2020-r2",
-      "label": "Domaine Arlaud — 1er Cru Les Ruchots 2020",
-      "couleur": "rouge",
-      "addr": "F · C6 · R2",
-      "delta": 1,
-      "reason": "Import",
-      "ts": 1749168000000
-    },
-    {
-      "id": "imp-arlaud-msd-blanchards-2022",
-      "label": "Domaine Arlaud — 1er Cru Les Blanchards 2022",
-      "couleur": "rouge",
-      "addr": "F · C6 · R3",
-      "delta": 1,
-      "reason": "Import",
-      "ts": 1749168000000
-    },
-    {
-      "id": "imp-arlaud-msd-village-2022-a",
-      "label": "Domaine Arlaud — Morey-Saint-Denis 2022",
-      "couleur": "rouge",
-      "addr": "F · C6 · R3",
-      "delta": 2,
-      "reason": "Import",
-      "ts": 1749168000000
-    },
-    {
-      "id": "imp-arlaud-msd-village-2021",
-      "label": "Domaine Arlaud — Morey-Saint-Denis 2021",
-      "couleur": "rouge",
-      "addr": "F · C6 · R3",
-      "delta": 2,
-      "reason": "Import",
-      "ts": 1749168000000
-    },
-    {
-      "id": "imp-arlaud-msd-village-2018",
-      "label": "Domaine Arlaud — Morey-Saint-Denis 2018",
-      "couleur": "rouge",
-      "addr": "F · C6 · R3",
-      "delta": 1,
-      "reason": "Import",
-      "ts": 1749168000000
-    },
-    {
-      "id": "imp-arlaud-clos-roche-gc-2019",
-      "label": "Domaine Arlaud — Clos de la Roche Grand Cru 2019",
-      "couleur": "rouge",
-      "addr": "F · C6 · R3",
-      "delta": 1,
-      "reason": "Import",
-      "ts": 1749168000000
-    },
-    {
-      "id": "imp-arlaud-msd-cheseaux-2021",
-      "label": "Domaine Arlaud — 1er Cru Aux Cheseaux 2021",
-      "couleur": "rouge",
-      "addr": "F · C6 · R3",
-      "delta": 2,
-      "reason": "Import",
-      "ts": 1749168000000
-    },
-    {
-      "id": "imp-arlaud-msd-cheseaux-2018",
-      "label": "Domaine Arlaud — 1er Cru Aux Cheseaux 2018",
-      "couleur": "rouge",
-      "addr": "F · C6 · R3",
-      "delta": 2,
-      "reason": "Import",
-      "ts": 1749168000000
-    },
-    {
-      "id": "imp-arlaud-msd-ruchots-2021",
-      "label": "Domaine Arlaud — 1er Cru Les Ruchots 2021",
-      "couleur": "rouge",
-      "addr": "F · C6 · R3",
-      "delta": 1,
-      "reason": "Import",
-      "ts": 1749168000000
-    },
-    {
-      "id": "imp-arlaud-msd-ruchots-2018",
-      "label": "Domaine Arlaud — 1er Cru Les Ruchots 2018",
-      "couleur": "rouge",
-      "addr": "F · C6 · R3",
-      "delta": 1,
-      "reason": "Import",
-      "ts": 1749168000000
     }
   ],
-  "date": "2026-07-26T11:21:25.985Z"
+  "date": "2026-07-30T06:52:34.780Z"
 }
