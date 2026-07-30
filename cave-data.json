@@ -14467,7 +14467,7 @@
       "cuvee": "Les Survivants",
       "appellation": "Côtes du Jura",
       "region": "Jura",
-      "millesime": null,
+      "millesime": "2021",
       "couleur": "blanc",
       "format": "75 cl",
       "apogeeDebut": null,
@@ -14484,7 +14484,7 @@
       "cuvee": "Les Varrons Vieilles Vignes",
       "appellation": "Côtes du Jura",
       "region": "Jura",
-      "millesime": null,
+      "millesime": "2020",
       "couleur": "blanc",
       "format": "75 cl",
       "apogeeDebut": null,
@@ -18998,5 +18998,5 @@
       "ts": 1749168000000
     }
   ],
-  "date": "2026-07-30T06:52:34.780Z"
+  "date": "2026-07-30T06:55:32.928Z"
 }
