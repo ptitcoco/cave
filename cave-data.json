@@ -7594,31 +7594,6 @@
       }
     },
     {
-      "id": "chevillon-nsg-cailles-2015-fc3r2-a",
-      "domaine": "Domaine Robert Chevillon",
-      "cuvee": "1er Cru Les Cailles",
-      "appellation": "Nuits-Saint-Georges",
-      "region": "Bourgogne",
-      "millesime": "2015",
-      "couleur": "rouge",
-      "format": "75 cl",
-      "apogeeDebut": "",
-      "apogeeFin": "",
-      "notes": "",
-      "casierId": "F-C3-R2",
-      "quantite": 1,
-      "dateEntree": 1749168000000,
-      "cote": {
-        "valeur_eur": 110,
-        "devise": "EUR",
-        "source": "wine-searcher (calculateur de cave)",
-        "valeurLocation": "Europe (HT)",
-        "dateReleve": "2026-06-08T14:35:09.921Z",
-        "url": "https://www.wine-searcher.com/find/dom+robert+chevillon+les+cailles+nuit+st+george+premier+cru+cote+de+burgundy+france/2015/europe",
-        "statut": "ok"
-      }
-    },
-    {
       "id": "chevillon-nsg-cailles-2015-fc3r2-b",
       "domaine": "Domaine Robert Chevillon",
       "cuvee": "1er Cru Les Cailles",
@@ -12731,7 +12706,7 @@
       "apogeeFin": "",
       "notes": "",
       "casierId": "D-C9-R3",
-      "quantite": 2,
+      "quantite": 1,
       "dateEntree": 1749168000000,
       "cote": {
         "valeur_eur": 129.68,
@@ -13531,7 +13506,7 @@
       "apogeeFin": "",
       "notes": "Millésime non visible sur photo",
       "casierId": "D-C11-R1",
-      "quantite": 10,
+      "quantite": 9,
       "dateEntree": 1749168000000,
       "cote": {
         "valeur_eur": 46.31,
@@ -14497,6 +14472,33 @@
     }
   ],
   "movements": [
+    {
+      "id": "x6pj4v11",
+      "label": "Domaine Sylvain Langoureau — 1er Cru En Remilly",
+      "couleur": "blanc",
+      "addr": "D · C11 · R1",
+      "delta": -1,
+      "reason": "Sortie",
+      "ts": 1785518948533
+    },
+    {
+      "id": "7msgjt8e",
+      "label": "Henri Germain et Fils — Limozin 2017",
+      "couleur": "blanc",
+      "addr": "D · C9 · R3",
+      "delta": -1,
+      "reason": "Sortie",
+      "ts": 1785518774382
+    },
+    {
+      "id": "p996j5ph",
+      "label": "Domaine Robert Chevillon — 1er Cru Les Cailles 2015",
+      "couleur": "rouge",
+      "addr": "F · C3 · R2",
+      "delta": -1,
+      "reason": "Sortie",
+      "ts": 1785432459844
+    },
     {
       "id": "imp-ganevat-les-survivants-nv-c10r4",
       "label": "Jean-François Ganevat — Les Survivants",
@@ -18969,34 +18971,7 @@
       "delta": 1,
       "reason": "Import",
       "ts": 1749168000000
-    },
-    {
-      "id": "imp-arlaud-msd-ruchots-1er-2019-r2",
-      "label": "Domaine Arlaud — 1er Cru Les Ruchots 2019",
-      "couleur": "rouge",
-      "addr": "F · C6 · R2",
-      "delta": 1,
-      "reason": "Import",
-      "ts": 1749168000000
-    },
-    {
-      "id": "imp-arlaud-msd-cheseaux-1er-2019-r2",
-      "label": "Domaine Arlaud — 1er Cru Aux Cheseaux 2019",
-      "couleur": "rouge",
-      "addr": "F · C6 · R2",
-      "delta": 1,
-      "reason": "Import",
-      "ts": 1749168000000
-    },
-    {
-      "id": "imp-arlaud-msd-village-2020-r2",
-      "label": "Domaine Arlaud — Morey-Saint-Denis 2020",
-      "couleur": "rouge",
-      "addr": "F · C6 · R2",
-      "delta": 1,
-      "reason": "Import",
-      "ts": 1749168000000
     }
   ],
-  "date": "2026-07-30T06:55:32.928Z"
+  "date": "2026-07-31T17:29:12.981Z"
 }
