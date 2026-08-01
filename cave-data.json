@@ -2718,31 +2718,6 @@
       }
     },
     {
-      "id": "chateau-des-tours-cdr-reserve-2017",
-      "domaine": "Château des Tours",
-      "cuvee": "Réserve",
-      "appellation": "Côtes-du-Rhône",
-      "region": "Vallée du Rhône",
-      "millesime": "2017",
-      "couleur": "rouge",
-      "format": "75 cl",
-      "apogeeDebut": "",
-      "apogeeFin": "",
-      "notes": "",
-      "casierId": "G-C4-R3",
-      "quantite": 1,
-      "dateEntree": 1749168000000,
-      "cote": {
-        "valeur_eur": 134.31,
-        "devise": "EUR",
-        "source": "wine-searcher (calculateur de cave)",
-        "valeurLocation": "Europe (HT)",
-        "dateReleve": "2026-06-09T00:00:00.000Z",
-        "url": "https://www.wine-searcher.com/find/rayas+de+tour+rouge+rsrv+cote+du+rhone+france/2017/europe",
-        "statut": "ok"
-      }
-    },
-    {
       "id": "chateau-des-tours-cdr-reserve-2018",
       "domaine": "Château des Tours",
       "cuvee": "Réserve",
@@ -3497,7 +3472,7 @@
       "apogeeFin": "",
       "notes": "",
       "casierId": "G-C4-R5",
-      "quantite": 2,
+      "quantite": 1,
       "dateEntree": 1749168000000,
       "cote": {
         "valeur_eur": 172.52,
@@ -14473,6 +14448,24 @@
   ],
   "movements": [
     {
+      "id": "lew5kjox",
+      "label": "Château des Tours — Réserve 2017",
+      "couleur": "rouge",
+      "addr": "G · C4 · R3",
+      "delta": -1,
+      "reason": "Sortie",
+      "ts": 1785585710175
+    },
+    {
+      "id": "3myoxasy",
+      "label": "Château des Tours — Réserve 2016",
+      "couleur": "rouge",
+      "addr": "G · C4 · R5",
+      "delta": -1,
+      "reason": "Sortie",
+      "ts": 1785577955408
+    },
+    {
       "id": "x6pj4v11",
       "label": "Domaine Sylvain Langoureau — 1er Cru En Remilly",
       "couleur": "blanc",
@@ -18962,16 +18955,7 @@
       "delta": 1,
       "reason": "Import",
       "ts": 1749168000000
-    },
-    {
-      "id": "imp-arlaud-msd-village-2019-r2",
-      "label": "Domaine Arlaud — Morey-Saint-Denis 2019",
-      "couleur": "rouge",
-      "addr": "F · C6 · R2",
-      "delta": 1,
-      "reason": "Import",
-      "ts": 1749168000000
     }
   ],
-  "date": "2026-07-31T17:29:12.981Z"
+  "date": "2026-08-01T12:01:51.955Z"
 }
