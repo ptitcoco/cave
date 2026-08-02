@@ -238,7 +238,7 @@
       "apogeeFin": "",
       "notes": "",
       "casierId": "E-C1-R2",
-      "quantite": 2,
+      "quantite": 1,
       "dateEntree": 1780689515976,
       "cote": {
         "valeur_eur": 50.95,
@@ -14448,6 +14448,15 @@
   ],
   "movements": [
     {
+      "id": "jjseqr6v",
+      "label": "Jean-Paul & Benoît Droin — Mont de Milieu 2019",
+      "couleur": "blanc",
+      "addr": "E · C1 · R2",
+      "delta": -1,
+      "reason": "Sortie",
+      "ts": 1785688416913
+    },
+    {
       "id": "lew5kjox",
       "label": "Château des Tours — Réserve 2017",
       "couleur": "rouge",
@@ -18948,5 +18957,5 @@
       "ts": 1749168000000
     }
   ],
-  "date": "2026-08-01T19:16:43.772Z"
+  "date": "2026-08-02T16:33:46.625Z"
 }
