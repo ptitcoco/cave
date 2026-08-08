@@ -6006,7 +6006,7 @@
       "apogeeFin": "",
       "notes": "",
       "casierId": "G-C9-R5",
-      "quantite": 2,
+      "quantite": 1,
       "dateEntree": 1749168000000,
       "cote": {
         "valeur_eur": 97.26,
@@ -14448,6 +14448,15 @@
   ],
   "movements": [
     {
+      "id": "pwzfgsfn",
+      "label": "Domaine Marc Roy — Vieilles Vignes 2020",
+      "couleur": "rouge",
+      "addr": "G · C9 · R5",
+      "delta": -1,
+      "reason": "Sortie",
+      "ts": 1786210603466
+    },
+    {
       "id": "jjseqr6v",
       "label": "Jean-Paul & Benoît Droin — Mont de Milieu 2019",
       "couleur": "blanc",
@@ -18946,16 +18955,7 @@
       "delta": 1,
       "reason": "Import",
       "ts": 1749168000000
-    },
-    {
-      "id": "imp-arlaud-msd-ruchots-1er-2017",
-      "label": "Domaine Arlaud — 1er Cru Les Ruchots 2017",
-      "couleur": "rouge",
-      "addr": "F · C6 · R2",
-      "delta": 1,
-      "reason": "Import",
-      "ts": 1749168000000
     }
   ],
-  "date": "2026-08-02T16:33:46.625Z"
+  "date": "2026-08-08T17:36:48.275Z"
 }
