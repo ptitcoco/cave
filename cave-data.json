@@ -11369,31 +11369,6 @@
       }
     },
     {
-      "id": "amiot-servelle-msd-village-2020",
-      "domaine": "Amiot-Servelle",
-      "cuvee": "",
-      "appellation": "Morey-Saint-Denis",
-      "region": "Bourgogne",
-      "millesime": "2020",
-      "couleur": "rouge",
-      "format": "75 cl",
-      "apogeeDebut": "",
-      "apogeeFin": "",
-      "notes": "",
-      "casierId": "F-C6-R5",
-      "quantite": 1,
-      "dateEntree": 1749168000000,
-      "cote": {
-        "valeur_eur": 0,
-        "devise": "EUR",
-        "source": "wine-searcher (calculateur de cave)",
-        "valeurLocation": "Europe (HT)",
-        "dateReleve": "2026-06-08T14:35:09.921Z",
-        "url": "https://www.wine-searcher.com/find/dom+amiot+servelle+morey+st+denis+cote+de+nuit+burgundy+france/2020/europe",
-        "statut": "ok"
-      }
-    },
-    {
       "id": "amiot-servelle-msd-village-2022",
       "domaine": "Amiot-Servelle",
       "cuvee": "",
@@ -14447,6 +14422,15 @@
     }
   ],
   "movements": [
+    {
+      "id": "2083cmb9",
+      "label": "Amiot-Servelle — Morey-Saint-Denis 2020",
+      "couleur": "rouge",
+      "addr": "F · C6 · R5",
+      "delta": -1,
+      "reason": "Sortie",
+      "ts": 1786286534491
+    },
     {
       "id": "pwzfgsfn",
       "label": "Domaine Marc Roy — Vieilles Vignes 2020",
@@ -18937,25 +18921,7 @@
       "delta": 1,
       "reason": "Import",
       "ts": 1749168000000
-    },
-    {
-      "id": "imp-arlaud-msd-ruchots-1er-2016",
-      "label": "Domaine Arlaud — 1er Cru Les Ruchots 2016",
-      "couleur": "rouge",
-      "addr": "F · C6 · R2",
-      "delta": 1,
-      "reason": "Import",
-      "ts": 1749168000000
-    },
-    {
-      "id": "imp-arlaud-clos-roche-gc-2017",
-      "label": "Domaine Arlaud — Clos de la Roche 2017",
-      "couleur": "rouge",
-      "addr": "F · C6 · R2",
-      "delta": 1,
-      "reason": "Import",
-      "ts": 1749168000000
     }
   ],
-  "date": "2026-08-08T17:36:48.275Z"
+  "date": "2026-08-09T14:42:18.755Z"
 }
