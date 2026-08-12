@@ -888,7 +888,7 @@
       "apogeeFin": "",
       "notes": "",
       "casierId": "E-C5-R2",
-      "quantite": 11,
+      "quantite": 10,
       "dateEntree": 1780691156063,
       "cote": {
         "valeur_eur": 47.47,
@@ -14423,6 +14423,15 @@
   ],
   "movements": [
     {
+      "id": "amm7mkay",
+      "label": "Château Haut-Marbuzet — Saint-Estèphe 2016",
+      "couleur": "rouge",
+      "addr": "E · C5 · R2",
+      "delta": -1,
+      "reason": "Sortie",
+      "ts": 1786536513946
+    },
+    {
       "id": "2083cmb9",
       "label": "Amiot-Servelle — Morey-Saint-Denis 2020",
       "couleur": "rouge",
@@ -18912,16 +18921,7 @@
       "delta": 1,
       "reason": "Import",
       "ts": 1749168000000
-    },
-    {
-      "id": "imp-arlaud-clos-roche-gc-2016",
-      "label": "Domaine Arlaud — Clos de la Roche 2016",
-      "couleur": "rouge",
-      "addr": "F · C6 · R2",
-      "delta": 1,
-      "reason": "Import",
-      "ts": 1749168000000
     }
   ],
-  "date": "2026-08-09T14:42:18.755Z"
+  "date": "2026-08-12T12:08:40.785Z"
 }
