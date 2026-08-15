@@ -2142,31 +2142,6 @@
       }
     },
     {
-      "id": "ogier-village-2013",
-      "domaine": "M&S Ogier d'Ampuis",
-      "cuvee": "Village",
-      "appellation": "Côte-Rôtie",
-      "region": "Vallée du Rhône",
-      "millesime": "2013",
-      "couleur": "rouge",
-      "format": "75 cl",
-      "apogeeDebut": "",
-      "apogeeFin": "",
-      "notes": "",
-      "casierId": "G-C3-R3",
-      "quantite": 1,
-      "dateEntree": 1780725627159,
-      "cote": {
-        "valeur_eur": 41.68,
-        "devise": "EUR",
-        "source": "wine-searcher (calculateur de cave)",
-        "valeurLocation": "Europe (HT)",
-        "dateReleve": "2026-06-09T00:00:00.000Z",
-        "url": "https://www.wine-searcher.com/find/michel+stephan+ogier+d+ampuis+le+village+cote+rotie+rhone+france/2013/europe",
-        "statut": "ok"
-      }
-    },
-    {
       "id": "ogier-reserve-2014",
       "domaine": "Stéphane Ogier",
       "cuvee": "Réserve",
@@ -14423,6 +14398,15 @@
   ],
   "movements": [
     {
+      "id": "abpz1306",
+      "label": "M&S Ogier d'Ampuis — Village 2013",
+      "couleur": "rouge",
+      "addr": "G · C3 · R3",
+      "delta": -1,
+      "reason": "Sortie",
+      "ts": 1786788611594
+    },
+    {
       "id": "amm7mkay",
       "label": "Château Haut-Marbuzet — Saint-Estèphe 2016",
       "couleur": "rouge",
@@ -18923,5 +18907,5 @@
       "ts": 1749168000000
     }
   ],
-  "date": "2026-08-12T12:08:40.785Z"
+  "date": "2026-08-15T10:10:13.930Z"
 }
