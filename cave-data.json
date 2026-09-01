@@ -1497,23 +1497,6 @@
       "cote": null
     },
     {
-      "id": "granit-2023-blanc-gc2r1",
-      "domaine": "Domaine de Vaccelli",
-      "cuvee": "Granit",
-      "appellation": "Ajaccio",
-      "region": "Corse",
-      "millesime": "2023",
-      "couleur": "blanc",
-      "format": "75 cl",
-      "apogeeDebut": "",
-      "apogeeFin": "",
-      "notes": "Vermentinu · 14% · verre vert",
-      "casierId": "G-C2-R1",
-      "quantite": 1,
-      "dateEntree": 1780722766077,
-      "cote": null
-    },
-    {
       "id": "vaccelli-2022-rouge-gc2r1",
       "domaine": "Domaine de Vaccelli",
       "cuvee": "Vaccelli",
@@ -6569,31 +6552,6 @@
       }
     },
     {
-      "id": "noellat-vr-village-2017",
-      "domaine": "Georges Noëllat",
-      "cuvee": "",
-      "appellation": "Vosne-Romanée",
-      "region": "Bourgogne",
-      "millesime": "2017",
-      "couleur": "rouge",
-      "format": "75 cl",
-      "apogeeDebut": "",
-      "apogeeFin": "",
-      "notes": "",
-      "casierId": "F-C1-R2",
-      "quantite": 1,
-      "dateEntree": 1749168000000,
-      "cote": {
-        "valeur_eur": 88,
-        "devise": "EUR",
-        "source": "wine-searcher (calculateur de cave)",
-        "valeurLocation": "Europe (HT)",
-        "dateReleve": "2026-06-08T14:35:09.921Z",
-        "url": "https://www.wine-searcher.com/find/dom+george+noellat+vosne+romanee+cote+de+nuit+burgundy+france/2017/europe",
-        "statut": "ok"
-      }
-    },
-    {
       "id": "noellat-vr-village-2018",
       "domaine": "Georges Noëllat",
       "cuvee": "",
@@ -11531,7 +11489,7 @@
       "apogeeFin": "",
       "notes": "",
       "casierId": "D-C1-R1",
-      "quantite": 2,
+      "quantite": 1,
       "dateEntree": 1749168000000,
       "cote": {
         "valeur_eur": 61.37,
@@ -11844,31 +11802,6 @@
       }
     },
     {
-      "id": "bart-marsannay-longeroies-2016",
-      "domaine": "Domaine Bart",
-      "cuvee": "Les Longeroies",
-      "appellation": "Marsannay",
-      "region": "Bourgogne",
-      "millesime": "2016",
-      "couleur": "rouge",
-      "format": "75 cl",
-      "apogeeDebut": "",
-      "apogeeFin": "",
-      "notes": "",
-      "casierId": "D-C1-R4",
-      "quantite": 1,
-      "dateEntree": 1749168000000,
-      "cote": {
-        "valeur_eur": 33.58,
-        "devise": "EUR",
-        "source": "wine-searcher (calculateur de cave)",
-        "valeurLocation": "Europe (HT)",
-        "dateReleve": "2026-06-08T14:35:09.921Z",
-        "url": "https://www.wine-searcher.com/find/dom+bart+la+longeroie+marsannay+cote+de+nuit+burgundy+france/2016/europe",
-        "statut": "ok"
-      }
-    },
-    {
       "id": "bart-marsannay-longeroies-2017",
       "domaine": "Domaine Bart",
       "cuvee": "Les Longeroies",
@@ -12131,7 +12064,7 @@
       "apogeeFin": "",
       "notes": "",
       "casierId": "D-C9-R1",
-      "quantite": 3,
+      "quantite": 2,
       "dateEntree": 1749168000000,
       "cote": {
         "valeur_eur": 91.47,
@@ -14397,6 +14330,51 @@
     }
   ],
   "movements": [
+    {
+      "id": "tgukv1qv",
+      "label": "Henri Germain et Fils — Limozin 2018",
+      "couleur": "blanc",
+      "addr": "D · C9 · R1",
+      "delta": -1,
+      "reason": "Sortie",
+      "ts": 1788281759487
+    },
+    {
+      "id": "ffl30f30",
+      "label": "Domaine Bart — Les Longeroies 2016",
+      "couleur": "rouge",
+      "addr": "D · C1 · R4",
+      "delta": -1,
+      "reason": "Sortie",
+      "ts": 1786901209083
+    },
+    {
+      "id": "lglkj0yy",
+      "label": "Georges Noëllat — Vosne-Romanée 2017",
+      "couleur": "rouge",
+      "addr": "F · C1 · R2",
+      "delta": -1,
+      "reason": "Sortie",
+      "ts": 1786901151627
+    },
+    {
+      "id": "ws3382dy",
+      "label": "Domaine de Vaccelli — Granit 2023",
+      "couleur": "blanc",
+      "addr": "G · C2 · R1",
+      "delta": -1,
+      "reason": "Sortie",
+      "ts": 1786901027652
+    },
+    {
+      "id": "x4sfve7t",
+      "label": "Albert Morot — 1er Cru Les Grèves 2018",
+      "couleur": "rouge",
+      "addr": "D · C1 · R1",
+      "delta": -1,
+      "reason": "Sortie",
+      "ts": 1786882799720
+    },
     {
       "id": "abpz1306",
       "label": "M&S Ogier d'Ampuis — Village 2013",
@@ -18860,52 +18838,7 @@
       "delta": 2,
       "reason": "Import",
       "ts": 1749168000000
-    },
-    {
-      "id": "imp-arlaud-msd-cheseaux-1er-2023",
-      "label": "Domaine Arlaud — 1er Cru Aux Cheseaux 2023",
-      "couleur": "rouge",
-      "addr": "F · C6 · R1",
-      "delta": 1,
-      "reason": "Import",
-      "ts": 1749168000000
-    },
-    {
-      "id": "imp-arlaud-msd-blanchards-1er-2023",
-      "label": "Domaine Arlaud — 1er Cru Les Blanchards 2023",
-      "couleur": "rouge",
-      "addr": "F · C6 · R1",
-      "delta": 1,
-      "reason": "Import",
-      "ts": 1749168000000
-    },
-    {
-      "id": "imp-arlaud-chambolle-noirots-1er-2014",
-      "label": "Domaine Arlaud — 1er Cru Les Noirots 2014",
-      "couleur": "rouge",
-      "addr": "F · C6 · R2",
-      "delta": 1,
-      "reason": "Import",
-      "ts": 1749168000000
-    },
-    {
-      "id": "imp-arlaud-clos-roche-gc-2015",
-      "label": "Domaine Arlaud — Clos de la Roche 2015",
-      "couleur": "rouge",
-      "addr": "F · C6 · R2",
-      "delta": 1,
-      "reason": "Import",
-      "ts": 1749168000000
-    },
-    {
-      "id": "imp-arlaud-chambolle-sentiers-1er-2015",
-      "label": "Domaine Arlaud — 1er Cru Les Sentiers 2015",
-      "couleur": "rouge",
-      "addr": "F · C6 · R2",
-      "delta": 1,
-      "reason": "Import",
-      "ts": 1749168000000
     }
   ],
-  "date": "2026-08-15T10:10:26.227Z"
+  "date": "2026-09-01T16:56:03.468Z"
 }
