@@ -14331,6 +14331,15 @@
   ],
   "movements": [
     {
+      "id": "adj-1788340194567",
+      "label": "Régularisation d'inventaire",
+      "couleur": null,
+      "addr": "",
+      "delta": 234,
+      "reason": "Régularisation",
+      "ts": 1788340194567
+    },
+    {
       "id": "tgukv1qv",
       "label": "Henri Germain et Fils — Limozin 2018",
       "couleur": "blanc",
@@ -18831,5 +18840,5 @@
       "ts": 1780704000000
     }
   ],
-  "date": "2026-09-02T09:02:54.520Z"
+  "date": "2026-09-02T09:10:11.088Z"
 }
