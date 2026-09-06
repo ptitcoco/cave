@@ -13289,7 +13289,7 @@
       "apogeeFin": "",
       "notes": "Weingut seit 1798",
       "casierId": "D-C10-R5",
-      "quantite": 1,
+      "quantite": 0,
       "dateEntree": 1780704000000,
       "cote": {
         "valeur_eur": 68.31,
@@ -14330,6 +14330,16 @@
     }
   ],
   "movements": [
+    {
+      "id": "cgcvftcg",
+      "lot": "christmann-idig-konigsbach-riesling-2022",
+      "label": "A. Christmann — Idig Königsbach Riesling 2022",
+      "couleur": "blanc",
+      "addr": "D · C10 · R5",
+      "delta": -1,
+      "reason": "Sortie",
+      "ts": 1788714339538
+    },
     {
       "id": "adj-1788340194567",
       "label": "Régularisation d'inventaire",
@@ -18840,5 +18850,5 @@
       "ts": 1780704000000
     }
   ],
-  "date": "2026-09-02T09:10:11.088Z"
+  "date": "2026-09-06T17:05:51.012Z"
 }
