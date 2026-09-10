@@ -1163,7 +1163,7 @@
       "apogeeFin": "",
       "notes": "Bio · Famiglia Quilichini",
       "casierId": "G-C1-R2",
-      "quantite": 1,
+      "quantite": 0,
       "dateEntree": 1780721162647,
       "cote": null
     },
@@ -14331,6 +14331,16 @@
   ],
   "movements": [
     {
+      "id": "7dxatx26",
+      "lot": "castellu-baricci-corse-sartene-2021-gc1r2",
+      "label": "Castellu di Baricci — Corse Sartène 2021",
+      "couleur": "rouge",
+      "addr": "G · C1 · R2",
+      "delta": -1,
+      "reason": "Sortie",
+      "ts": 1789057839183
+    },
+    {
       "id": "cgcvftcg",
       "lot": "christmann-idig-konigsbach-riesling-2022",
       "label": "A. Christmann — Idig Königsbach Riesling 2022",
@@ -18850,5 +18860,5 @@
       "ts": 1780704000000
     }
   ],
-  "date": "2026-09-06T17:05:51.012Z"
+  "date": "2026-09-10T16:30:50.520Z"
 }
