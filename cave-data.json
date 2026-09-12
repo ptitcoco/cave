@@ -14216,7 +14216,7 @@
       "appellation": "Patrimonio",
       "couleur": "blanc",
       "millesime": 2025,
-      "quantite": 2,
+      "quantite": 1,
       "cote": {
         "valeur_eur": 16,
         "devise": "EUR",
@@ -14330,6 +14330,16 @@
     }
   ],
   "movements": [
+    {
+      "id": "g2396dd8",
+      "lot": "amarena-san-giovanni-vermentinu-patrimonio-2025-gc2r4",
+      "label": "Antoine-Marie Arena — San Giovanni 2025",
+      "couleur": "blanc",
+      "addr": "G · C2 · R4",
+      "delta": -1,
+      "reason": "Sortie",
+      "ts": 1789235216636
+    },
     {
       "id": "7dxatx26",
       "lot": "castellu-baricci-corse-sartene-2021-gc1r2",
@@ -18860,5 +18870,5 @@
       "ts": 1780704000000
     }
   ],
-  "date": "2026-09-10T16:30:50.520Z"
+  "date": "2026-09-12T17:47:01.162Z"
 }
