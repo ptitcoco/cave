@@ -12014,7 +12014,7 @@
       "apogeeFin": "",
       "notes": "",
       "casierId": "D-C9-R1",
-      "quantite": 1,
+      "quantite": 0,
       "dateEntree": 1780704000000,
       "cote": {
         "valeur_eur": 129.68,
@@ -14330,6 +14330,16 @@
     }
   ],
   "movements": [
+    {
+      "id": "5fnk6qid",
+      "lot": "hgermain-chassagne-morgeot-fairendes-2015",
+      "label": "Henri Germain et Fils — Morgeot 1er Cru Les Fairendes 2015",
+      "couleur": "blanc",
+      "addr": "D · C9 · R1",
+      "delta": -1,
+      "reason": "Sortie",
+      "ts": 1789665841077
+    },
     {
       "id": "g2396dd8",
       "lot": "amarena-san-giovanni-vermentinu-patrimonio-2025-gc2r4",
@@ -18870,5 +18880,5 @@
       "ts": 1780704000000
     }
   ],
-  "date": "2026-09-12T17:47:23.960Z"
+  "date": "2026-09-17T17:24:04.253Z"
 }
