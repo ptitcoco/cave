@@ -13564,7 +13564,7 @@
       "apogeeFin": "",
       "notes": "",
       "casierId": "D-C11-R3",
-      "quantite": 1,
+      "quantite": 0,
       "dateEntree": 1780704000000,
       "cote": {
         "valeur_eur": 62.52,
@@ -14330,6 +14330,16 @@
     }
   ],
   "movements": [
+    {
+      "id": "uhm0jv8d",
+      "lot": "bachelet-staubin-charmois-2018",
+      "label": "Jean-Claude Bachelet et Fils — 1er Cru Le Charmois 2018",
+      "couleur": "blanc",
+      "addr": "D · C11 · R3",
+      "delta": -1,
+      "reason": "Sortie",
+      "ts": 1789749178783
+    },
     {
       "id": "5fnk6qid",
       "lot": "hgermain-chassagne-morgeot-fairendes-2015",
@@ -18880,5 +18890,5 @@
       "ts": 1780704000000
     }
   ],
-  "date": "2026-09-17T17:24:04.253Z"
+  "date": "2026-09-18T16:33:00.949Z"
 }
