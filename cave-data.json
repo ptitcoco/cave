@@ -1307,7 +1307,7 @@
       "apogeeFin": "",
       "notes": "",
       "casierId": "G-C1-R1",
-      "quantite": 2,
+      "quantite": 1,
       "dateEntree": 1780704000000,
       "cote": {
         "valeur_eur": null,
@@ -14331,6 +14331,16 @@
   ],
   "movements": [
     {
+      "id": "gg1v3xn5",
+      "lot": "casa-guelfucci-sciaccarellu-2020-gc1r1",
+      "label": "Casa Guelfucci — Sciaccarellu 2020",
+      "couleur": "rouge",
+      "addr": "G · C1 · R1",
+      "delta": -1,
+      "reason": "Sortie",
+      "ts": 1789749385812
+    },
+    {
       "id": "uhm0jv8d",
       "lot": "bachelet-staubin-charmois-2018",
       "label": "Jean-Claude Bachelet et Fils — 1er Cru Le Charmois 2018",
@@ -18890,5 +18900,5 @@
       "ts": 1780704000000
     }
   ],
-  "date": "2026-09-18T16:33:00.949Z"
+  "date": "2026-09-18T16:36:33.115Z"
 }
