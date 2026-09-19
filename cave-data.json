@@ -6464,7 +6464,7 @@
       "apogeeFin": "",
       "notes": "",
       "casierId": "F-C1-R3",
-      "quantite": 2,
+      "quantite": 1,
       "dateEntree": 1780704000000,
       "cote": {
         "valeur_eur": 211.89,
@@ -14331,6 +14331,16 @@
   ],
   "movements": [
     {
+      "id": "j2lwvkqm",
+      "lot": "noellat-vr-beaux-monts-2017",
+      "label": "Georges Noëllat — 1er Cru Les Beaux Monts 2017",
+      "couleur": "rouge",
+      "addr": "F · C1 · R3",
+      "delta": -1,
+      "reason": "Sortie",
+      "ts": 1789840027544
+    },
+    {
       "id": "gg1v3xn5",
       "lot": "casa-guelfucci-sciaccarellu-2020-gc1r1",
       "label": "Casa Guelfucci — Sciaccarellu 2020",
@@ -18900,5 +18910,5 @@
       "ts": 1780704000000
     }
   ],
-  "date": "2026-09-18T16:36:33.115Z"
+  "date": "2026-09-19T17:47:09.494Z"
 }
