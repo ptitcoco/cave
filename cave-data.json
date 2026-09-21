@@ -2162,7 +2162,7 @@
       "apogeeFin": "",
       "notes": "",
       "casierId": "G-C3-R4",
-      "quantite": 3,
+      "quantite": 2,
       "dateEntree": 1780726086925,
       "cote": {
         "valeur_eur": 62.52,
@@ -14331,6 +14331,16 @@
   ],
   "movements": [
     {
+      "id": "tg3kkxj1",
+      "lot": "ogier-village-2014",
+      "label": "Stéphane Ogier — Village 2014",
+      "couleur": "rouge",
+      "addr": "G · C3 · R4",
+      "delta": -1,
+      "reason": "Sortie",
+      "ts": 1790010917378
+    },
+    {
       "id": "j2lwvkqm",
       "lot": "noellat-vr-beaux-monts-2017",
       "label": "Georges Noëllat — 1er Cru Les Beaux Monts 2017",
@@ -18910,5 +18920,5 @@
       "ts": 1780704000000
     }
   ],
-  "date": "2026-09-19T17:47:19.034Z"
+  "date": "2026-09-21T17:15:21.373Z"
 }
