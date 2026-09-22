@@ -3655,7 +3655,7 @@
       "apogeeFin": "",
       "notes": "",
       "casierId": "G-C7-R2",
-      "quantite": 1,
+      "quantite": 0,
       "dateEntree": 1780704000000,
       "cote": {
         "valeur_eur": 125.05,
@@ -14331,6 +14331,16 @@
   ],
   "movements": [
     {
+      "id": "g0zah715",
+      "lot": "barthod-chambolle-village-2015",
+      "label": "Ghislaine Barthod — Chambolle-Musigny 2015",
+      "couleur": "rouge",
+      "addr": "G · C7 · R2",
+      "delta": -1,
+      "reason": "Sortie",
+      "ts": 1790098440024
+    },
+    {
       "id": "tg3kkxj1",
       "lot": "ogier-village-2014",
       "label": "Stéphane Ogier — Village 2014",
@@ -18920,5 +18930,5 @@
       "ts": 1780704000000
     }
   ],
-  "date": "2026-09-21T17:15:21.373Z"
+  "date": "2026-09-22T17:34:03.894Z"
 }
