@@ -12114,7 +12114,7 @@
       "apogeeFin": "",
       "notes": "",
       "casierId": "D-C9-R1",
-      "quantite": 1,
+      "quantite": 0,
       "dateEntree": 1780704000000,
       "cote": {
         "valeur_eur": 159.78,
@@ -14330,6 +14330,16 @@
     }
   ],
   "movements": [
+    {
+      "id": "43btelhx",
+      "lot": "hgermain-meursault-charmes-2013",
+      "label": "Henri Germain et Fils — Charmes 1er Cru 2013",
+      "couleur": "blanc",
+      "addr": "D · C9 · R1",
+      "delta": -1,
+      "reason": "Sortie",
+      "ts": 1790272685696
+    },
     {
       "id": "g0zah715",
       "lot": "barthod-chambolle-village-2015",
@@ -18930,5 +18940,5 @@
       "ts": 1780704000000
     }
   ],
-  "date": "2026-09-22T17:34:03.894Z"
+  "date": "2026-09-24T17:58:07.869Z"
 }
