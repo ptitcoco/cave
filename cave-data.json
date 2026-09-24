@@ -1197,7 +1197,7 @@
       "apogeeFin": "",
       "notes": "Bio · 100% Vermentinu",
       "casierId": "G-C1-R2",
-      "quantite": 1,
+      "quantite": 0,
       "dateEntree": 1780721162647,
       "cote": null
     },
@@ -14331,6 +14331,16 @@
   ],
   "movements": [
     {
+      "id": "m6qbwq7o",
+      "lot": "rosumarinu-santarmettu-2023-gc1r2",
+      "label": "Sant'Armettu — Rosumarinu 2023",
+      "couleur": "blanc",
+      "addr": "G · C1 · R2",
+      "delta": -1,
+      "reason": "Sortie",
+      "ts": 1790272744805
+    },
+    {
       "id": "43btelhx",
       "lot": "hgermain-meursault-charmes-2013",
       "label": "Henri Germain et Fils — Charmes 1er Cru 2013",
@@ -18940,5 +18950,5 @@
       "ts": 1780704000000
     }
   ],
-  "date": "2026-09-24T17:58:07.869Z"
+  "date": "2026-09-24T17:59:07.871Z"
 }
