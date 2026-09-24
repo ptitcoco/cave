@@ -12164,7 +12164,7 @@
       "apogeeFin": "",
       "notes": "",
       "casierId": "D-C9-R1",
-      "quantite": 1,
+      "quantite": 0,
       "dateEntree": 1780704000000,
       "cote": {
         "valeur_eur": 150.52,
@@ -14330,6 +14330,16 @@
     }
   ],
   "movements": [
+    {
+      "id": "hmf2s9ga",
+      "lot": "hgermain-meursault-poruzots-2015",
+      "label": "Henri Germain et Fils — Poruzots 1er Cru 2015",
+      "couleur": "blanc",
+      "addr": "D · C9 · R1",
+      "delta": -1,
+      "reason": "Sortie",
+      "ts": 1790274271662
+    },
     {
       "id": "m6qbwq7o",
       "lot": "rosumarinu-santarmettu-2023-gc1r2",
@@ -18950,5 +18960,5 @@
       "ts": 1780704000000
     }
   ],
-  "date": "2026-09-24T18:22:46.841Z"
+  "date": "2026-09-24T18:24:35.484Z"
 }
