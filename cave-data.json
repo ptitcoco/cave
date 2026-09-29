@@ -2980,7 +2980,7 @@
       "apogeeFin": "",
       "notes": "",
       "casierId": "G-C5-R1",
-      "quantite": 2,
+      "quantite": 1,
       "dateEntree": 1780704000000,
       "cote": {
         "valeur_eur": 78.73,
@@ -14331,6 +14331,16 @@
   ],
   "movements": [
     {
+      "id": "x2ot4snp",
+      "lot": "tempier-bandol-courtine-2014",
+      "label": "Domaine Tempier — La Courtine 2014",
+      "couleur": "rouge",
+      "addr": "G · C5 · R1",
+      "delta": -1,
+      "reason": "Sortie",
+      "ts": 1790703118098
+    },
+    {
       "id": "p9zkkq86",
       "lot": "chevillon-nsg-chaignots-2015-fc3r2-a",
       "label": "Domaine Robert Chevillon — 1er Cru Les Chaignots 2015",
@@ -18970,5 +18980,5 @@
       "ts": 1780704000000
     }
   ],
-  "date": "2026-09-29T16:46:24.757Z"
+  "date": "2026-09-29T17:32:00.782Z"
 }
