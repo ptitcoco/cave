@@ -7314,7 +7314,7 @@
       "apogeeFin": "",
       "notes": "",
       "casierId": "F-C3-R2",
-      "quantite": 1,
+      "quantite": 0,
       "dateEntree": 1780704000000,
       "cote": {
         "valeur_eur": 97.26,
@@ -14331,6 +14331,16 @@
   ],
   "movements": [
     {
+      "id": "p9zkkq86",
+      "lot": "chevillon-nsg-chaignots-2015-fc3r2-a",
+      "label": "Domaine Robert Chevillon — 1er Cru Les Chaignots 2015",
+      "couleur": "rouge",
+      "addr": "F · C3 · R2",
+      "delta": -1,
+      "reason": "Sortie",
+      "ts": 1790700382519
+    },
+    {
       "id": "hmf2s9ga",
       "lot": "hgermain-meursault-poruzots-2015",
       "label": "Henri Germain et Fils — Poruzots 1er Cru 2015",
@@ -18960,5 +18970,5 @@
       "ts": 1780704000000
     }
   ],
-  "date": "2026-09-24T18:24:35.484Z"
+  "date": "2026-09-29T16:46:24.757Z"
 }
