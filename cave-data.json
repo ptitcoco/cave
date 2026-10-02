@@ -238,7 +238,7 @@
       "apogeeFin": "",
       "notes": "",
       "casierId": "E-C1-R2",
-      "quantite": 1,
+      "quantite": 0,
       "dateEntree": 1780689515976,
       "cote": {
         "valeur_eur": 50.95,
@@ -5322,7 +5322,7 @@
       "apogeeFin": "",
       "notes": "",
       "casierId": "G-C8-R4",
-      "quantite": 2,
+      "quantite": 1,
       "dateEntree": 1780704000000,
       "cote": {
         "valeur_eur": 66,
@@ -14331,6 +14331,26 @@
   ],
   "movements": [
     {
+      "id": "7agk8xvj",
+      "lot": "voillot-volnay-champans-2018-G-C8-R4",
+      "label": "Domaine Joseph Voillot — 1er Cru Les Champans 2018",
+      "couleur": "rouge",
+      "addr": "G · C8 · R4",
+      "delta": -1,
+      "reason": "Sortie",
+      "ts": 1790959986218
+    },
+    {
+      "id": "w654d1o4",
+      "lot": "droin-mont-de-milieu-2019",
+      "label": "Jean-Paul & Benoît Droin — Mont de Milieu 2019",
+      "couleur": "blanc",
+      "addr": "E · C1 · R2",
+      "delta": -1,
+      "reason": "Sortie",
+      "ts": 1790959878604
+    },
+    {
       "id": "x2ot4snp",
       "lot": "tempier-bandol-courtine-2014",
       "label": "Domaine Tempier — La Courtine 2014",
@@ -18980,5 +19000,5 @@
       "ts": 1780704000000
     }
   ],
-  "date": "2026-09-29T17:32:00.782Z"
+  "date": "2026-10-02T16:53:08.173Z"
 }
