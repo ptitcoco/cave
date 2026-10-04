@@ -2713,7 +2713,7 @@
       "apogeeFin": "",
       "notes": "",
       "casierId": "G-C4-R4",
-      "quantite": 2,
+      "quantite": 1,
       "dateEntree": 1780704000000,
       "cote": {
         "valeur_eur": 107.68,
@@ -2830,7 +2830,7 @@
       "apogeeFin": "",
       "notes": "",
       "casierId": "G-C4-R4",
-      "quantite": 1,
+      "quantite": 0,
       "dateEntree": 1780704000000,
       "cote": {
         "valeur_eur": 142.41,
@@ -14331,6 +14331,26 @@
   ],
   "movements": [
     {
+      "id": "xi1p3ru1",
+      "lot": "chateau-des-tours-cdr-reserve-2019",
+      "label": "Château des Tours — Réserve 2019",
+      "couleur": "rouge",
+      "addr": "G · C4 · R4",
+      "delta": -1,
+      "reason": "Sortie",
+      "ts": 1791109975975
+    },
+    {
+      "id": "0u0b2wia",
+      "lot": "chateau-des-tours-cdr-grande-reserve-2015",
+      "label": "Château des Tours — Grande Réserve 2015",
+      "couleur": "rouge",
+      "addr": "G · C4 · R4",
+      "delta": -1,
+      "reason": "Sortie",
+      "ts": 1791109972720
+    },
+    {
       "id": "obkfeszg",
       "lot": "bachelet-staubin-en-remilly-2018",
       "label": "Jean-Claude Bachelet et Fils — 1er Cru En Remilly 2018",
@@ -19010,5 +19030,5 @@
       "ts": 1780704000000
     }
   ],
-  "date": "2026-10-03T18:01:09.927Z"
+  "date": "2026-10-04T10:32:57.551Z"
 }
