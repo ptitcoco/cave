@@ -11364,7 +11364,7 @@
       "apogeeFin": "",
       "notes": "",
       "casierId": "F-C6-R6",
-      "quantite": 1,
+      "quantite": 0,
       "dateEntree": 1780704000000,
       "cote": {
         "valeur_eur": 61.37,
@@ -14330,6 +14330,16 @@
     }
   ],
   "movements": [
+    {
+      "id": "fpk124tb",
+      "lot": "amiot-servelle-msd-village-2021-r6",
+      "label": "Amiot-Servelle — Morey-Saint-Denis 2021",
+      "couleur": "rouge",
+      "addr": "F · C6 · R6",
+      "delta": -1,
+      "reason": "Sortie",
+      "ts": 1791393485130
+    },
     {
       "id": "xi1p3ru1",
       "lot": "chateau-des-tours-cdr-reserve-2019",
@@ -19030,5 +19040,5 @@
       "ts": 1780704000000
     }
   ],
-  "date": "2026-10-04T10:32:57.551Z"
+  "date": "2026-10-07T17:18:08.641Z"
 }
