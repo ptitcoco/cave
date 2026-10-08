@@ -9189,7 +9189,7 @@
       "apogeeFin": "",
       "notes": "1er Cru",
       "casierId": "F-C5-R1",
-      "quantite": 4,
+      "quantite": 3,
       "dateEntree": 1780704000000,
       "cote": {
         "valeur_eur": 81.05,
@@ -14331,6 +14331,16 @@
   ],
   "movements": [
     {
+      "id": "cxdlxlkr",
+      "lot": "rossignol-trapet-gevrey-petite-chapelle-1er-2015",
+      "label": "Domaine Rossignol-Trapet — 1er Cru Petite-Chapelle 2015",
+      "couleur": "rouge",
+      "addr": "F · C5 · R1",
+      "delta": -1,
+      "reason": "Sortie",
+      "ts": 1791478581102
+    },
+    {
       "id": "fpk124tb",
       "lot": "amiot-servelle-msd-village-2021-r6",
       "label": "Amiot-Servelle — Morey-Saint-Denis 2021",
@@ -19040,5 +19050,5 @@
       "ts": 1780704000000
     }
   ],
-  "date": "2026-10-07T17:18:08.641Z"
+  "date": "2026-10-08T16:56:25.407Z"
 }
