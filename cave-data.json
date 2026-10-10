@@ -11814,7 +11814,7 @@
       "apogeeFin": "",
       "notes": "",
       "casierId": "D-C1-R4",
-      "quantite": 2,
+      "quantite": 1,
       "dateEntree": 1780704000000,
       "cote": {
         "valeur_eur": 28.95,
@@ -13614,7 +13614,7 @@
       "apogeeFin": "",
       "notes": "",
       "casierId": "D-C11-R3",
-      "quantite": 1,
+      "quantite": 0,
       "dateEntree": 1780704000000,
       "cote": {
         "valeur_eur": 130.84,
@@ -14330,6 +14330,26 @@
     }
   ],
   "movements": [
+    {
+      "id": "sk38phio",
+      "lot": "bachelet-staubin-murgers-2017",
+      "label": "Jean-Claude Bachelet et Fils — 1er Cru Les Murgers des Dents de Chien 2017",
+      "couleur": "blanc",
+      "addr": "D · C11 · R3",
+      "delta": -1,
+      "reason": "Sortie",
+      "ts": 1791651004470
+    },
+    {
+      "id": "70f836j1",
+      "lot": "bart-marsannay-longeroies-2017",
+      "label": "Domaine Bart — Les Longeroies 2017",
+      "couleur": "rouge",
+      "addr": "D · C1 · R4",
+      "delta": -1,
+      "reason": "Sortie",
+      "ts": 1791618197786
+    },
     {
       "id": "cxdlxlkr",
       "lot": "rossignol-trapet-gevrey-petite-chapelle-1er-2015",
@@ -19050,5 +19070,5 @@
       "ts": 1780704000000
     }
   ],
-  "date": "2026-10-08T16:56:25.407Z"
+  "date": "2026-10-10T16:50:06.692Z"
 }
