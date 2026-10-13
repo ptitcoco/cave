@@ -2462,7 +2462,7 @@
       "apogeeFin": "",
       "notes": "",
       "casierId": "G-C4-R1",
-      "quantite": 5,
+      "quantite": 4,
       "dateEntree": 1780727298206,
       "cote": {
         "valeur_eur": 39.37,
@@ -14331,6 +14331,16 @@
   ],
   "movements": [
     {
+      "id": "iybmzi5w",
+      "lot": "gilles-rieux-2022",
+      "label": "Guillaume Gilles — Les Rieux 2022",
+      "couleur": "rouge",
+      "addr": "G · C4 · R1",
+      "delta": -1,
+      "reason": "Sortie",
+      "ts": 1791912070002
+    },
+    {
       "id": "sk38phio",
       "lot": "bachelet-staubin-murgers-2017",
       "label": "Jean-Claude Bachelet et Fils — 1er Cru Les Murgers des Dents de Chien 2017",
@@ -19070,5 +19080,5 @@
       "ts": 1780704000000
     }
   ],
-  "date": "2026-10-10T16:50:06.692Z"
+  "date": "2026-10-13T17:21:13.736Z"
 }
