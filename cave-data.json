@@ -6439,7 +6439,7 @@
       "apogeeFin": "",
       "notes": "",
       "casierId": "F-C1-R2",
-      "quantite": 2,
+      "quantite": 1,
       "dateEntree": 1780704000000,
       "cote": {
         "valeur_eur": 253.57,
@@ -14331,6 +14331,16 @@
   ],
   "movements": [
     {
+      "id": "vzfordx5",
+      "lot": "noellat-vr-beaux-monts-2016",
+      "label": "Georges Noëllat — 1er Cru Les Beaux Monts 2016",
+      "couleur": "rouge",
+      "addr": "F · C1 · R2",
+      "delta": -1,
+      "reason": "Sortie",
+      "ts": 1792167748900
+    },
+    {
       "id": "iybmzi5w",
       "lot": "gilles-rieux-2022",
       "label": "Guillaume Gilles — Les Rieux 2022",
@@ -19080,5 +19090,5 @@
       "ts": 1780704000000
     }
   ],
-  "date": "2026-10-13T17:21:13.736Z"
+  "date": "2026-10-16T16:22:33.336Z"
 }
