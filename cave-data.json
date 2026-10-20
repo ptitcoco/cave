@@ -1794,7 +1794,7 @@
       "apogeeFin": "",
       "notes": "",
       "casierId": "G-C2-R3",
-      "quantite": 2,
+      "quantite": 1,
       "dateEntree": 1780724463814,
       "cote": null
     },
@@ -1828,7 +1828,7 @@
       "apogeeFin": "",
       "notes": "",
       "casierId": "G-C2-R3",
-      "quantite": 1,
+      "quantite": 0,
       "dateEntree": 1780724463814,
       "cote": null
     },
@@ -14331,6 +14331,26 @@
   ],
   "movements": [
     {
+      "id": "dc9qyir5",
+      "lot": "stiliccionu-kalliste",
+      "label": "Domaine U Stiliccionu — Kalliste 2021",
+      "couleur": "rouge",
+      "addr": "G · C2 · R3",
+      "delta": -1,
+      "reason": "Sortie",
+      "ts": 1792505113757
+    },
+    {
+      "id": "yo7gbsri",
+      "lot": "stiliccionu-vinoteca-carcaghjolo",
+      "label": "Domaine U Stiliccionu — A Vinoteca Carcaghjolo",
+      "couleur": "rouge",
+      "addr": "G · C2 · R3",
+      "delta": -1,
+      "reason": "Sortie",
+      "ts": 1792340120213
+    },
+    {
       "id": "vzfordx5",
       "lot": "noellat-vr-beaux-monts-2016",
       "label": "Georges Noëllat — 1er Cru Les Beaux Monts 2016",
@@ -19090,5 +19110,5 @@
       "ts": 1780704000000
     }
   ],
-  "date": "2026-10-16T16:22:33.336Z"
+  "date": "2026-10-20T14:05:15.930Z"
 }
