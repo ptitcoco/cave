@@ -4088,19 +4088,11 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Doublon supprime le 25/10/2026 : saisie en double des casiers G-C7-R5 et G-C7-R6 sous un code colonne errone (G7 au lieu de C7). Les bouteilles reelles sont les lots G-C7.",
       "casierId": "G-G7-R5",
-      "quantite": 2,
+      "quantite": 0,
       "dateEntree": 1780704000000,
-      "cote": {
-        "valeur_eur": 116.94,
-        "devise": "EUR",
-        "source": "wine-searcher (calculateur de cave)",
-        "valeurLocation": "Europe (HT)",
-        "dateReleve": "2026-06-08T14:35:09.921Z",
-        "url": "https://www.wine-searcher.com/find/dom+ghislaine+barthod+chambolle+musigny+cote+de+nuit+burgundy+france/2019/europe",
-        "statut": "ok"
-      }
+      "cote": null
     },
     {
       "id": "barthod-chambolle-village-2020-G-G7-R5",
@@ -4113,19 +4105,11 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Doublon supprime le 25/10/2026 : saisie en double des casiers G-C7-R5 et G-C7-R6 sous un code colonne errone (G7 au lieu de C7). Les bouteilles reelles sont les lots G-C7.",
       "casierId": "G-G7-R5",
-      "quantite": 4,
+      "quantite": 0,
       "dateEntree": 1780704000000,
-      "cote": {
-        "valeur_eur": 91.47,
-        "devise": "EUR",
-        "source": "wine-searcher (calculateur de cave)",
-        "valeurLocation": "Europe (HT)",
-        "dateReleve": "2026-06-08T14:35:09.921Z",
-        "url": "https://www.wine-searcher.com/find/dom+ghislaine+barthod+chambolle+musigny+cote+de+nuit+burgundy+france/2020/europe",
-        "statut": "ok"
-      }
+      "cote": null
     },
     {
       "id": "barthod-chambolle-village-2021-G-G7-R5",
@@ -4138,19 +4122,11 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Doublon supprime le 25/10/2026 : saisie en double des casiers G-C7-R5 et G-C7-R6 sous un code colonne errone (G7 au lieu de C7). Les bouteilles reelles sont les lots G-C7.",
       "casierId": "G-G7-R5",
-      "quantite": 3,
+      "quantite": 0,
       "dateEntree": 1780704000000,
-      "cote": {
-        "valeur_eur": 97.26,
-        "devise": "EUR",
-        "source": "wine-searcher (calculateur de cave)",
-        "valeurLocation": "Europe (HT)",
-        "dateReleve": "2026-06-08T14:35:09.921Z",
-        "url": "https://www.wine-searcher.com/find/dom+ghislaine+barthod+chambolle+musigny+cote+de+nuit+burgundy+france/2021/europe",
-        "statut": "ok"
-      }
+      "cote": null
     },
     {
       "id": "barthod-chambolle-cras-2020-G-G7-R5",
@@ -4163,19 +4139,11 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Doublon supprime le 25/10/2026 : saisie en double des casiers G-C7-R5 et G-C7-R6 sous un code colonne errone (G7 au lieu de C7). Les bouteilles reelles sont les lots G-C7.",
       "casierId": "G-G7-R5",
-      "quantite": 2,
+      "quantite": 0,
       "dateEntree": 1780704000000,
-      "cote": {
-        "valeur_eur": 248.94,
-        "devise": "EUR",
-        "source": "wine-searcher (calculateur de cave)",
-        "valeurLocation": "Europe (HT)",
-        "dateReleve": "2026-06-08T14:35:09.921Z",
-        "url": "https://www.wine-searcher.com/find/dom+ghislaine+barthod+les+cras+chambolle+musigny+premier+cru+cote+de+nuit+burgundy+france/2020/europe",
-        "statut": "ok"
-      }
+      "cote": null
     },
     {
       "id": "barthod-chambolle-cras-2021-G-G7-R5",
@@ -4188,19 +4156,11 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Doublon supprime le 25/10/2026 : saisie en double des casiers G-C7-R5 et G-C7-R6 sous un code colonne errone (G7 au lieu de C7). Les bouteilles reelles sont les lots G-C7.",
       "casierId": "G-G7-R5",
-      "quantite": 1,
+      "quantite": 0,
       "dateEntree": 1780704000000,
-      "cote": {
-        "valeur_eur": 194.52,
-        "devise": "EUR",
-        "source": "wine-searcher (calculateur de cave)",
-        "valeurLocation": "Europe (HT)",
-        "dateReleve": "2026-06-08T14:35:09.921Z",
-        "url": "https://www.wine-searcher.com/find/dom+ghislaine+barthod+les+cras+chambolle+musigny+premier+cru+cote+de+nuit+burgundy+france/2021/europe",
-        "statut": "ok"
-      }
+      "cote": null
     },
     {
       "id": "barthod-chambolle-charmes-2020-G-G7-R5",
@@ -4213,19 +4173,11 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Doublon supprime le 25/10/2026 : saisie en double des casiers G-C7-R5 et G-C7-R6 sous un code colonne errone (G7 au lieu de C7). Les bouteilles reelles sont les lots G-C7.",
       "casierId": "G-G7-R5",
-      "quantite": 1,
+      "quantite": 0,
       "dateEntree": 1780704000000,
-      "cote": {
-        "valeur_eur": 294.09,
-        "devise": "EUR",
-        "source": "wine-searcher (calculateur de cave)",
-        "valeurLocation": "Europe (HT)",
-        "dateReleve": "2026-06-08T14:35:09.921Z",
-        "url": "https://www.wine-searcher.com/find/dom+ghislaine+barthod+les+charmes+chambolle+musigny+premier+cru+cote+de+nuit+burgundy+france/2020/europe",
-        "statut": "ok"
-      }
+      "cote": null
     },
     {
       "id": "barthod-chambolle-veroilles-2020-G-G7-R5",
@@ -4238,19 +4190,11 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Doublon supprime le 25/10/2026 : saisie en double des casiers G-C7-R5 et G-C7-R6 sous un code colonne errone (G7 au lieu de C7). Les bouteilles reelles sont les lots G-C7.",
       "casierId": "G-G7-R5",
-      "quantite": 2,
+      "quantite": 0,
       "dateEntree": 1780704000000,
-      "cote": {
-        "valeur_eur": 277.88,
-        "devise": "EUR",
-        "source": "wine-searcher (calculateur de cave)",
-        "valeurLocation": "Europe (HT)",
-        "dateReleve": "2026-06-09T00:00:00.000Z",
-        "url": "https://www.wine-searcher.com/find/dom+ghislaine+barthod+les+veroilles+chambolle+musigny+premier+cru+cote+de+nuit+burgundy+france/2020/europe",
-        "statut": "ok"
-      }
+      "cote": null
     },
     {
       "id": "barthod-chambolle-village-2019-G-C7-R5",
@@ -11420,11 +11364,18 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "Cote remise a zero le 25/10/2026 : Wine-Searcher avait renvoye statut ok avec une valeur de 0 EUR, et iDealwine ne cote pas ce vin.",
+      "notes": "Prix d'achat 43.00 EUR TTC soit 35.83 EUR HT - offre primeur Privilege millesime 2023, confirmee par la proforma 3968 du 06/12/2024. Prix d'acquisition ancien, inferieur a la valeur de marche actuelle.",
       "casierId": "D-C1-R1",
       "quantite": 2,
       "dateEntree": 1780704000000,
-      "cote": null
+      "cote": {
+        "valeur_eur": 35.83,
+        "devise": "EUR",
+        "source": "tarif domaine — Albert Morot, offre primeur Privilege millesime 2023, confirmee par la proforma 3968 du 06/12/2024",
+        "dateReleve": "2026-10-25",
+        "url": "",
+        "statut": "ok"
+      }
     },
     {
       "id": "albert-morot-beaune-teurons-2023",
@@ -11487,11 +11438,18 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "Cote remise a zero le 25/10/2026 : Wine-Searcher avait renvoye statut ok avec une valeur de 0 EUR, et iDealwine ne cote pas ce vin.",
+      "notes": "Prix d'achat 29.00 EUR TTC soit 24.17 EUR HT - offre primeur millesime 2019, mail du 08/12/2020, confirmee par la commande 2669. Prix d'acquisition ancien, inferieur a la valeur de marche actuelle.",
       "casierId": "D-C1-R2",
       "quantite": 3,
       "dateEntree": 1780704000000,
-      "cote": null
+      "cote": {
+        "valeur_eur": 24.17,
+        "devise": "EUR",
+        "source": "tarif domaine — Albert Morot, offre primeur millesime 2019, mail du 08/12/2020, confirmee par la commande 2669",
+        "dateReleve": "2026-10-25",
+        "url": "",
+        "statut": "ok"
+      }
     },
     {
       "id": "albert-morot-beaune-greves-2019",
@@ -11504,11 +11462,18 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "Cote remise a zero le 25/10/2026 : Wine-Searcher avait renvoye statut ok avec une valeur de 0 EUR, et iDealwine ne cote pas ce vin.",
+      "notes": "Prix d'achat 29.00 EUR TTC soit 24.17 EUR HT - offre primeur millesime 2019, mail du 08/12/2020, confirmee par la commande 2669. Prix d'acquisition ancien, inferieur a la valeur de marche actuelle.",
       "casierId": "D-C1-R2",
       "quantite": 3,
       "dateEntree": 1780704000000,
-      "cote": null
+      "cote": {
+        "valeur_eur": 24.17,
+        "devise": "EUR",
+        "source": "tarif domaine — Albert Morot, offre primeur millesime 2019, mail du 08/12/2020, confirmee par la commande 2669",
+        "dateReleve": "2026-10-25",
+        "url": "",
+        "statut": "ok"
+      }
     },
     {
       "id": "albert-morot-beaune-greves-2022",
@@ -11521,11 +11486,18 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "Cote remise a zero le 25/10/2026 : Wine-Searcher avait renvoye statut ok avec une valeur de 0 EUR, et iDealwine ne cote pas ce vin.",
+      "notes": "Prix d'achat 42.00 EUR TTC soit 35.00 EUR HT - offre primeur Privilege millesime 2022, confirmee par la commande 3630 du 26/12/2023. Prix d'acquisition ancien, inferieur a la valeur de marche actuelle.",
       "casierId": "D-C1-R2",
       "quantite": 1,
       "dateEntree": 1780704000000,
-      "cote": null
+      "cote": {
+        "valeur_eur": 35,
+        "devise": "EUR",
+        "source": "tarif domaine — Albert Morot, offre primeur Privilege millesime 2022, confirmee par la commande 3630 du 26/12/2023",
+        "dateReleve": "2026-10-25",
+        "url": "",
+        "statut": "ok"
+      }
     },
     {
       "id": "albert-morot-beaune-teurons-2019",
@@ -11613,11 +11585,18 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "Cote remise a zero le 25/10/2026 : Wine-Searcher avait renvoye statut ok avec une valeur de 0 EUR, et iDealwine ne cote pas ce vin.",
+      "notes": "Prix d'achat 22.00 EUR TTC soit 18.33 EUR HT - offre primeur millesime 2019, mail du 08/12/2020, confirmee par la commande 2669. Prix d'acquisition ancien, inferieur a la valeur de marche actuelle.",
       "casierId": "D-C1-R3",
       "quantite": 1,
       "dateEntree": 1780704000000,
-      "cote": null
+      "cote": {
+        "valeur_eur": 18.33,
+        "devise": "EUR",
+        "source": "tarif domaine — Albert Morot, offre primeur millesime 2019, mail du 08/12/2020, confirmee par la commande 2669",
+        "dateReleve": "2026-10-25",
+        "url": "",
+        "statut": "ok"
+      }
     },
     {
       "id": "albert-morot-beaune-teurons-2022-r3",
@@ -11655,11 +11634,18 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "Cote remise a zero le 25/10/2026 : Wine-Searcher avait renvoye statut ok avec une valeur de 0 EUR, et iDealwine ne cote pas ce vin.",
+      "notes": "Prix d'achat 42.00 EUR TTC soit 35.00 EUR HT - offre primeur Privilege millesime 2022, confirmee par la commande 3630 du 26/12/2023. Prix d'acquisition ancien, inferieur a la valeur de marche actuelle.",
       "casierId": "D-C1-R3",
       "quantite": 1,
       "dateEntree": 1780704000000,
-      "cote": null
+      "cote": {
+        "valeur_eur": 35,
+        "devise": "EUR",
+        "source": "tarif domaine — Albert Morot, offre primeur Privilege millesime 2022, confirmee par la commande 3630 du 26/12/2023",
+        "dateReleve": "2026-10-25",
+        "url": "",
+        "statut": "ok"
+      }
     },
     {
       "id": "bart-marsannay-longeroies-2017",
@@ -14114,15 +14100,22 @@
       "domaine": "Domaine Sylvain Langoureau",
       "appellation": "Saint-Aubin 1er Cru",
       "region": "Bourgogne",
-      "millesime": 2025,
+      "millesime": "2025",
       "couleur": "blanc",
       "format": "75 cl",
       "apogeeDebut": 2027,
       "apogeeFin": 2033,
-      "notes": "",
+      "notes": "Prix d'achat 28.10 EUR TTC soit 23.42 EUR HT - tarif domaine TTC depart cave, millesime 2025.",
       "quantite": 3,
       "dateEntree": 1792886400000,
-      "cote": null,
+      "cote": {
+        "valeur_eur": 23.42,
+        "devise": "EUR",
+        "source": "tarif domaine — tarif domaine TTC depart cave, millesime 2025",
+        "dateReleve": "2026-10-25",
+        "url": "",
+        "statut": "ok"
+      },
       "id": "les-frionnes-2025-blanc-dc11r1",
       "cuvee": "Les Frionnes",
       "casierId": "D-C11-R1"
@@ -14131,15 +14124,22 @@
       "domaine": "Domaine Sylvain Langoureau",
       "appellation": "Saint-Aubin 1er Cru",
       "region": "Bourgogne",
-      "millesime": 2025,
+      "millesime": "2025",
       "couleur": "blanc",
       "format": "75 cl",
       "apogeeDebut": 2027,
       "apogeeFin": 2033,
-      "notes": "",
+      "notes": "Prix d'achat 28.10 EUR TTC soit 23.42 EUR HT - tarif domaine TTC depart cave, millesime 2025.",
       "quantite": 3,
       "dateEntree": 1792886400000,
-      "cote": null,
+      "cote": {
+        "valeur_eur": 23.42,
+        "devise": "EUR",
+        "source": "tarif domaine — tarif domaine TTC depart cave, millesime 2025",
+        "dateReleve": "2026-10-25",
+        "url": "",
+        "statut": "ok"
+      },
       "id": "le-champlot-2025-blanc-dc11r1",
       "cuvee": "Le Champlot",
       "casierId": "D-C11-R1"
@@ -14148,15 +14148,22 @@
       "domaine": "Domaine Sylvain Langoureau",
       "appellation": "Saint-Aubin 1er Cru",
       "region": "Bourgogne",
-      "millesime": 2025,
+      "millesime": "2025",
       "couleur": "blanc",
       "format": "75 cl",
       "apogeeDebut": 2027,
       "apogeeFin": 2033,
-      "notes": "",
+      "notes": "Prix d'achat 31.90 EUR TTC soit 26.58 EUR HT - tarif domaine TTC depart cave, millesime 2025.",
       "quantite": 3,
       "dateEntree": 1792886400000,
-      "cote": null,
+      "cote": {
+        "valeur_eur": 26.58,
+        "devise": "EUR",
+        "source": "tarif domaine — tarif domaine TTC depart cave, millesime 2025",
+        "dateReleve": "2026-10-25",
+        "url": "",
+        "statut": "ok"
+      },
       "id": "en-remilly-2025-blanc-dc10r1",
       "cuvee": "En Remilly",
       "casierId": "D-C10-R1"
@@ -14167,27 +14174,41 @@
       "cuvee": "Au Champ Salomon",
       "appellation": "Marsannay",
       "region": "Bourgogne",
-      "millesime": 2024,
+      "millesime": "2024",
       "couleur": "rouge",
       "format": "150 cl",
       "apogeeDebut": 2027,
       "apogeeFin": 2036,
-      "notes": "Magnum",
+      "notes": "Magnum | Prix d'achat 72.00 EUR TTC soit 60.00 EUR HT - MAGNUM - facture Bart 270212 du 22/10/2026, PU magnum 72 EUR TTC.",
       "casierId": "E-C5-R6",
       "quantite": 1,
       "dateEntree": 1792886400000,
-      "cote": null
+      "cote": {
+        "valeur_eur": 60,
+        "devise": "EUR",
+        "source": "tarif domaine — MAGNUM - facture Bart 270212 du 22/10/2026, PU magnum 72 EUR TTC",
+        "dateReleve": "2026-10-25",
+        "url": "",
+        "statut": "ok"
+      }
     },
     {
       "region": "Bourgogne",
-      "millesime": 2024,
+      "millesime": "2024",
       "couleur": "rouge",
       "format": "75 cl",
-      "notes": "",
+      "notes": "Prix d'achat 50.00 EUR HT - tarif pro 2024 HT.",
       "casierId": "F-C2-R1",
       "quantite": 6,
       "dateEntree": 1792886400000,
-      "cote": null,
+      "cote": {
+        "valeur_eur": 50,
+        "devise": "EUR",
+        "source": "tarif domaine — tarif pro 2024 HT",
+        "dateReleve": "2026-10-25",
+        "url": "",
+        "statut": "ok"
+      },
       "id": "vosne-romanee-2024-rouge-fc2r1",
       "domaine": "Domaine Georges Noellat",
       "cuvee": "",
@@ -14197,14 +14218,21 @@
     },
     {
       "region": "Bourgogne",
-      "millesime": 2024,
+      "millesime": "2024",
       "couleur": "rouge",
       "format": "75 cl",
-      "notes": "",
+      "notes": "Prix d'achat 16.50 EUR HT - tarif pro 2024 HT.",
       "casierId": "F-C2-R1",
       "quantite": 6,
       "dateEntree": 1792886400000,
-      "cote": null,
+      "cote": {
+        "valeur_eur": 16.5,
+        "devise": "EUR",
+        "source": "tarif domaine — tarif pro 2024 HT",
+        "dateReleve": "2026-10-25",
+        "url": "",
+        "statut": "ok"
+      },
       "id": "cote-de-nuits-villages-2024-rouge-fc2r1",
       "domaine": "Maxime Cheurlin Noellat",
       "cuvee": "",
@@ -14367,9 +14395,9 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Doublon supprime le 25/10/2026 : saisie en double des casiers G-C7-R5 et G-C7-R6 sous un code colonne errone (G7 au lieu de C7). Les bouteilles reelles sont les lots G-C7.",
       "casierId": "G-G7-R6",
-      "quantite": 3,
+      "quantite": 0,
       "dateEntree": 1792928202199,
       "cote": null
     },
@@ -14384,9 +14412,9 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Doublon supprime le 25/10/2026 : saisie en double des casiers G-C7-R5 et G-C7-R6 sous un code colonne errone (G7 au lieu de C7). Les bouteilles reelles sont les lots G-C7.",
       "casierId": "G-G7-R6",
-      "quantite": 2,
+      "quantite": 0,
       "dateEntree": 1792928202199,
       "cote": null
     },
@@ -14401,18 +14429,11 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "Cote iDealwine (prix d'adjudication, frais acheteur inclus) - non comparable a une cote Wine-Searcher (detail HT).",
+      "notes": "Cote iDealwine (prix d'adjudication, frais acheteur inclus) - non comparable a une cote Wine-Searcher (detail HT). | Doublon supprime le 25/10/2026 : saisie en double des casiers G-C7-R5 et G-C7-R6 sous un code colonne errone (G7 au lieu de C7). Les bouteilles reelles sont les lots G-C7.",
       "casierId": "G-G7-R6",
-      "quantite": 2,
+      "quantite": 0,
       "dateEntree": 1792928202199,
-      "cote": {
-        "valeur_eur": 154,
-        "devise": "EUR",
-        "source": "idealwine (cote encheres) — releve du 25/10/2026",
-        "dateReleve": "2026-10-25",
-        "url": "https://www.idealwine.com/en/wine-prices/122111-2023-Bottle-Burgundy-Chambolle-Musigny-Premier-Cru-Les-Veroilles-Ghislaine-Barthod-red",
-        "statut": "ok"
-      }
+      "cote": null
     },
     {
       "id": "barthod-chambolle-cras-2023-G-G7-R6",
@@ -14425,18 +14446,11 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "Cote iDealwine (prix d'adjudication, frais acheteur inclus) - non comparable a une cote Wine-Searcher (detail HT).",
+      "notes": "Cote iDealwine (prix d'adjudication, frais acheteur inclus) - non comparable a une cote Wine-Searcher (detail HT). | Doublon supprime le 25/10/2026 : saisie en double des casiers G-C7-R5 et G-C7-R6 sous un code colonne errone (G7 au lieu de C7). Les bouteilles reelles sont les lots G-C7.",
       "casierId": "G-G7-R6",
-      "quantite": 2,
+      "quantite": 0,
       "dateEntree": 1792928202199,
-      "cote": {
-        "valeur_eur": 176,
-        "devise": "EUR",
-        "source": "idealwine (cote encheres) — releve du 25/10/2026",
-        "dateReleve": "2026-10-25",
-        "url": "https://www.idealwine.com/en/wine-prices/122110-2023-Bottle-Burgundy-Chambolle-Musigny-Premier-Cru-Les-Cras-Ghislaine-Barthod-red",
-        "statut": "ok"
-      }
+      "cote": null
     },
     {
       "id": "barthod-chambolle-village-2023-G-C7-R6",
@@ -14531,11 +14545,18 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Prix d'achat 59.00 EUR TTC soit 49.17 EUR HT - pro-forma Arlaud 062886 du 22/06/2026.",
       "casierId": "D-C2-R1",
       "quantite": 2,
       "dateEntree": 1792929463662,
-      "cote": null
+      "cote": {
+        "valeur_eur": 49.17,
+        "devise": "EUR",
+        "source": "tarif domaine — pro-forma Arlaud 062886 du 22/06/2026",
+        "dateReleve": "2026-10-25",
+        "url": "",
+        "statut": "ok"
+      }
     },
     {
       "id": "arlaud-msd-cheseaux-1er-2024",
@@ -14548,11 +14569,18 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Prix d'achat 84.00 EUR TTC soit 70.00 EUR HT - pro-forma Arlaud 062886 du 22/06/2026.",
       "casierId": "D-C2-R1",
       "quantite": 1,
       "dateEntree": 1792929463662,
-      "cote": null
+      "cote": {
+        "valeur_eur": 70,
+        "devise": "EUR",
+        "source": "tarif domaine — pro-forma Arlaud 062886 du 22/06/2026",
+        "dateReleve": "2026-10-25",
+        "url": "",
+        "statut": "ok"
+      }
     },
     {
       "id": "arlaud-msd-blanchards-1er-2024",
@@ -14565,11 +14593,18 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Prix d'achat 84.00 EUR TTC soit 70.00 EUR HT - pro-forma Arlaud 062886 du 22/06/2026.",
       "casierId": "D-C2-R1",
       "quantite": 1,
       "dateEntree": 1792929463662,
-      "cote": null
+      "cote": {
+        "valeur_eur": 70,
+        "devise": "EUR",
+        "source": "tarif domaine — pro-forma Arlaud 062886 du 22/06/2026",
+        "dateReleve": "2026-10-25",
+        "url": "",
+        "statut": "ok"
+      }
     },
     {
       "id": "marcroy-gevrey-closprieur-2024",
@@ -14582,11 +14617,18 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Prix d'achat 60.00 EUR TTC soit 50.00 EUR HT - tarif domaine 2024 - le document ne precise ni HT ni TTC, lu comme TTC.",
       "casierId": "G-C9-R3",
       "quantite": 3,
       "dateEntree": 1792929651253,
-      "cote": null
+      "cote": {
+        "valeur_eur": 50,
+        "devise": "EUR",
+        "source": "tarif domaine — tarif domaine 2024 - le document ne precise ni HT ni TTC, lu comme TTC",
+        "dateReleve": "2026-10-25",
+        "url": "",
+        "statut": "ok"
+      }
     },
     {
       "id": "marcroy-gevrey-vv-2024",
@@ -14599,11 +14641,18 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Prix d'achat 60.00 EUR TTC soit 50.00 EUR HT - tarif domaine 2024 - le document ne precise ni HT ni TTC, lu comme TTC.",
       "casierId": "G-C9-R3",
       "quantite": 3,
       "dateEntree": 1792929651253,
-      "cote": null
+      "cote": {
+        "valeur_eur": 50,
+        "devise": "EUR",
+        "source": "tarif domaine — tarif domaine 2024 - le document ne precise ni HT ni TTC, lu comme TTC",
+        "dateReleve": "2026-10-25",
+        "url": "",
+        "statut": "ok"
+      }
     },
     {
       "id": "voillot-pommard-vv-2024-G-C9-R1",
@@ -14616,11 +14665,18 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Prix d'achat 30.00 EUR TTC soit 25.00 EUR HT - tarif 2023 TTC depart cave reconduit sur 2024 (accord verbal, non ecrit).",
       "casierId": "G-C9-R1",
       "quantite": 3,
       "dateEntree": 1792930066138,
-      "cote": null
+      "cote": {
+        "valeur_eur": 25,
+        "devise": "EUR",
+        "source": "tarif domaine — tarif 2023 TTC depart cave reconduit sur 2024 (accord verbal, non ecrit)",
+        "dateReleve": "2026-10-25",
+        "url": "",
+        "statut": "ok"
+      }
     },
     {
       "id": "voillot-volnay-vv-2024-G-C9-R2",
@@ -14633,11 +14689,18 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Prix d'achat 30.00 EUR TTC soit 25.00 EUR HT - tarif 2023 TTC depart cave reconduit sur 2024 (accord verbal, non ecrit).",
       "casierId": "G-C9-R2",
       "quantite": 3,
       "dateEntree": 1792930066138,
-      "cote": null
+      "cote": {
+        "valeur_eur": 25,
+        "devise": "EUR",
+        "source": "tarif domaine — tarif 2023 TTC depart cave reconduit sur 2024 (accord verbal, non ecrit)",
+        "dateReleve": "2026-10-25",
+        "url": "",
+        "statut": "ok"
+      }
     },
     {
       "id": "voillot-volnay-caillerets-2024-G-C9-R2",
@@ -14650,11 +14713,18 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Prix d'achat 60.00 EUR TTC soit 50.00 EUR HT - tarif 2023 TTC depart cave reconduit sur 2024 (accord verbal, non ecrit).",
       "casierId": "G-C9-R2",
       "quantite": 2,
       "dateEntree": 1792930066138,
-      "cote": null
+      "cote": {
+        "valeur_eur": 50,
+        "devise": "EUR",
+        "source": "tarif domaine — tarif 2023 TTC depart cave reconduit sur 2024 (accord verbal, non ecrit)",
+        "dateReleve": "2026-10-25",
+        "url": "",
+        "statut": "ok"
+      }
     },
     {
       "id": "voillot-volnay-champans-2024-G-C9-R2",
@@ -14667,11 +14737,18 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Prix d'achat 60.00 EUR TTC soit 50.00 EUR HT - tarif 2023 TTC depart cave reconduit sur 2024 (accord verbal, non ecrit).",
       "casierId": "G-C9-R2",
       "quantite": 2,
       "dateEntree": 1792930066138,
-      "cote": null
+      "cote": {
+        "valeur_eur": 50,
+        "devise": "EUR",
+        "source": "tarif domaine — tarif 2023 TTC depart cave reconduit sur 2024 (accord verbal, non ecrit)",
+        "dateReleve": "2026-10-25",
+        "url": "",
+        "statut": "ok"
+      }
     },
     {
       "id": "bize-aloxe-corton-suchot-2022",
@@ -14766,11 +14843,18 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Prix d'achat 35.00 EUR HT - tarif pro 2024 HT.",
       "casierId": "F-C2-R2",
       "quantite": 6,
       "dateEntree": 1792934500391,
-      "cote": null
+      "cote": {
+        "valeur_eur": 35,
+        "devise": "EUR",
+        "source": "tarif domaine — tarif pro 2024 HT",
+        "dateReleve": "2026-10-25",
+        "url": "",
+        "statut": "ok"
+      }
     },
     {
       "id": "gnoellat-vosne-chaumes-1er-2024",
@@ -14783,11 +14867,18 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Prix d'achat 75.00 EUR HT - tarif pro 2024 HT.",
       "casierId": "F-C2-R2",
       "quantite": 3,
       "dateEntree": 1792934500391,
-      "cote": null
+      "cote": {
+        "valeur_eur": 75,
+        "devise": "EUR",
+        "source": "tarif domaine — tarif pro 2024 HT",
+        "dateReleve": "2026-10-25",
+        "url": "",
+        "statut": "ok"
+      }
     },
     {
       "id": "gnoellat-vosne-petits-monts-1er-2024",
@@ -14800,11 +14891,18 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Prix d'achat 100.00 EUR HT - tarif pro 2024 HT.",
       "casierId": "F-C2-R2",
       "quantite": 3,
       "dateEntree": 1792934500391,
-      "cote": null
+      "cote": {
+        "valeur_eur": 100,
+        "devise": "EUR",
+        "source": "tarif domaine — tarif pro 2024 HT",
+        "dateReleve": "2026-10-25",
+        "url": "",
+        "statut": "ok"
+      }
     },
     {
       "id": "cheurlin-noellat-gevrey-en-champs-2024",
@@ -14817,11 +14915,18 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Prix d'achat 38.00 EUR HT - tarif pro 2024 HT.",
       "casierId": "F-C2-R2",
       "quantite": 3,
       "dateEntree": 1792934500391,
-      "cote": null
+      "cote": {
+        "valeur_eur": 38,
+        "devise": "EUR",
+        "source": "tarif domaine — tarif pro 2024 HT",
+        "dateReleve": "2026-10-25",
+        "url": "",
+        "statut": "ok"
+      }
     },
     {
       "id": "gnoellat-beaune-tuvilains-1er-2024-F-C2-R1",
@@ -14834,11 +14939,18 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Prix d'achat 35.00 EUR HT - tarif pro 2024 HT.",
       "casierId": "F-C2-R1",
       "quantite": 3,
       "dateEntree": 1792934500391,
-      "cote": null
+      "cote": {
+        "valeur_eur": 35,
+        "devise": "EUR",
+        "source": "tarif domaine — tarif pro 2024 HT",
+        "dateReleve": "2026-10-25",
+        "url": "",
+        "statut": "ok"
+      }
     },
     {
       "id": "chevillon-nsg-bousselots-2024-fc4r1-a",
@@ -15114,11 +15226,18 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Prix d'achat 38.00 EUR TTC soit 31.67 EUR HT - tarif domaine millesime 2024 TTC.",
       "casierId": "D-C11-R5",
       "quantite": 4,
       "dateEntree": 1792935931272,
-      "cote": null
+      "cote": {
+        "valeur_eur": 31.67,
+        "devise": "EUR",
+        "source": "tarif domaine — tarif domaine millesime 2024 TTC",
+        "dateReleve": "2026-10-25",
+        "url": "",
+        "statut": "ok"
+      }
     },
     {
       "id": "bachelet-staubin-champlots-2024",
@@ -15131,11 +15250,18 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Prix d'achat 33.00 EUR TTC soit 27.50 EUR HT - tarif domaine millesime 2024 TTC.",
       "casierId": "D-C11-R5",
       "quantite": 4,
       "dateEntree": 1792935931272,
-      "cote": null
+      "cote": {
+        "valeur_eur": 27.5,
+        "devise": "EUR",
+        "source": "tarif domaine — tarif domaine millesime 2024 TTC",
+        "dateReleve": "2026-10-25",
+        "url": "",
+        "statut": "ok"
+      }
     },
     {
       "id": "bachelet-staubin-murgers-dents-chien-2024",
@@ -15148,11 +15274,18 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Prix d'achat 48.00 EUR TTC soit 40.00 EUR HT - tarif domaine millesime 2024 TTC.",
       "casierId": "D-C11-R5",
       "quantite": 2,
       "dateEntree": 1792935931272,
-      "cote": null
+      "cote": {
+        "valeur_eur": 40,
+        "devise": "EUR",
+        "source": "tarif domaine — tarif domaine millesime 2024 TTC",
+        "dateReleve": "2026-10-25",
+        "url": "",
+        "statut": "ok"
+      }
     },
     {
       "id": "bachelet-staubin-derriere-la-tour-2024",
@@ -15165,11 +15298,18 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Prix d'achat 29.00 EUR TTC soit 24.17 EUR HT - tarif domaine millesime 2024 TTC.",
       "casierId": "D-C11-R6",
       "quantite": 1,
       "dateEntree": 1792935931272,
-      "cote": null
+      "cote": {
+        "valeur_eur": 24.17,
+        "devise": "EUR",
+        "source": "tarif domaine — tarif domaine millesime 2024 TTC",
+        "dateReleve": "2026-10-25",
+        "url": "",
+        "statut": "ok"
+      }
     },
     {
       "id": "bachelet-staubin-frionnes-2024",
@@ -15182,11 +15322,18 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Prix d'achat 33.00 EUR TTC soit 27.50 EUR HT - tarif domaine millesime 2024 TTC.",
       "casierId": "D-C11-R6",
       "quantite": 1,
       "dateEntree": 1792935931272,
-      "cote": null
+      "cote": {
+        "valeur_eur": 27.5,
+        "devise": "EUR",
+        "source": "tarif domaine — tarif domaine millesime 2024 TTC",
+        "dateReleve": "2026-10-25",
+        "url": "",
+        "statut": "ok"
+      }
     },
     {
       "id": "hgermain-meursault-village-2024",
@@ -15199,11 +15346,18 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Prix d'achat 39.00 EUR TTC soit 32.50 EUR HT - facture Germain 2627075 du 23/10/2026.",
       "casierId": "D-C9-R6",
       "quantite": 6,
       "dateEntree": 1792936612516,
-      "cote": null
+      "cote": {
+        "valeur_eur": 32.5,
+        "devise": "EUR",
+        "source": "tarif domaine — facture Germain 2627075 du 23/10/2026",
+        "dateReleve": "2026-10-25",
+        "url": "",
+        "statut": "ok"
+      }
     },
     {
       "id": "hgermain-meursault-limozin-2024",
@@ -15216,11 +15370,18 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Prix d'achat 54.00 EUR TTC soit 45.00 EUR HT - facture Germain 2627075 du 23/10/2026.",
       "casierId": "D-C9-R6",
       "quantite": 3,
       "dateEntree": 1792936612516,
-      "cote": null
+      "cote": {
+        "valeur_eur": 45,
+        "devise": "EUR",
+        "source": "tarif domaine — facture Germain 2627075 du 23/10/2026",
+        "dateReleve": "2026-10-25",
+        "url": "",
+        "statut": "ok"
+      }
     },
     {
       "id": "hgermain-meursault-poruzots-2024",
@@ -15233,11 +15394,18 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Prix d'achat 74.00 EUR TTC soit 61.67 EUR HT - facture Germain 2627075 du 23/10/2026.",
       "casierId": "D-C9-R6",
       "quantite": 2,
       "dateEntree": 1792936612516,
-      "cote": null
+      "cote": {
+        "valeur_eur": 61.67,
+        "devise": "EUR",
+        "source": "tarif domaine — facture Germain 2627075 du 23/10/2026",
+        "dateReleve": "2026-10-25",
+        "url": "",
+        "statut": "ok"
+      }
     },
     {
       "id": "hgermain-chassagne-morgeot-fairendes-2024",
@@ -15250,11 +15418,18 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Prix d'achat 70.00 EUR TTC soit 58.33 EUR HT - facture Germain 2627075 du 23/10/2026.",
       "casierId": "D-C9-R6",
       "quantite": 2,
       "dateEntree": 1792936612516,
-      "cote": null
+      "cote": {
+        "valeur_eur": 58.33,
+        "devise": "EUR",
+        "source": "tarif domaine — facture Germain 2627075 du 23/10/2026",
+        "dateReleve": "2026-10-25",
+        "url": "",
+        "statut": "ok"
+      }
     },
     {
       "id": "hgermain-meursault-charmes-2024",
@@ -15267,11 +15442,18 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Prix d'achat 74.00 EUR TTC soit 61.67 EUR HT - facture Germain 2627075 du 23/10/2026.",
       "casierId": "D-C9-R6",
       "quantite": 2,
       "dateEntree": 1792936612516,
-      "cote": null
+      "cote": {
+        "valeur_eur": 61.67,
+        "devise": "EUR",
+        "source": "tarif domaine — facture Germain 2627075 du 23/10/2026",
+        "dateReleve": "2026-10-25",
+        "url": "",
+        "statut": "ok"
+      }
     },
     {
       "id": "schafer-frohlich-felseneck-riesling-gg-2023",
@@ -15342,11 +15524,18 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Prix d'achat 25.00 EUR TTC soit 20.83 EUR HT - tarif domaine 2024 TTC depart cave.",
       "casierId": "D-C1-R4",
       "quantite": 2,
       "dateEntree": 1792937661327,
-      "cote": null
+      "cote": {
+        "valeur_eur": 20.83,
+        "devise": "EUR",
+        "source": "tarif domaine — tarif domaine 2024 TTC depart cave",
+        "dateReleve": "2026-10-25",
+        "url": "",
+        "statut": "ok"
+      }
     },
     {
       "id": "bart-marsannay-longeroies-2024",
@@ -15359,11 +15548,18 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Prix d'achat 23.00 EUR TTC soit 19.17 EUR HT - tarif domaine 2024 TTC depart cave.",
       "casierId": "D-C1-R4",
       "quantite": 2,
       "dateEntree": 1792937661327,
-      "cote": null
+      "cote": {
+        "valeur_eur": 19.17,
+        "devise": "EUR",
+        "source": "tarif domaine — tarif domaine 2024 TTC depart cave",
+        "dateReleve": "2026-10-25",
+        "url": "",
+        "statut": "ok"
+      }
     },
     {
       "id": "bart-marsannay-closduroy-2024-D-C1-R4",
@@ -15376,11 +15572,18 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Prix d'achat 33.00 EUR TTC soit 27.50 EUR HT - tarif domaine 2024 TTC depart cave.",
       "casierId": "D-C1-R4",
       "quantite": 1,
       "dateEntree": 1792937661327,
-      "cote": null
+      "cote": {
+        "valeur_eur": 27.5,
+        "devise": "EUR",
+        "source": "tarif domaine — tarif domaine 2024 TTC depart cave",
+        "dateReleve": "2026-10-25",
+        "url": "",
+        "statut": "ok"
+      }
     },
     {
       "id": "bart-marsannay-closduroy-2024-D-C1-R5",
@@ -15393,11 +15596,18 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Prix d'achat 33.00 EUR TTC soit 27.50 EUR HT - tarif domaine 2024 TTC depart cave.",
       "casierId": "D-C1-R5",
       "quantite": 1,
       "dateEntree": 1792937661327,
-      "cote": null
+      "cote": {
+        "valeur_eur": 27.5,
+        "devise": "EUR",
+        "source": "tarif domaine — tarif domaine 2024 TTC depart cave",
+        "dateReleve": "2026-10-25",
+        "url": "",
+        "statut": "ok"
+      }
     },
     {
       "id": "droin-chablis-2025",
@@ -15410,11 +15620,18 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Prix d'achat 19.50 EUR TTC soit 16.25 EUR HT - facture Droin 260681 du 07/10/2026.",
       "casierId": "E-C1-R5",
       "quantite": 8,
       "dateEntree": 1792938433288,
-      "cote": null
+      "cote": {
+        "valeur_eur": 16.25,
+        "devise": "EUR",
+        "source": "tarif domaine — facture Droin 260681 du 07/10/2026",
+        "dateReleve": "2026-10-25",
+        "url": "",
+        "statut": "ok"
+      }
     },
     {
       "id": "droin-vosgros-2025",
@@ -15427,11 +15644,18 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Prix d'achat 27.90 EUR TTC soit 23.25 EUR HT - facture Droin 260681 du 07/10/2026.",
       "casierId": "E-C1-R6",
       "quantite": 4,
       "dateEntree": 1792938542418,
-      "cote": null
+      "cote": {
+        "valeur_eur": 23.25,
+        "devise": "EUR",
+        "source": "tarif domaine — facture Droin 260681 du 07/10/2026",
+        "dateReleve": "2026-10-25",
+        "url": "",
+        "statut": "ok"
+      }
     },
     {
       "id": "droin-vaudesir-2025",
@@ -15444,11 +15668,18 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Prix d'achat 51.00 EUR TTC soit 42.50 EUR HT - facture Droin 260681 du 07/10/2026.",
       "casierId": "E-C1-R6",
       "quantite": 2,
       "dateEntree": 1792938542418,
-      "cote": null
+      "cote": {
+        "valeur_eur": 42.5,
+        "devise": "EUR",
+        "source": "tarif domaine — facture Droin 260681 du 07/10/2026",
+        "dateReleve": "2026-10-25",
+        "url": "",
+        "statut": "ok"
+      }
     },
     {
       "id": "droin-valmur-2025",
@@ -15461,11 +15692,18 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Prix d'achat 51.00 EUR TTC soit 42.50 EUR HT - facture Droin 260681 du 07/10/2026.",
       "casierId": "E-C1-R6",
       "quantite": 2,
       "dateEntree": 1792938542418,
-      "cote": null
+      "cote": {
+        "valeur_eur": 42.5,
+        "devise": "EUR",
+        "source": "tarif domaine — facture Droin 260681 du 07/10/2026",
+        "dateReleve": "2026-10-25",
+        "url": "",
+        "statut": "ok"
+      }
     },
     {
       "id": "droin-mont-de-milieu-2025",
@@ -15478,11 +15716,18 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Prix d'achat 32.50 EUR TTC soit 27.08 EUR HT - facture Droin 260681 du 07/10/2026.",
       "casierId": "E-C1-R6",
       "quantite": 2,
       "dateEntree": 1792938542418,
-      "cote": null
+      "cote": {
+        "valeur_eur": 27.08,
+        "devise": "EUR",
+        "source": "tarif domaine — facture Droin 260681 du 07/10/2026",
+        "dateReleve": "2026-10-25",
+        "url": "",
+        "statut": "ok"
+      }
     },
     {
       "id": "gilles-rieux-2024",
@@ -15495,11 +15740,18 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Prix d'achat 32.00 EUR TTC soit 26.67 EUR HT - tarif domaine 2024 TTC (96 EUR pour 3 bouteilles).",
       "casierId": "G-C4-R1",
       "quantite": 3,
       "dateEntree": 1792939355980,
-      "cote": null
+      "cote": {
+        "valeur_eur": 26.67,
+        "devise": "EUR",
+        "source": "tarif domaine — tarif domaine 2024 TTC (96 EUR pour 3 bouteilles)",
+        "dateReleve": "2026-10-25",
+        "url": "",
+        "statut": "ok"
+      }
     },
     {
       "id": "gilles-rieux-2023",
@@ -15512,11 +15764,18 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Prix d'achat 28.00 EUR TTC soit 23.33 EUR HT - tarif domaine 2023 TTC (84 EUR pour 3 bouteilles).",
       "casierId": "G-C4-R1",
       "quantite": 1,
       "dateEntree": 1792939355980,
-      "cote": null
+      "cote": {
+        "valeur_eur": 23.33,
+        "devise": "EUR",
+        "source": "tarif domaine — tarif domaine 2023 TTC (84 EUR pour 3 bouteilles)",
+        "dateReleve": "2026-10-25",
+        "url": "",
+        "statut": "ok"
+      }
     },
     {
       "id": "gilles-rieux-2023-gc3r2",
@@ -15529,11 +15788,18 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Prix d'achat 28.00 EUR TTC soit 23.33 EUR HT - tarif domaine 2023 TTC (84 EUR pour 3 bouteilles).",
       "casierId": "G-C3-R2",
       "quantite": 2,
       "dateEntree": 1792939399232,
-      "cote": null
+      "cote": {
+        "valeur_eur": 23.33,
+        "devise": "EUR",
+        "source": "tarif domaine — tarif domaine 2023 TTC (84 EUR pour 3 bouteilles)",
+        "dateReleve": "2026-10-25",
+        "url": "",
+        "statut": "ok"
+      }
     }
   ],
   "movements": [
@@ -21207,5 +21473,5 @@
       "ts": 1780704000000
     }
   ],
-  "date": "2026-10-25T17:04:20.689Z"
+  "date": "2026-10-25T17:12:28.291Z"
 }
