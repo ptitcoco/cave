@@ -1304,18 +1304,17 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Prix d'achat 25.00 EUR TTC soit 20.83 EUR HT - tarif Casa Guelfucci.",
       "casierId": "G-C1-R1",
       "quantite": 1,
       "dateEntree": 1780704000000,
       "cote": {
-        "valeur_eur": null,
+        "valeur_eur": 20.83,
         "devise": "EUR",
-        "source": "wine-searcher (calculateur de cave)",
-        "valeurLocation": "Europe (HT)",
-        "dateReleve": "2026-06-09T00:00:00.000Z",
-        "url": null,
-        "statut": "sans_prix"
+        "source": "tarif domaine — Casa Guelfucci, prix communique par le proprietaire le 25/10/2026",
+        "dateReleve": "2026-10-25",
+        "url": "",
+        "statut": "ok"
       }
     },
     {
@@ -1329,18 +1328,17 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Prix d'achat 25.00 EUR TTC soit 20.83 EUR HT - tarif Casa Guelfucci.",
       "casierId": "G-C1-R1",
       "quantite": 1,
       "dateEntree": 1780704000000,
       "cote": {
-        "valeur_eur": null,
+        "valeur_eur": 20.83,
         "devise": "EUR",
-        "source": "wine-searcher (calculateur de cave)",
-        "valeurLocation": "Europe (HT)",
-        "dateReleve": "2026-06-09T00:00:00.000Z",
-        "url": null,
-        "statut": "sans_prix"
+        "source": "tarif domaine — Casa Guelfucci, prix communique par le proprietaire le 25/10/2026",
+        "dateReleve": "2026-10-25",
+        "url": "",
+        "statut": "ok"
       }
     },
     {
@@ -1354,11 +1352,18 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "55% Minustellu, 35% Sciaccarellu, 10% Aleaticu",
+      "notes": "55% Minustellu, 35% Sciaccarellu, 10% Aleaticu | Prix d'achat 25.00 EUR TTC soit 20.83 EUR HT - tarif Casa Guelfucci.",
       "casierId": "G-C1-R1",
       "quantite": 3,
       "dateEntree": 1780704000000,
-      "cote": null
+      "cote": {
+        "valeur_eur": 20.83,
+        "devise": "EUR",
+        "source": "tarif domaine — Casa Guelfucci, prix communique par le proprietaire le 25/10/2026",
+        "dateReleve": "2026-10-25",
+        "url": "",
+        "statut": "ok"
+      }
     },
     {
       "id": "alzipratu-suale-2020-gc1r4",
@@ -1513,11 +1518,18 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "13% · verre foncé",
+      "notes": "13% · verre foncé | Prix d'achat 55.00 EUR TTC soit 45.83 EUR HT - tarif Vaccelli.",
       "casierId": "G-C2-R1",
       "quantite": 2,
       "dateEntree": 1780722766077,
-      "cote": null
+      "cote": {
+        "valeur_eur": 45.83,
+        "devise": "EUR",
+        "source": "tarif domaine — Vaccelli, prix communique par le proprietaire le 25/10/2026",
+        "dateReleve": "2026-10-25",
+        "url": "",
+        "statut": "ok"
+      }
     },
     {
       "id": "vaccelli-2023-blanc-gc2r1",
@@ -1530,11 +1542,18 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "Vermentinu · 13% · verre vert",
+      "notes": "Vermentinu · 13% · verre vert | Prix d'achat 55.00 EUR TTC soit 45.83 EUR HT - tarif Vaccelli.",
       "casierId": "G-C2-R1",
       "quantite": 2,
       "dateEntree": 1780722766077,
-      "cote": null
+      "cote": {
+        "valeur_eur": 45.83,
+        "devise": "EUR",
+        "source": "tarif domaine — Vaccelli, prix communique par le proprietaire le 25/10/2026",
+        "dateReleve": "2026-10-25",
+        "url": "",
+        "statut": "ok"
+      }
     },
     {
       "id": "quartz-2022-blanc-gc2r1",
@@ -1547,11 +1566,18 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "Vieux cépages corses · 13,5% · verre vert",
+      "notes": "Vieux cépages corses · 13,5% · verre vert | Prix d'achat 55.00 EUR TTC soit 45.83 EUR HT - tarif Vaccelli.",
       "casierId": "G-C2-R1",
       "quantite": 1,
       "dateEntree": 1780722766077,
-      "cote": null
+      "cote": {
+        "valeur_eur": 45.83,
+        "devise": "EUR",
+        "source": "tarif domaine — Vaccelli, prix communique par le proprietaire le 25/10/2026",
+        "dateReleve": "2026-10-25",
+        "url": "",
+        "statut": "ok"
+      }
     },
     {
       "id": "granit-174-2022-rouge-gc2r1",
@@ -1589,11 +1615,18 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "Vieux cépages corses · verre vert",
+      "notes": "Vieux cépages corses · verre vert | Prix d'achat 55.00 EUR TTC soit 45.83 EUR HT - tarif Vaccelli.",
       "casierId": "G-C2-R1",
       "quantite": 1,
       "dateEntree": 1780722766077,
-      "cote": null
+      "cote": {
+        "valeur_eur": 45.83,
+        "devise": "EUR",
+        "source": "tarif domaine — Vaccelli, prix communique par le proprietaire le 25/10/2026",
+        "dateReleve": "2026-10-25",
+        "url": "",
+        "statut": "ok"
+      }
     },
     {
       "id": "peraldi-cardinal-2016",
@@ -1655,11 +1688,18 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "Cote remise a zero le 25/10/2026 : Wine-Searcher avait renvoye statut ok avec une valeur de 0 EUR, et iDealwine ne cote pas ce vin.",
+      "notes": "Cote remise a zero le 25/10/2026 : Wine-Searcher avait renvoye statut ok avec une valeur de 0 EUR, et iDealwine ne cote pas ce vin. | Prix d'achat 35.00 EUR TTC soit 29.17 EUR HT - tarif Comte Peraldi.",
       "casierId": "G-C2-R2",
       "quantite": 4,
       "dateEntree": 1780723261922,
-      "cote": null
+      "cote": {
+        "valeur_eur": 29.17,
+        "devise": "EUR",
+        "source": "tarif domaine — Comte Peraldi, prix communique par le proprietaire le 25/10/2026",
+        "dateReleve": "2026-10-25",
+        "url": "",
+        "statut": "ok"
+      }
     },
     {
       "id": "peraldi-cardinal-2021",
@@ -1697,11 +1737,18 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "Cote remise a zero le 25/10/2026 : Wine-Searcher avait renvoye statut ok avec une valeur de 0 EUR, et iDealwine ne cote pas ce vin.",
+      "notes": "Cote remise a zero le 25/10/2026 : Wine-Searcher avait renvoye statut ok avec une valeur de 0 EUR, et iDealwine ne cote pas ce vin. | Prix d'achat 35.00 EUR TTC soit 29.17 EUR HT - tarif Comte Peraldi.",
       "casierId": "G-C2-R2",
       "quantite": 1,
       "dateEntree": 1780723261922,
-      "cote": null
+      "cote": {
+        "valeur_eur": 29.17,
+        "devise": "EUR",
+        "source": "tarif domaine — Comte Peraldi, prix communique par le proprietaire le 25/10/2026",
+        "dateReleve": "2026-10-25",
+        "url": "",
+        "statut": "ok"
+      }
     },
     {
       "id": "peraldi-ajaccio-2022",
@@ -1739,18 +1786,17 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Prix d'achat 35.00 EUR TTC soit 29.17 EUR HT - tarif Comte Peraldi.",
       "casierId": "G-C2-R2",
       "quantite": 2,
       "dateEntree": 1780723261922,
       "cote": {
-        "valeur_eur": null,
+        "valeur_eur": 29.17,
         "devise": "EUR",
-        "source": "wine-searcher (calculateur de cave)",
-        "valeurLocation": "Europe (HT)",
-        "dateReleve": "2026-06-09T00:00:00.000Z",
-        "url": "https://www.wine-searcher.com/find/dom+comte+peraldi+ajaccio+cuvee+guillaume+corse+france/2022/europe",
-        "statut": "sans_prix"
+        "source": "tarif domaine — Comte Peraldi, prix communique par le proprietaire le 25/10/2026",
+        "dateReleve": "2026-10-25",
+        "url": "",
+        "statut": "ok"
       }
     },
     {
@@ -1781,11 +1827,18 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Prix d'achat 30.00 EUR TTC soit 25.00 EUR HT - tarif U Stiliccionu, Kalliste.",
       "casierId": "G-C2-R3",
       "quantite": 1,
       "dateEntree": 1780724463814,
-      "cote": null
+      "cote": {
+        "valeur_eur": 25,
+        "devise": "EUR",
+        "source": "tarif domaine — U Stiliccionu, Kalliste, prix communique par le proprietaire le 25/10/2026",
+        "dateReleve": "2026-10-25",
+        "url": "",
+        "statut": "ok"
+      }
     },
     {
       "id": "stiliccionu-antica",
@@ -1798,11 +1851,18 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Prix d'achat 20.00 EUR TTC soit 16.67 EUR HT - tarif U Stiliccionu, Antica.",
       "casierId": "G-C2-R3",
       "quantite": 2,
       "dateEntree": 1780724463814,
-      "cote": null
+      "cote": {
+        "valeur_eur": 16.67,
+        "devise": "EUR",
+        "source": "tarif domaine — U Stiliccionu, Antica, prix communique par le proprietaire le 25/10/2026",
+        "dateReleve": "2026-10-25",
+        "url": "",
+        "statut": "ok"
+      }
     },
     {
       "id": "stiliccionu-vinoteca-carcaghjolo",
@@ -13624,11 +13684,18 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "Cote remise a zero le 25/10/2026 : Wine-Searcher avait renvoye statut ok avec une valeur de 0 EUR, et iDealwine ne cote pas ce vin.",
+      "notes": "Cote remise a zero le 25/10/2026 : Wine-Searcher avait renvoye statut ok avec une valeur de 0 EUR, et iDealwine ne cote pas ce vin. | Prix d'achat 35.00 EUR TTC soit 29.17 EUR HT - tarif Jean-Claude Bachelet, En Remilly 2022.",
       "casierId": "D-C11-R4",
       "quantite": 1,
       "dateEntree": 1780704000000,
-      "cote": null
+      "cote": {
+        "valeur_eur": 29.17,
+        "devise": "EUR",
+        "source": "tarif domaine — Jean-Claude Bachelet, En Remilly 2022, prix communique par le proprietaire le 25/10/2026",
+        "dateReleve": "2026-10-25",
+        "url": "",
+        "statut": "ok"
+      }
     },
     {
       "id": "bachelet-fils-saintaubin-remilly-2019-a",
@@ -13658,11 +13725,18 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "Cote remise a zero le 25/10/2026 : Wine-Searcher avait renvoye statut ok avec une valeur de 0 EUR, et iDealwine ne cote pas ce vin.",
+      "notes": "Cote remise a zero le 25/10/2026 : Wine-Searcher avait renvoye statut ok avec une valeur de 0 EUR, et iDealwine ne cote pas ce vin. | Prix d'achat 35.00 EUR TTC soit 29.17 EUR HT - tarif Jean-Claude Bachelet, En Remilly 2022.",
       "casierId": "D-C11-R4",
       "quantite": 1,
       "dateEntree": 1780704000000,
-      "cote": null
+      "cote": {
+        "valeur_eur": 29.17,
+        "devise": "EUR",
+        "source": "tarif domaine — Jean-Claude Bachelet, En Remilly 2022, prix communique par le proprietaire le 25/10/2026",
+        "dateReleve": "2026-10-25",
+        "url": "",
+        "statut": "ok"
+      }
     },
     {
       "id": "bachelet-saintaubin-champlots-2021",
@@ -13750,11 +13824,18 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "Cote remise a zero le 25/10/2026 : Wine-Searcher avait renvoye statut ok avec une valeur de 0 EUR, et iDealwine ne cote pas ce vin.",
+      "notes": "Cote remise a zero le 25/10/2026 : Wine-Searcher avait renvoye statut ok avec une valeur de 0 EUR, et iDealwine ne cote pas ce vin. | Prix d'achat 35.00 EUR TTC soit 29.17 EUR HT - tarif Jean-Claude Bachelet, En Remilly 2022.",
       "casierId": "D-C11-R4",
       "quantite": 1,
       "dateEntree": 1780704000000,
-      "cote": null
+      "cote": {
+        "valeur_eur": 29.17,
+        "devise": "EUR",
+        "source": "tarif domaine — Jean-Claude Bachelet, En Remilly 2022, prix communique par le proprietaire le 25/10/2026",
+        "dateReleve": "2026-10-25",
+        "url": "",
+        "statut": "ok"
+      }
     },
     {
       "id": "bachelet-fils-saintaubin-remilly-2019-b",
@@ -14003,16 +14084,23 @@
       "cuvee": "La Viallière",
       "appellation": "Côte-Rôtie",
       "region": "Rhône",
-      "millesime": 2022,
+      "millesime": "2022",
       "couleur": "rouge",
       "format": "75 cl",
       "apogeeDebut": 2027,
       "apogeeFin": 2038,
-      "notes": "",
+      "notes": "Prix d'achat 36.00 EUR TTC soit 30.00 EUR HT - tarif Gerin.",
       "casierId": "G-C3-R1",
       "quantite": 2,
       "dateEntree": "2026-07-30",
-      "cote": null
+      "cote": {
+        "valeur_eur": 30,
+        "devise": "EUR",
+        "source": "tarif domaine — Gerin, prix communique par le proprietaire le 25/10/2026",
+        "dateReleve": "2026-10-25",
+        "url": "",
+        "statut": "ok"
+      }
     },
     {
       "id": "gerin-champin-le-seigneur-2023-c3r1",
@@ -14020,16 +14108,23 @@
       "cuvee": "Champin le Seigneur",
       "appellation": "Côte-Rôtie",
       "region": "Rhône",
-      "millesime": 2023,
+      "millesime": "2023",
       "couleur": "rouge",
       "format": "75 cl",
       "apogeeDebut": 2026,
       "apogeeFin": 2035,
-      "notes": "",
+      "notes": "Prix d'achat 36.00 EUR TTC soit 30.00 EUR HT - tarif Gerin.",
       "casierId": "G-C3-R1",
       "quantite": 2,
       "dateEntree": "2026-07-30",
-      "cote": null
+      "cote": {
+        "valeur_eur": 30,
+        "devise": "EUR",
+        "source": "tarif domaine — Gerin, prix communique par le proprietaire le 25/10/2026",
+        "dateReleve": "2026-10-25",
+        "url": "",
+        "statut": "ok"
+      }
     },
     {
       "id": "gerin-la-vialliere-2023-c3r1",
@@ -14037,16 +14132,23 @@
       "cuvee": "La Viallière",
       "appellation": "Côte-Rôtie",
       "region": "Rhône",
-      "millesime": 2023,
+      "millesime": "2023",
       "couleur": "rouge",
       "format": "75 cl",
       "apogeeDebut": 2028,
       "apogeeFin": 2039,
-      "notes": "",
+      "notes": "Prix d'achat 36.00 EUR TTC soit 30.00 EUR HT - tarif Gerin.",
       "casierId": "G-C3-R1",
       "quantite": 1,
       "dateEntree": "2026-07-30",
-      "cote": null
+      "cote": {
+        "valeur_eur": 30,
+        "devise": "EUR",
+        "source": "tarif domaine — Gerin, prix communique par le proprietaire le 25/10/2026",
+        "dateReleve": "2026-10-25",
+        "url": "",
+        "statut": "ok"
+      }
     },
     {
       "id": "ganevat-les-survivants-nv-c10r4",
@@ -14463,11 +14565,18 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Prix d'achat 55.00 EUR TTC soit 45.83 EUR HT - tarif Ghislaine Barthod, village 2023.",
       "casierId": "G-C7-R6",
       "quantite": 3,
       "dateEntree": 1792928310206,
-      "cote": null
+      "cote": {
+        "valeur_eur": 45.83,
+        "devise": "EUR",
+        "source": "tarif domaine — Ghislaine Barthod, village 2023, prix communique par le proprietaire le 25/10/2026",
+        "dateReleve": "2026-10-25",
+        "url": "",
+        "statut": "ok"
+      }
     },
     {
       "id": "barthod-chambolle-charmes-2023-G-C7-R6",
@@ -14480,11 +14589,18 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Prix d'achat 76.00 EUR TTC soit 63.33 EUR HT - tarif Ghislaine Barthod, 1er cru 2023.",
       "casierId": "G-C7-R6",
       "quantite": 2,
       "dateEntree": 1792928310206,
-      "cote": null
+      "cote": {
+        "valeur_eur": 63.33,
+        "devise": "EUR",
+        "source": "tarif domaine — Ghislaine Barthod, 1er cru 2023, prix communique par le proprietaire le 25/10/2026",
+        "dateReleve": "2026-10-25",
+        "url": "",
+        "statut": "ok"
+      }
     },
     {
       "id": "barthod-chambolle-veroilles-2023-G-C7-R6",
@@ -14761,11 +14877,18 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Prix d'achat 40.00 EUR TTC soit 33.33 EUR HT - tarif Simon Bize & Fils.",
       "casierId": "D-C3-R1",
       "quantite": 3,
       "dateEntree": 1792936321280,
-      "cote": null
+      "cote": {
+        "valeur_eur": 33.33,
+        "devise": "EUR",
+        "source": "tarif domaine — Simon Bize & Fils, prix communique par le proprietaire le 25/10/2026",
+        "dateReleve": "2026-10-25",
+        "url": "",
+        "statut": "ok"
+      }
     },
     {
       "id": "bize-savigny-village-2022",
@@ -14826,11 +14949,18 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Prix d'achat 30.00 EUR TTC soit 25.00 EUR HT - tarif Montcalmes.",
       "casierId": "D-C5-R4",
       "quantite": 6,
       "dateEntree": 1792933593309,
-      "cote": null
+      "cote": {
+        "valeur_eur": 25,
+        "devise": "EUR",
+        "source": "tarif domaine — Montcalmes, prix communique par le proprietaire le 25/10/2026",
+        "dateReleve": "2026-10-25",
+        "url": "",
+        "statut": "ok"
+      }
     },
     {
       "id": "gnoellat-beaune-tuvilains-1er-2024-F-C2-R2",
@@ -15158,11 +15288,18 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Prix d'achat 65.00 EUR TTC soit 54.17 EUR HT - tarif Amiot-Servelle, 1er cru.",
       "casierId": "F-C6-R6",
       "quantite": 2,
       "dateEntree": 1792935360714,
-      "cote": null
+      "cote": {
+        "valeur_eur": 54.17,
+        "devise": "EUR",
+        "source": "tarif domaine — Amiot-Servelle, 1er cru, prix communique par le proprietaire le 25/10/2026",
+        "dateReleve": "2026-10-25",
+        "url": "",
+        "statut": "ok"
+      }
     },
     {
       "id": "amiot-servelle-chambolle-charmes-2024",
@@ -15175,11 +15312,18 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Prix d'achat 65.00 EUR TTC soit 54.17 EUR HT - tarif Amiot-Servelle, 1er cru.",
       "casierId": "F-C6-R6",
       "quantite": 2,
       "dateEntree": 1792935360714,
-      "cote": null
+      "cote": {
+        "valeur_eur": 54.17,
+        "devise": "EUR",
+        "source": "tarif domaine — Amiot-Servelle, 1er cru, prix communique par le proprietaire le 25/10/2026",
+        "dateReleve": "2026-10-25",
+        "url": "",
+        "statut": "ok"
+      }
     },
     {
       "id": "amiot-servelle-msd-village-2024",
@@ -15192,11 +15336,18 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Prix d'achat 50.00 EUR TTC soit 41.67 EUR HT - tarif Amiot-Servelle, village.",
       "casierId": "F-C6-R6",
       "quantite": 1,
       "dateEntree": 1792935360714,
-      "cote": null
+      "cote": {
+        "valeur_eur": 41.67,
+        "devise": "EUR",
+        "source": "tarif domaine — Amiot-Servelle, village, prix communique par le proprietaire le 25/10/2026",
+        "dateReleve": "2026-10-25",
+        "url": "",
+        "statut": "ok"
+      }
     },
     {
       "id": "amiot-servelle-chambolle-village-2024",
@@ -15209,11 +15360,18 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Prix d'achat 50.00 EUR TTC soit 41.67 EUR HT - tarif Amiot-Servelle, village.",
       "casierId": "F-C6-R6",
       "quantite": 1,
       "dateEntree": 1792935360714,
-      "cote": null
+      "cote": {
+        "valeur_eur": 41.67,
+        "devise": "EUR",
+        "source": "tarif domaine — Amiot-Servelle, village, prix communique par le proprietaire le 25/10/2026",
+        "dateReleve": "2026-10-25",
+        "url": "",
+        "statut": "ok"
+      }
     },
     {
       "id": "bachelet-staubin-charmois-2024",
@@ -15803,6 +15961,15 @@
     }
   ],
   "movements": [
+    {
+      "id": "adj-1792949571640",
+      "label": "Régularisation d'inventaire",
+      "couleur": null,
+      "addr": "",
+      "delta": -22,
+      "reason": "Régularisation",
+      "ts": 1792949571640
+    },
     {
       "id": "imp-gilles-rieux-2023-gc3r2",
       "lot": "gilles-rieux-2023-gc3r2",
@@ -21473,5 +21640,5 @@
       "ts": 1780704000000
     }
   ],
-  "date": "2026-10-25T17:25:54.563Z"
+  "date": "2026-10-25T17:33:07.040Z"
 }
