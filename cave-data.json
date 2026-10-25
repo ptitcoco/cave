@@ -1974,16 +1974,16 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "Cote iDealwine (prix d'adjudication, frais acheteur inclus) - non comparable a une cote Wine-Searcher (detail HT).",
+      "notes": "Cote iDealwine (prix d'adjudication, frais acheteur inclus) - non comparable a une cote Wine-Searcher (detail HT). | Prix d'achat 36.00 EUR TTC soit 30.00 EUR HT - tarif Jean-Michel Gerin. Remplace la cote iDealwine de 48 EUR du 25/10/2026.",
       "casierId": "G-C3-R3",
       "quantite": 1,
       "dateEntree": 1780725627159,
       "cote": {
-        "valeur_eur": 48,
+        "valeur_eur": 30,
         "devise": "EUR",
-        "source": "idealwine (cote encheres) — releve du 25/10/2026",
+        "source": "tarif domaine — Jean-Michel Gerin, prix communique par le proprietaire le 25/10/2026 (remplace la cote iDealwine de 48 EUR)",
         "dateReleve": "2026-10-25",
-        "url": "https://www.idealwine.com/fr/prix-vin/109201-2013-Bouteille-Vallee-du-Rhone-Cote-Rotie-Champin-Le-Seigneur-Domaine-Gerin-rouge",
+        "url": "",
         "statut": "ok"
       }
     },
@@ -2221,16 +2221,16 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "Cote iDealwine (prix d'adjudication, frais acheteur inclus) - non comparable a une cote Wine-Searcher (detail HT).",
+      "notes": "Cote iDealwine (prix d'adjudication, frais acheteur inclus) - non comparable a une cote Wine-Searcher (detail HT). | Prix d'achat 36.00 EUR TTC soit 30.00 EUR HT - tarif Jean-Michel Gerin. Remplace la cote iDealwine de 48 EUR du 25/10/2026.",
       "casierId": "G-C3-R4",
       "quantite": 1,
       "dateEntree": 1780726086925,
       "cote": {
-        "valeur_eur": 48,
+        "valeur_eur": 30,
         "devise": "EUR",
-        "source": "idealwine (cote encheres) — releve du 25/10/2026",
+        "source": "tarif domaine — Jean-Michel Gerin, prix communique par le proprietaire le 25/10/2026 (remplace la cote iDealwine de 48 EUR)",
         "dateReleve": "2026-10-25",
-        "url": "https://www.idealwine.com/fr/prix-vin/109201-2013-Bouteille-Vallee-du-Rhone-Cote-Rotie-Champin-Le-Seigneur-Domaine-Gerin-rouge",
+        "url": "",
         "statut": "ok"
       }
     },
@@ -14497,16 +14497,16 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "Cote iDealwine (prix d'adjudication, frais acheteur inclus) - non comparable a une cote Wine-Searcher (detail HT).",
+      "notes": "Cote iDealwine (prix d'adjudication, frais acheteur inclus) - non comparable a une cote Wine-Searcher (detail HT). | Prix d'achat 76.00 EUR TTC soit 63.33 EUR HT - tarif Ghislaine Barthod, 1er cru 2023. Remplace la cote iDealwine de 154 EUR du 25/10/2026.",
       "casierId": "G-C7-R6",
       "quantite": 2,
       "dateEntree": 1792928310206,
       "cote": {
-        "valeur_eur": 154,
+        "valeur_eur": 63.33,
         "devise": "EUR",
-        "source": "idealwine (cote encheres) — releve du 25/10/2026",
+        "source": "tarif domaine — Ghislaine Barthod, 1er cru 2023, prix communique par le proprietaire le 25/10/2026 (remplace la cote iDealwine de 154 EUR)",
         "dateReleve": "2026-10-25",
-        "url": "https://www.idealwine.com/en/wine-prices/122111-2023-Bottle-Burgundy-Chambolle-Musigny-Premier-Cru-Les-Veroilles-Ghislaine-Barthod-red",
+        "url": "",
         "statut": "ok"
       }
     },
@@ -14521,16 +14521,16 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "Cote iDealwine (prix d'adjudication, frais acheteur inclus) - non comparable a une cote Wine-Searcher (detail HT).",
+      "notes": "Cote iDealwine (prix d'adjudication, frais acheteur inclus) - non comparable a une cote Wine-Searcher (detail HT). | Prix d'achat 76.00 EUR TTC soit 63.33 EUR HT - tarif Ghislaine Barthod, 1er cru 2023. Remplace la cote iDealwine de 176 EUR du 25/10/2026.",
       "casierId": "G-C7-R6",
       "quantite": 2,
       "dateEntree": 1792928310206,
       "cote": {
-        "valeur_eur": 176,
+        "valeur_eur": 63.33,
         "devise": "EUR",
-        "source": "idealwine (cote encheres) — releve du 25/10/2026",
+        "source": "tarif domaine — Ghislaine Barthod, 1er cru 2023, prix communique par le proprietaire le 25/10/2026 (remplace la cote iDealwine de 176 EUR)",
         "dateReleve": "2026-10-25",
-        "url": "https://www.idealwine.com/en/wine-prices/122110-2023-Bottle-Burgundy-Chambolle-Musigny-Premier-Cru-Les-Cras-Ghislaine-Barthod-red",
+        "url": "",
         "statut": "ok"
       }
     },
@@ -21473,5 +21473,5 @@
       "ts": 1780704000000
     }
   ],
-  "date": "2026-10-25T17:12:28.291Z"
+  "date": "2026-10-25T17:25:54.563Z"
 }
