@@ -561,17 +561,16 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Cote iDealwine (prix d'adjudication, frais acheteur inclus) - non comparable a une cote Wine-Searcher (detail HT).",
       "casierId": "E-C1-R3",
       "quantite": 1,
       "dateEntree": 1780689979592,
       "cote": {
-        "valeur_eur": 0,
+        "valeur_eur": 36,
         "devise": "EUR",
-        "source": "wine-searcher (calculateur de cave)",
-        "valeurLocation": "Europe (HT)",
-        "dateReleve": "2026-06-08T14:35:09.921Z",
-        "url": "https://www.wine-searcher.com/find/jean+paul+benoit+droin+vosgros+chablis+premier+cru+burgundy+france/2020/europe",
+        "source": "idealwine (cote encheres) — releve du 25/10/2026",
+        "dateReleve": "2026-10-25",
+        "url": "https://www.idealwine.com/uk/wine-prices/157049-2020-Bottle-Burgundy-Chablis-1er-Cru-Vosgros-Jean-Paul-Benoit-Droin-Domaine-White.jsp",
         "statut": "ok"
       }
     },
@@ -1490,11 +1489,18 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "Sciaccarellu · ~15% · verre foncé",
+      "notes": "Sciaccarellu · ~15% · verre foncé | Cote iDealwine (prix d'adjudication, frais acheteur inclus) - non comparable a une cote Wine-Searcher (detail HT).",
       "casierId": "G-C2-R1",
       "quantite": 2,
       "dateEntree": 1780722766077,
-      "cote": null
+      "cote": {
+        "valeur_eur": 77,
+        "devise": "EUR",
+        "source": "idealwine (cote encheres) — releve du 25/10/2026",
+        "dateReleve": "2026-10-25",
+        "url": "https://www.idealwine.com/en/wine-prices/173589-2022-Bottle-Corsica-Ajaccio-Granit-Vaccelli-red",
+        "statut": "ok"
+      }
     },
     {
       "id": "vaccelli-2022-rouge-gc2r1",
@@ -1625,17 +1631,16 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Cote iDealwine (prix d'adjudication, frais acheteur inclus) - non comparable a une cote Wine-Searcher (detail HT).",
       "casierId": "G-C2-R2",
       "quantite": 1,
       "dateEntree": 1780723261922,
       "cote": {
-        "valeur_eur": 0,
+        "valeur_eur": 41,
         "devise": "EUR",
-        "source": "wine-searcher (calculateur de cave)",
-        "valeurLocation": "Europe (HT)",
-        "dateReleve": "2026-06-08T14:35:09.921Z",
-        "url": "https://www.wine-searcher.com/find/dom+comte+peraldi+clos+du+cardinal+rouge+ajaccio+corse+france/2017/europe",
+        "source": "idealwine (cote encheres) — releve du 25/10/2026",
+        "dateReleve": "2026-10-25",
+        "url": "https://www.idealwine.com/fr/prix-vin/168069-2017-Bouteille-Corse-Ajaccio-Cuvee-du-Cardinal-Comte-Peraldi-Domaine-rouge",
         "statut": "ok"
       }
     },
@@ -1650,19 +1655,11 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Cote remise a zero le 25/10/2026 : Wine-Searcher avait renvoye statut ok avec une valeur de 0 EUR, et iDealwine ne cote pas ce vin.",
       "casierId": "G-C2-R2",
       "quantite": 4,
       "dateEntree": 1780723261922,
-      "cote": {
-        "valeur_eur": 0,
-        "devise": "EUR",
-        "source": "wine-searcher (calculateur de cave)",
-        "valeurLocation": "Europe (HT)",
-        "dateReleve": "2026-06-08T14:35:09.921Z",
-        "url": "https://www.wine-searcher.com/find/dom+comte+peraldi+clos+du+cardinal+rouge+ajaccio+corse+france/2019/europe",
-        "statut": "ok"
-      }
+      "cote": null
     },
     {
       "id": "peraldi-cardinal-2021",
@@ -1700,19 +1697,11 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Cote remise a zero le 25/10/2026 : Wine-Searcher avait renvoye statut ok avec une valeur de 0 EUR, et iDealwine ne cote pas ce vin.",
       "casierId": "G-C2-R2",
       "quantite": 1,
       "dateEntree": 1780723261922,
-      "cote": {
-        "valeur_eur": 0,
-        "devise": "EUR",
-        "source": "wine-searcher (calculateur de cave)",
-        "valeurLocation": "Europe (HT)",
-        "dateReleve": "2026-06-08T14:35:09.921Z",
-        "url": "https://www.wine-searcher.com/find/dom+comte+peraldi+vermentino+ajaccio+corse+france/2019/europe",
-        "statut": "ok"
-      }
+      "cote": null
     },
     {
       "id": "peraldi-ajaccio-2022",
@@ -1985,18 +1974,17 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Cote iDealwine (prix d'adjudication, frais acheteur inclus) - non comparable a une cote Wine-Searcher (detail HT).",
       "casierId": "G-C3-R3",
       "quantite": 1,
       "dateEntree": 1780725627159,
       "cote": {
-        "valeur_eur": null,
+        "valeur_eur": 48,
         "devise": "EUR",
-        "source": "wine-searcher (calculateur de cave)",
-        "valeurLocation": "Europe (HT)",
-        "dateReleve": "2026-06-09T00:00:00.000Z",
-        "url": "https://www.wine-searcher.com/find/dom+jean+michel+gerin+champin+le+seigneurs+cote+rotie+rhone+france/2013/europe",
-        "statut": "sans_prix"
+        "source": "idealwine (cote encheres) — releve du 25/10/2026",
+        "dateReleve": "2026-10-25",
+        "url": "https://www.idealwine.com/fr/prix-vin/109201-2013-Bouteille-Vallee-du-Rhone-Cote-Rotie-Champin-Le-Seigneur-Domaine-Gerin-rouge",
+        "statut": "ok"
       }
     },
     {
@@ -2110,17 +2098,16 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Cote iDealwine (prix d'adjudication, frais acheteur inclus) - non comparable a une cote Wine-Searcher (detail HT).",
       "casierId": "G-C3-R3",
       "quantite": 1,
       "dateEntree": 1780725627159,
       "cote": {
-        "valeur_eur": 0,
+        "valeur_eur": 50,
         "devise": "EUR",
-        "source": "wine-searcher (calculateur de cave)",
-        "valeurLocation": "Europe (HT)",
-        "dateReleve": "2026-06-08T14:35:09.921Z",
-        "url": "https://www.wine-searcher.com/find/dom+clusel+roch+les+schistes+cote+rotie+rhone+france/2012/europe",
+        "source": "idealwine (cote encheres) — releve du 25/10/2026",
+        "dateReleve": "2026-10-25",
+        "url": "https://www.idealwine.com/fr/prix-vin/103365-2012-Bouteille-Vallee-du-Rhone-Cote-Rotie-Clusel-Roch-rouge",
         "statut": "ok"
       }
     },
@@ -2135,17 +2122,16 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Cote iDealwine (prix d'adjudication, frais acheteur inclus) - non comparable a une cote Wine-Searcher (detail HT).",
       "casierId": "G-C3-R4",
       "quantite": 3,
       "dateEntree": 1780726086925,
       "cote": {
-        "valeur_eur": 0,
+        "valeur_eur": 48,
         "devise": "EUR",
-        "source": "wine-searcher (calculateur de cave)",
-        "valeurLocation": "Europe (HT)",
-        "dateReleve": "2026-06-08T14:35:09.921Z",
-        "url": "https://www.wine-searcher.com/find/michel+stephan+ogier+rsrv+du+dom+cote+rotie+rhone+france/2014/europe",
+        "source": "idealwine (cote encheres) — releve du 25/10/2026",
+        "dateReleve": "2026-10-25",
+        "url": "https://www.idealwine.com/fr/prix-vin/110461-2014-Bouteille-Vallee-du-Rhone-Cote-Rotie-Reserve-Stephane-Ogier-Rouge.jsp",
         "statut": "ok"
       }
     },
@@ -2235,18 +2221,17 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Cote iDealwine (prix d'adjudication, frais acheteur inclus) - non comparable a une cote Wine-Searcher (detail HT).",
       "casierId": "G-C3-R4",
       "quantite": 1,
       "dateEntree": 1780726086925,
       "cote": {
-        "valeur_eur": null,
+        "valeur_eur": 48,
         "devise": "EUR",
-        "source": "wine-searcher (calculateur de cave)",
-        "valeurLocation": "Europe (HT)",
-        "dateReleve": "2026-06-09T00:00:00.000Z",
-        "url": "https://www.wine-searcher.com/find/dom+jean+michel+gerin+champin+le+seigneurs+cote+rotie+rhone+france/2013/europe",
-        "statut": "sans_prix"
+        "source": "idealwine (cote encheres) — releve du 25/10/2026",
+        "dateReleve": "2026-10-25",
+        "url": "https://www.idealwine.com/fr/prix-vin/109201-2013-Bouteille-Vallee-du-Rhone-Cote-Rotie-Champin-Le-Seigneur-Domaine-Gerin-rouge",
+        "statut": "ok"
       }
     },
     {
@@ -2560,11 +2545,18 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Cote iDealwine (prix d'adjudication, frais acheteur inclus) - non comparable a une cote Wine-Searcher (detail HT).",
       "casierId": "G-C4-R2",
       "quantite": 1,
       "dateEntree": 1780727773931,
-      "cote": null
+      "cote": {
+        "valeur_eur": 63,
+        "devise": "EUR",
+        "source": "idealwine (cote encheres) — releve du 25/10/2026",
+        "dateReleve": "2026-10-25",
+        "url": "https://www.idealwine.com/fr/prix-vin/103121-2020-Bouteille-Provence-Palette-Chateau-Simone-rouge",
+        "statut": "ok"
+      }
     },
     {
       "id": "bonnaud-palette-2018",
@@ -2786,19 +2778,11 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Cote remise a zero le 25/10/2026 : Wine-Searcher avait renvoye statut ok avec une valeur de 0 EUR, et iDealwine ne cote pas ce vin.",
       "casierId": "G-C4-R3",
       "quantite": 3,
       "dateEntree": 1780704000000,
-      "cote": {
-        "valeur_eur": 0,
-        "devise": "EUR",
-        "source": "wine-searcher (calculateur de cave)",
-        "valeurLocation": "Europe (HT)",
-        "dateReleve": "2026-06-08T14:35:09.921Z",
-        "url": "https://www.wine-searcher.com/find/bernard+faurie+rouge+hermitage+rhone+france/2021/europe",
-        "statut": "ok"
-      }
+      "cote": null
     },
     {
       "id": "heritiers-faurie-marc-cuvee-du-papi",
@@ -3028,19 +3012,11 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Cote remise a zero le 25/10/2026 : Wine-Searcher avait renvoye statut ok avec une valeur de 0 EUR, et iDealwine ne cote pas ce vin.",
       "casierId": "G-C5-R1",
       "quantite": 1,
       "dateEntree": 1780704000000,
-      "cote": {
-        "valeur_eur": 0,
-        "devise": "EUR",
-        "source": "wine-searcher (calculateur de cave)",
-        "valeurLocation": "Europe (HT)",
-        "dateReleve": "2026-06-08T14:35:09.921Z",
-        "url": "https://www.wine-searcher.com/find/jean+pierre+gaussens+bandol+provence+france/2008/europe",
-        "statut": "ok"
-      }
+      "cote": null
     },
     {
       "id": "tempier-bandol-classique-2016",
@@ -3128,19 +3104,11 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Cote remise a zero le 25/10/2026 : Wine-Searcher avait renvoye statut ok avec une valeur de 0 EUR, et iDealwine ne cote pas ce vin.",
       "casierId": "G-C5-R2",
       "quantite": 3,
       "dateEntree": 1780704000000,
-      "cote": {
-        "valeur_eur": 0,
-        "devise": "EUR",
-        "source": "wine-searcher (calculateur de cave)",
-        "valeurLocation": "Europe (HT)",
-        "dateReleve": "2026-06-08T14:35:09.921Z",
-        "url": "https://www.wine-searcher.com/find/dom+tempier+pour+lulu+rouge+bandol+provence+france/2017/europe",
-        "statut": "ok"
-      }
+      "cote": null
     },
     {
       "id": "tempier-bandol-classique-2018",
@@ -3703,19 +3671,11 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Cote remise a zero le 25/10/2026 : Wine-Searcher avait renvoye statut ok avec une valeur de 0 EUR, et iDealwine ne cote pas ce vin.",
       "casierId": "G-C7-R3",
       "quantite": 1,
       "dateEntree": 1780704000000,
-      "cote": {
-        "valeur_eur": 0,
-        "devise": "EUR",
-        "source": "wine-searcher (calculateur de cave)",
-        "valeurLocation": "Europe (HT)",
-        "dateReleve": "2026-06-08T14:35:09.921Z",
-        "url": "https://www.wine-searcher.com/find/dom+ghislaine+barthod+les+fuees+chambolle+musigny+premier+cru+cote+de+nuit+burgundy+france/2015/europe",
-        "statut": "ok"
-      }
+      "cote": null
     },
     {
       "id": "barthod-chambolle-veroilles-2015",
@@ -4903,19 +4863,11 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Cote remise a zero le 25/10/2026 : Wine-Searcher avait renvoye statut ok avec une valeur de 0 EUR, et iDealwine ne cote pas ce vin.",
       "casierId": "G-C8-R2",
       "quantite": 1,
       "dateEntree": 1780704000000,
-      "cote": {
-        "valeur_eur": 0,
-        "devise": "EUR",
-        "source": "wine-searcher (calculateur de cave)",
-        "valeurLocation": "Europe (HT)",
-        "dateReleve": "2026-06-08T14:35:09.921Z",
-        "url": "https://www.wine-searcher.com/find/dom+bruno+clavellier+les+haut+de+beau+mont+vieilles+vigne+cote+nuit+vosne+romanee+burgundy+france/2016/europe",
-        "statut": "ok"
-      }
+      "cote": null
     },
     {
       "id": "clavelier-vr-hautes-maizieres-2020-G-C8-R2",
@@ -5245,19 +5197,11 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Cote remise a zero le 25/10/2026 : Wine-Searcher avait renvoye statut ok avec une valeur de 0 EUR, et iDealwine ne cote pas ce vin.",
       "casierId": "G-C9-R1",
       "quantite": 1,
       "dateEntree": 1780704000000,
-      "cote": {
-        "valeur_eur": 0,
-        "devise": "EUR",
-        "source": "wine-searcher (calculateur de cave)",
-        "valeurLocation": "Europe (HT)",
-        "dateReleve": "2026-06-08T14:35:09.921Z",
-        "url": "https://www.wine-searcher.com/find/dom+aurelie+berthoud+les+fichots+pernand+vergelesses+premier+cru+cote+de+beaune+burgundy+france/2022/europe",
-        "statut": "ok"
-      }
+      "cote": null
     },
     {
       "id": "maratray-chorey-bons-ores-2022-G-C9-R1",
@@ -5420,19 +5364,11 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Cote remise a zero le 25/10/2026 : Wine-Searcher avait renvoye statut ok avec une valeur de 0 EUR, et iDealwine ne cote pas ce vin.",
       "casierId": "G-C8-R4",
       "quantite": 3,
       "dateEntree": 1780704000000,
-      "cote": {
-        "valeur_eur": 0,
-        "devise": "EUR",
-        "source": "wine-searcher (calculateur de cave)",
-        "valeurLocation": "Europe (HT)",
-        "dateReleve": "2026-06-08T14:35:09.921Z",
-        "url": "https://www.wine-searcher.com/find/dom+joseph+voillot+les+caillerets+volnay+premier+cru+cote+de+beaune+burgundy+france/2019/europe",
-        "statut": "ok"
-      }
+      "cote": null
     },
     {
       "id": "voillot-volnay-caillerets-2023-G-C8-R4",
@@ -5812,19 +5748,11 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Cote remise a zero le 25/10/2026 : Wine-Searcher avait renvoye statut ok avec une valeur de 0 EUR, et iDealwine ne cote pas ce vin.",
       "casierId": "G-C9-R4",
       "quantite": 1,
       "dateEntree": 1780704000000,
-      "cote": {
-        "valeur_eur": 0,
-        "devise": "EUR",
-        "source": "wine-searcher (calculateur de cave)",
-        "valeurLocation": "Europe (HT)",
-        "dateReleve": "2026-06-08T14:35:09.921Z",
-        "url": "https://www.wine-searcher.com/find/vaudoisey+creusefond+epenots+pommard+premier+cru+cote+de+beaune+burgundy+france/2021/europe",
-        "statut": "ok"
-      }
+      "cote": null
     },
     {
       "id": "burgaud-morgon-lescharmes-2016",
@@ -6012,17 +5940,16 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Cote iDealwine (prix d'adjudication, frais acheteur inclus) - non comparable a une cote Wine-Searcher (detail HT).",
       "casierId": "G-C9-R6",
       "quantite": 1,
       "dateEntree": 1780704000000,
       "cote": {
-        "valeur_eur": 0,
+        "valeur_eur": 73,
         "devise": "EUR",
-        "source": "wine-searcher (calculateur de cave)",
-        "valeurLocation": "Europe (HT)",
-        "dateReleve": "2026-06-08T14:35:09.921Z",
-        "url": "https://www.wine-searcher.com/find/dom+marc+roi+la+justice+gevrey+chambertin+cote+de+nuit+burgundy+france/2017/europe",
+        "source": "idealwine (cote encheres) — releve du 25/10/2026",
+        "dateReleve": "2026-10-25",
+        "url": "https://www.idealwine.com/en/wine-prices/196509-2017-Bottle-Burgundy-Gevrey-Chambertin-La-Justice-Marc-Roy-red",
         "statut": "ok"
       }
     },
@@ -9587,19 +9514,11 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "1er Cru",
+      "notes": "1er Cru | Cote remise a zero le 25/10/2026 : Wine-Searcher avait renvoye statut ok avec une valeur de 0 EUR, et iDealwine ne cote pas ce vin.",
       "casierId": "F-C5-R3",
       "quantite": 1,
       "dateEntree": 1780704000000,
-      "cote": {
-        "valeur_eur": 0,
-        "devise": "EUR",
-        "source": "wine-searcher (calculateur de cave)",
-        "valeurLocation": "Europe (HT)",
-        "dateReleve": "2026-06-08T14:35:09.921Z",
-        "url": "https://www.wine-searcher.com/find/dom+rossignol+trappet+les+cherbaudes+gevrey+chambertin+premier+cru+cote+de+nuit+burgundy+france/2019/europe",
-        "statut": "ok"
-      }
+      "cote": null
     },
     {
       "id": "rossignol-trapet-gevrey-cherbaudes-1er-2020",
@@ -9812,19 +9731,11 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "1er Cru",
+      "notes": "1er Cru | Cote remise a zero le 25/10/2026 : Wine-Searcher avait renvoye statut ok avec une valeur de 0 EUR, et iDealwine ne cote pas ce vin.",
       "casierId": "F-C5-R4",
       "quantite": 2,
       "dateEntree": 1780704000000,
-      "cote": {
-        "valeur_eur": 0,
-        "devise": "EUR",
-        "source": "wine-searcher (calculateur de cave)",
-        "valeurLocation": "Europe (HT)",
-        "dateReleve": "2026-06-08T14:35:09.921Z",
-        "url": "https://www.wine-searcher.com/find/dom+rossignol+trappet+les+cherbaudes+gevrey+chambertin+premier+cru+cote+de+nuit+burgundy+france/2019/europe",
-        "statut": "ok"
-      }
+      "cote": null
     },
     {
       "id": "rossignol-trapet-gevrey-cherbaudes-1er-2020-r4",
@@ -10387,17 +10298,16 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "1er Cru",
+      "notes": "1er Cru | Cote iDealwine (prix d'adjudication, frais acheteur inclus) - non comparable a une cote Wine-Searcher (detail HT).",
       "casierId": "F-C6-R2",
       "quantite": 1,
       "dateEntree": 1780704000000,
       "cote": {
-        "valeur_eur": 0,
+        "valeur_eur": 97,
         "devise": "EUR",
-        "source": "wine-searcher (calculateur de cave)",
-        "valeurLocation": "Europe (HT)",
-        "dateReleve": "2026-06-08T14:35:09.921Z",
-        "url": "https://www.wine-searcher.com/find/dom+arlaud+les+sentier+chambolle+musigny+premier+cru+cote+de+nuit+burgundy+france/2015/europe",
+        "source": "idealwine (cote encheres) — releve du 25/10/2026",
+        "dateReleve": "2026-10-25",
+        "url": "https://www.idealwine.com/fr/prix-vin/122906-2015-Bouteille-Bourgogne-Chambolle-Musigny-1er-Cru-Les-Sentiers-Arlaud-rouge",
         "statut": "ok"
       }
     },
@@ -10937,17 +10847,16 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Cote iDealwine (prix d'adjudication, frais acheteur inclus) - non comparable a une cote Wine-Searcher (detail HT).",
       "casierId": "F-C6-R5",
       "quantite": 1,
       "dateEntree": 1780704000000,
       "cote": {
-        "valeur_eur": 0,
+        "valeur_eur": 82,
         "devise": "EUR",
-        "source": "wine-searcher (calculateur de cave)",
-        "valeurLocation": "Europe (HT)",
-        "dateReleve": "2026-06-08T14:35:09.921Z",
-        "url": "https://www.wine-searcher.com/find/dom+amiot+servelle+les+plantes+chambolle+musigny+premier+cru+cote+de+nuit+burgundy+france/2020/europe",
+        "source": "idealwine (cote encheres) — releve du 25/10/2026",
+        "dateReleve": "2026-10-25",
+        "url": "https://www.idealwine.com/en/wine-prices/145475-2020-Bottle-Burgundy-Chambolle-Musigny-Premier-Cru-Les-Plantes-Amiot-Servelle-red",
         "statut": "ok"
       }
     },
@@ -11037,17 +10946,16 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Cote iDealwine (prix d'adjudication, frais acheteur inclus) - non comparable a une cote Wine-Searcher (detail HT).",
       "casierId": "F-C6-R4",
       "quantite": 1,
       "dateEntree": 1780704000000,
       "cote": {
-        "valeur_eur": 0,
+        "valeur_eur": 51,
         "devise": "EUR",
-        "source": "wine-searcher (calculateur de cave)",
-        "valeurLocation": "Europe (HT)",
-        "dateReleve": "2026-06-08T14:35:09.921Z",
-        "url": "https://www.wine-searcher.com/find/dom+anne+herve+sigaut+chambolle+musigny+cote+de+nuit+burgundy+france/2018/europe",
+        "source": "idealwine (cote encheres) — releve du 25/10/2026",
+        "dateReleve": "2026-10-25",
+        "url": "https://www.idealwine.com/fr/prix-vin/163429-2018-Bouteille-Bourgogne-Chambolle-Musigny-Domaine-Sigaut-rouge",
         "statut": "ok"
       }
     },
@@ -11512,19 +11420,11 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Cote remise a zero le 25/10/2026 : Wine-Searcher avait renvoye statut ok avec une valeur de 0 EUR, et iDealwine ne cote pas ce vin.",
       "casierId": "D-C1-R1",
       "quantite": 2,
       "dateEntree": 1780704000000,
-      "cote": {
-        "valeur_eur": 0,
-        "devise": "EUR",
-        "source": "wine-searcher (calculateur de cave)",
-        "valeurLocation": "Europe (HT)",
-        "dateReleve": "2026-06-08T14:35:09.921Z",
-        "url": "https://www.wine-searcher.com/find/albert+morot+les+greves+beaune+premier+cru+cote+de+burgundy+france/2023/europe",
-        "statut": "ok"
-      }
+      "cote": null
     },
     {
       "id": "albert-morot-beaune-teurons-2023",
@@ -11587,19 +11487,11 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Cote remise a zero le 25/10/2026 : Wine-Searcher avait renvoye statut ok avec une valeur de 0 EUR, et iDealwine ne cote pas ce vin.",
       "casierId": "D-C1-R2",
       "quantite": 3,
       "dateEntree": 1780704000000,
-      "cote": {
-        "valeur_eur": 0,
-        "devise": "EUR",
-        "source": "wine-searcher (calculateur de cave)",
-        "valeurLocation": "Europe (HT)",
-        "dateReleve": "2026-06-08T14:35:09.921Z",
-        "url": "https://www.wine-searcher.com/find/albert+morot+bressandes+premier+cru+beaune+les+cote+de+burgundy+france/2019/europe",
-        "statut": "ok"
-      }
+      "cote": null
     },
     {
       "id": "albert-morot-beaune-greves-2019",
@@ -11612,19 +11504,11 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Cote remise a zero le 25/10/2026 : Wine-Searcher avait renvoye statut ok avec une valeur de 0 EUR, et iDealwine ne cote pas ce vin.",
       "casierId": "D-C1-R2",
       "quantite": 3,
       "dateEntree": 1780704000000,
-      "cote": {
-        "valeur_eur": 0,
-        "devise": "EUR",
-        "source": "wine-searcher (calculateur de cave)",
-        "valeurLocation": "Europe (HT)",
-        "dateReleve": "2026-06-08T14:35:09.921Z",
-        "url": "https://www.wine-searcher.com/find/albert+morot+les+greves+beaune+premier+cru+cote+de+burgundy+france/2019/europe",
-        "statut": "ok"
-      }
+      "cote": null
     },
     {
       "id": "albert-morot-beaune-greves-2022",
@@ -11637,19 +11521,11 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Cote remise a zero le 25/10/2026 : Wine-Searcher avait renvoye statut ok avec une valeur de 0 EUR, et iDealwine ne cote pas ce vin.",
       "casierId": "D-C1-R2",
       "quantite": 1,
       "dateEntree": 1780704000000,
-      "cote": {
-        "valeur_eur": 0,
-        "devise": "EUR",
-        "source": "wine-searcher (calculateur de cave)",
-        "valeurLocation": "Europe (HT)",
-        "dateReleve": "2026-06-08T14:35:09.921Z",
-        "url": "https://www.wine-searcher.com/find/albert+morot+les+greves+beaune+premier+cru+cote+de+burgundy+france/2022/europe",
-        "statut": "ok"
-      }
+      "cote": null
     },
     {
       "id": "albert-morot-beaune-teurons-2019",
@@ -11737,19 +11613,11 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Cote remise a zero le 25/10/2026 : Wine-Searcher avait renvoye statut ok avec une valeur de 0 EUR, et iDealwine ne cote pas ce vin.",
       "casierId": "D-C1-R3",
       "quantite": 1,
       "dateEntree": 1780704000000,
-      "cote": {
-        "valeur_eur": 0,
-        "devise": "EUR",
-        "source": "wine-searcher (calculateur de cave)",
-        "valeurLocation": "Europe (HT)",
-        "dateReleve": "2026-06-08T14:35:09.921Z",
-        "url": "https://www.wine-searcher.com/find/albert+morot+pommard+cote+de+beaune+burgundy+france/2019/europe",
-        "statut": "ok"
-      }
+      "cote": null
     },
     {
       "id": "albert-morot-beaune-teurons-2022-r3",
@@ -11787,19 +11655,11 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Cote remise a zero le 25/10/2026 : Wine-Searcher avait renvoye statut ok avec une valeur de 0 EUR, et iDealwine ne cote pas ce vin.",
       "casierId": "D-C1-R3",
       "quantite": 1,
       "dateEntree": 1780704000000,
-      "cote": {
-        "valeur_eur": 0,
-        "devise": "EUR",
-        "source": "wine-searcher (calculateur de cave)",
-        "valeurLocation": "Europe (HT)",
-        "dateReleve": "2026-06-08T14:35:09.921Z",
-        "url": "https://www.wine-searcher.com/find/albert+morot+les+greves+beaune+premier+cru+cote+de+burgundy+france/2022/europe",
-        "statut": "ok"
-      }
+      "cote": null
     },
     {
       "id": "bart-marsannay-longeroies-2017",
@@ -11962,19 +11822,11 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Cote remise a zero le 25/10/2026 : Wine-Searcher avait renvoye statut ok avec une valeur de 0 EUR, et iDealwine ne cote pas ce vin.",
       "casierId": "D-C8-R1",
       "quantite": 3,
       "dateEntree": 1780704000000,
-      "cote": {
-        "valeur_eur": 0,
-        "devise": "EUR",
-        "source": "wine-searcher (calculateur de cave)",
-        "valeurLocation": "Europe (HT)",
-        "dateReleve": "2026-06-08T14:35:09.921Z",
-        "url": "https://www.wine-searcher.com/find/lucien+crochet+le+chene+machand+sancerre+upper+loire+france/2014/europe",
-        "statut": "ok"
-      }
+      "cote": null
     },
     {
       "id": "crochet-sancerre-chenemarchand-2014",
@@ -11987,19 +11839,11 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Cote remise a zero le 25/10/2026 : Wine-Searcher avait renvoye statut ok avec une valeur de 0 EUR, et iDealwine ne cote pas ce vin.",
       "casierId": "D-C8-R1",
       "quantite": 3,
       "dateEntree": 1780704000000,
-      "cote": {
-        "valeur_eur": 0,
-        "devise": "EUR",
-        "source": "wine-searcher (calculateur de cave)",
-        "valeurLocation": "Europe (HT)",
-        "dateReleve": "2026-06-08T14:35:09.921Z",
-        "url": "https://www.wine-searcher.com/find/lucien+crochet+le+chene+machand+sancerre+upper+loire+france/2014/europe",
-        "statut": "ok"
-      }
+      "cote": null
     },
     {
       "id": "hgermain-chassagne-morgeot-fairendes-2015",
@@ -12862,19 +12706,11 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "Romain et Damien Bouchard",
+      "notes": "Romain et Damien Bouchard | Cote remise a zero le 25/10/2026 : Wine-Searcher avait renvoye statut ok avec une valeur de 0 EUR, et iDealwine ne cote pas ce vin.",
       "casierId": "D-C10-R1",
       "quantite": 1,
       "dateEntree": 1780704000000,
-      "cote": {
-        "valeur_eur": 0,
-        "devise": "EUR",
-        "source": "wine-searcher (calculateur de cave)",
-        "valeurLocation": "Europe (HT)",
-        "dateReleve": "2026-06-08T14:35:09.921Z",
-        "url": "https://www.wine-searcher.com/find/dom+de+l+enclos+chablis+burgundy+france/2018/europe",
-        "statut": "ok"
-      }
+      "cote": null
     },
     {
       "id": "enclos-chablis-fourchaume-2018",
@@ -12912,17 +12748,16 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "Romain et Damien Bouchard",
+      "notes": "Romain et Damien Bouchard | Cote iDealwine (prix d'adjudication, frais acheteur inclus) - non comparable a une cote Wine-Searcher (detail HT).",
       "casierId": "D-C10-R1",
       "quantite": 2,
       "dateEntree": 1780704000000,
       "cote": {
-        "valeur_eur": 0,
+        "valeur_eur": 34,
         "devise": "EUR",
-        "source": "wine-searcher (calculateur de cave)",
-        "valeurLocation": "Europe (HT)",
-        "dateReleve": "2026-06-08T14:35:09.921Z",
-        "url": "https://www.wine-searcher.com/find/dom+de+l+enclos+montmains+chablis+premier+cru+burgundy+france/2018/europe",
+        "source": "idealwine (cote encheres) — releve du 25/10/2026",
+        "dateReleve": "2026-10-25",
+        "url": "https://www.idealwine.com/en/wine-prices/231056-2018-Bottle-Burgundy-Chablis-Premier-Cru-Montmains-Domaine-de-lEnclos-white",
         "statut": "ok"
       }
     },
@@ -13037,19 +12872,11 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Cote remise a zero le 25/10/2026 : Wine-Searcher avait renvoye statut ok avec une valeur de 0 EUR, et iDealwine ne cote pas ce vin.",
       "casierId": "D-C10-R2",
       "quantite": 1,
       "dateEntree": 1780704000000,
-      "cote": {
-        "valeur_eur": 0,
-        "devise": "EUR",
-        "source": "wine-searcher (calculateur de cave)",
-        "valeurLocation": "Europe (HT)",
-        "dateReleve": "2026-06-08T14:35:09.921Z",
-        "url": "https://www.wine-searcher.com/find/dom+philip+vandelle+poulsard+cote+du+jura+france/2023/europe",
-        "statut": "ok"
-      }
+      "cote": null
     },
     {
       "id": "vandelle-cdj-pinot-noir-2023",
@@ -13062,19 +12889,11 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Cote remise a zero le 25/10/2026 : Wine-Searcher avait renvoye statut ok avec une valeur de 0 EUR, et iDealwine ne cote pas ce vin.",
       "casierId": "D-C10-R2",
       "quantite": 1,
       "dateEntree": 1780704000000,
-      "cote": {
-        "valeur_eur": 0,
-        "devise": "EUR",
-        "source": "wine-searcher (calculateur de cave)",
-        "valeurLocation": "Europe (HT)",
-        "dateReleve": "2026-06-08T14:35:09.921Z",
-        "url": null,
-        "statut": "ok"
-      }
+      "cote": null
     },
     {
       "id": "sipp-alsace-muehlforst-2019",
@@ -13087,19 +12906,11 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "Marnes calcaires",
+      "notes": "Marnes calcaires | Cote remise a zero le 25/10/2026 : Wine-Searcher avait renvoye statut ok avec une valeur de 0 EUR, et iDealwine ne cote pas ce vin.",
       "casierId": "D-C10-R3",
       "quantite": 2,
       "dateEntree": 1780704000000,
-      "cote": {
-        "valeur_eur": 0,
-        "devise": "EUR",
-        "source": "wine-searcher (calculateur de cave)",
-        "valeurLocation": "Europe (HT)",
-        "dateReleve": "2026-06-08T14:35:09.921Z",
-        "url": null,
-        "statut": "ok"
-      }
+      "cote": null
     },
     {
       "id": "sipp-alsace-steinacker-2020",
@@ -13262,19 +13073,11 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Cote remise a zero le 25/10/2026 : Wine-Searcher avait renvoye statut ok avec une valeur de 0 EUR, et iDealwine ne cote pas ce vin.",
       "casierId": "D-C10-R4",
       "quantite": 3,
       "dateEntree": 1780704000000,
-      "cote": {
-        "valeur_eur": 0,
-        "devise": "EUR",
-        "source": "wine-searcher (calculateur de cave)",
-        "valeurLocation": "Europe (HT)",
-        "dateReleve": "2026-06-08T14:35:09.921Z",
-        "url": "https://www.wine-searcher.com/find/dom+boissonet+st+joseph+rhone+france/2023/europe",
-        "statut": "ok"
-      }
+      "cote": null
     },
     {
       "id": "christmann-idig-konigsbach-riesling-2022",
@@ -13512,17 +13315,16 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Cote iDealwine (prix d'adjudication, frais acheteur inclus) - non comparable a une cote Wine-Searcher (detail HT).",
       "casierId": "D-C11-R3",
       "quantite": 1,
       "dateEntree": 1780704000000,
       "cote": {
-        "valeur_eur": 0,
+        "valeur_eur": 60,
         "devise": "EUR",
-        "source": "wine-searcher (calculateur de cave)",
-        "valeurLocation": "Europe (HT)",
-        "dateReleve": "2026-06-08T14:35:09.921Z",
-        "url": "https://www.wine-searcher.com/find/dom+jean+claude+bachelet+remilly+st+aubin+premier+cru+cote+de+beaune+burgundy+france/2020/europe",
+        "source": "idealwine (cote encheres) — releve du 25/10/2026",
+        "dateReleve": "2026-10-25",
+        "url": "https://www.idealwine.com/en/wine-prices/153633-2020-Bottle-Burgundy-Saint-Aubin-Premier-Cru-En-Remilly-Jean-Claude-Bachelet-Domaine-white",
         "statut": "ok"
       }
     },
@@ -13737,17 +13539,16 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Cote iDealwine (prix d'adjudication, frais acheteur inclus) - non comparable a une cote Wine-Searcher (detail HT).",
       "casierId": "D-C11-R3",
       "quantite": 1,
       "dateEntree": 1780704000000,
       "cote": {
-        "valeur_eur": 0,
+        "valeur_eur": 82,
         "devise": "EUR",
-        "source": "wine-searcher (calculateur de cave)",
-        "valeurLocation": "Europe (HT)",
-        "dateReleve": "2026-06-08T14:35:09.921Z",
-        "url": "https://www.wine-searcher.com/find/dom+jean+claude+bachelet+les+encegnieres+chass+montrachet+cote+de+beaune+burgundy+france/2016/europe",
+        "source": "idealwine (cote encheres) — releve du 25/10/2026",
+        "dateReleve": "2026-10-25",
+        "url": "https://www.idealwine.com/fr/prix-vin/163410-2016-Bouteille-Bourgogne-Chassagne-Montrachet-Les-Encegnieres-Jean-Claude-Bachelet-Domaine-blanc",
         "statut": "ok"
       }
     },
@@ -13837,19 +13638,11 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Cote remise a zero le 25/10/2026 : Wine-Searcher avait renvoye statut ok avec une valeur de 0 EUR, et iDealwine ne cote pas ce vin.",
       "casierId": "D-C11-R4",
       "quantite": 1,
       "dateEntree": 1780704000000,
-      "cote": {
-        "valeur_eur": 0,
-        "devise": "EUR",
-        "source": "wine-searcher (calculateur de cave)",
-        "valeurLocation": "Europe (HT)",
-        "dateReleve": "2026-06-08T14:35:09.921Z",
-        "url": "https://www.wine-searcher.com/find/dom+jean+claude+bachelet+remilly+st+aubin+premier+cru+cote+de+beaune+burgundy+france/2022/europe",
-        "statut": "ok"
-      }
+      "cote": null
     },
     {
       "id": "bachelet-fils-saintaubin-remilly-2019-a",
@@ -13862,19 +13655,11 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Cote remise a zero le 25/10/2026 : Wine-Searcher avait renvoye statut ok avec une valeur de 0 EUR, et iDealwine ne cote pas ce vin.",
       "casierId": "D-C11-R4",
       "quantite": 1,
       "dateEntree": 1780704000000,
-      "cote": {
-        "valeur_eur": 0,
-        "devise": "EUR",
-        "source": "wine-searcher (calculateur de cave)",
-        "valeurLocation": "Europe (HT)",
-        "dateReleve": "2026-06-08T14:35:09.921Z",
-        "url": "https://www.wine-searcher.com/find/dom+jean+claude+bachelet+remilly+st+aubin+premier+cru+cote+de+beaune+burgundy+france/2019/europe",
-        "statut": "ok"
-      }
+      "cote": null
     },
     {
       "id": "bachelet-saintaubin-remilly-2022-b",
@@ -13887,19 +13672,11 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Cote remise a zero le 25/10/2026 : Wine-Searcher avait renvoye statut ok avec une valeur de 0 EUR, et iDealwine ne cote pas ce vin.",
       "casierId": "D-C11-R4",
       "quantite": 1,
       "dateEntree": 1780704000000,
-      "cote": {
-        "valeur_eur": 0,
-        "devise": "EUR",
-        "source": "wine-searcher (calculateur de cave)",
-        "valeurLocation": "Europe (HT)",
-        "dateReleve": "2026-06-08T14:35:09.921Z",
-        "url": "https://www.wine-searcher.com/find/dom+jean+claude+bachelet+remilly+st+aubin+premier+cru+cote+de+beaune+burgundy+france/2022/europe",
-        "statut": "ok"
-      }
+      "cote": null
     },
     {
       "id": "bachelet-saintaubin-champlots-2021",
@@ -13987,19 +13764,11 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Cote remise a zero le 25/10/2026 : Wine-Searcher avait renvoye statut ok avec une valeur de 0 EUR, et iDealwine ne cote pas ce vin.",
       "casierId": "D-C11-R4",
       "quantite": 1,
       "dateEntree": 1780704000000,
-      "cote": {
-        "valeur_eur": 0,
-        "devise": "EUR",
-        "source": "wine-searcher (calculateur de cave)",
-        "valeurLocation": "Europe (HT)",
-        "dateReleve": "2026-06-08T14:35:09.921Z",
-        "url": "https://www.wine-searcher.com/find/dom+jean+claude+bachelet+remilly+st+aubin+premier+cru+cote+de+beaune+burgundy+france/2022/europe",
-        "statut": "ok"
-      }
+      "cote": null
     },
     {
       "id": "bachelet-fils-saintaubin-remilly-2019-b",
@@ -14012,19 +13781,11 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Cote remise a zero le 25/10/2026 : Wine-Searcher avait renvoye statut ok avec une valeur de 0 EUR, et iDealwine ne cote pas ce vin.",
       "casierId": "D-C11-R4",
       "quantite": 1,
       "dateEntree": 1780704000000,
-      "cote": {
-        "valeur_eur": 0,
-        "devise": "EUR",
-        "source": "wine-searcher (calculateur de cave)",
-        "valeurLocation": "Europe (HT)",
-        "dateReleve": "2026-06-08T14:35:09.921Z",
-        "url": "https://www.wine-searcher.com/find/dom+jean+claude+bachelet+remilly+st+aubin+premier+cru+cote+de+beaune+burgundy+france/2019/europe",
-        "statut": "ok"
-      }
+      "cote": null
     },
     {
       "id": "bachelet-saintaubin-charmois-2021-b",
@@ -14232,16 +13993,23 @@
       "cuvee": "Champin le Seigneur",
       "appellation": "Côte-Rôtie",
       "region": "Rhône",
-      "millesime": 2022,
+      "millesime": "2022",
       "couleur": "rouge",
       "format": "75 cl",
       "apogeeDebut": 2025,
       "apogeeFin": 2034,
-      "notes": "",
+      "notes": "Cote iDealwine (prix d'adjudication, frais acheteur inclus) - non comparable a une cote Wine-Searcher (detail HT).",
       "casierId": "G-C3-R1",
       "quantite": 2,
       "dateEntree": "2026-07-30",
-      "cote": null
+      "cote": {
+        "valeur_eur": 49,
+        "devise": "EUR",
+        "source": "idealwine (cote encheres) — releve du 25/10/2026",
+        "dateReleve": "2026-10-25",
+        "url": "https://www.idealwine.com/fr/prix-vin/109201-2022-Bouteille-Vallee-du-Rhone-Cote-Rotie-Champin-Le-Seigneur-Domaine-Gerin-rouge",
+        "statut": "ok"
+      }
     },
     {
       "id": "gerin-la-vialliere-2022-c3r1",
@@ -14305,11 +14073,18 @@
       "format": "75 cl",
       "apogeeDebut": null,
       "apogeeFin": null,
-      "notes": "Millésime non visible sur la photo (contre-étiquette non photographiée)",
+      "notes": "Millésime non visible sur la photo (contre-étiquette non photographiée) | Cote iDealwine (prix d'adjudication, frais acheteur inclus) - non comparable a une cote Wine-Searcher (detail HT).",
       "casierId": "D-C10-R4",
       "quantite": 1,
       "dateEntree": "2026-07-30",
-      "cote": null
+      "cote": {
+        "valeur_eur": 138,
+        "devise": "EUR",
+        "source": "idealwine (cote encheres) — releve du 25/10/2026",
+        "dateReleve": "2026-10-25",
+        "url": "https://www.idealwine.com/en/wine-prices/163290-2021-Bottle-Jura-Cotes-du-Jura-Les-Survivants-Ganevat-domaine-white",
+        "statut": "ok"
+      }
     },
     {
       "id": "ganevat-les-varrons-vv-nv-c10r4",
@@ -14322,11 +14097,18 @@
       "format": "75 cl",
       "apogeeDebut": null,
       "apogeeFin": null,
-      "notes": "Millésime non visible sur la photo (contre-étiquette non photographiée) ; 100% Chardonnay",
+      "notes": "Millésime non visible sur la photo (contre-étiquette non photographiée) ; 100% Chardonnay | Cote iDealwine (prix d'adjudication, frais acheteur inclus) - non comparable a une cote Wine-Searcher (detail HT).",
       "casierId": "D-C10-R4",
       "quantite": 1,
       "dateEntree": "2026-07-30",
-      "cote": null
+      "cote": {
+        "valeur_eur": 151,
+        "devise": "EUR",
+        "source": "idealwine (cote encheres) — releve du 25/10/2026",
+        "dateReleve": "2026-10-25",
+        "url": "https://www.idealwine.com/en/wine-prices/182033-2020-Bottle-Jura-Cotes-du-Jura-Les-Varrons-Vieilles-Vignes-Ganevat-domaine-white",
+        "statut": "ok"
+      }
     },
     {
       "domaine": "Domaine Sylvain Langoureau",
@@ -14435,15 +14217,22 @@
       "couleur": "rouge",
       "format": "75 cl",
       "dateEntree": 1792886400000,
-      "cote": null,
+      "cote": {
+        "valeur_eur": 75,
+        "devise": "EUR",
+        "source": "idealwine (cote encheres) — releve du 25/10/2026",
+        "dateReleve": "2026-10-25",
+        "url": "https://www.idealwine.com/en/wine-prices/123955-2022-Bottle-Rhone-Valley-Vaucluse-Vin-de-Pays-de-Vaucluse-Chateau-des-Tours-red",
+        "statut": "ok"
+      },
       "id": "vdp-vaucluse-2022-rouge-gc4r6",
       "domaine": "Domaine des Tours",
       "cuvee": "",
       "appellation": "Vin de Pays de Vaucluse",
-      "millesime": 2022,
+      "millesime": "2022",
       "apogeeDebut": 2026,
       "apogeeFin": 2038,
-      "notes": "",
+      "notes": "Cote iDealwine (prix d'adjudication, frais acheteur inclus) - non comparable a une cote Wine-Searcher (detail HT).",
       "casierId": "G-C4-R6",
       "quantite": 5
     },
@@ -14452,15 +14241,22 @@
       "couleur": "rouge",
       "format": "75 cl",
       "dateEntree": 1792886400000,
-      "cote": null,
+      "cote": {
+        "valeur_eur": 75,
+        "devise": "EUR",
+        "source": "idealwine (cote encheres) — releve du 25/10/2026",
+        "dateReleve": "2026-10-25",
+        "url": "https://www.idealwine.com/en/wine-prices/123955-2011-Bottle-Rhone-Valley-Vaucluse-Vin-de-Pays-de-Vaucluse-Chateau-des-Tours-red",
+        "statut": "ok"
+      },
       "id": "vdp-vaucluse-reserve-2011-rouge-gc4r5",
       "domaine": "Domaine des Tours",
       "cuvee": "Reserve",
       "appellation": "Vin de Pays de Vaucluse",
-      "millesime": 2011,
+      "millesime": "2011",
       "apogeeDebut": 2016,
       "apogeeFin": 2030,
-      "notes": "Merlot (mention etiquette)",
+      "notes": "Merlot (mention etiquette) | Cote iDealwine (prix d'adjudication, frais acheteur inclus) - fiche sans la mention Reserve, assimilation validee par le proprietaire.",
       "casierId": "G-C4-R5",
       "quantite": 1
     },
@@ -14469,15 +14265,22 @@
       "couleur": "rouge",
       "format": "75 cl",
       "dateEntree": 1792886400000,
-      "cote": null,
+      "cote": {
+        "valeur_eur": 138,
+        "devise": "EUR",
+        "source": "idealwine (cote encheres) — releve du 25/10/2026",
+        "dateReleve": "2026-10-25",
+        "url": "https://www.idealwine.com/fr/prix-vin/113515-2016-Bouteille-Vallee-du-Rhone-Vacqueyras-Chateau-des-Tours-rouge",
+        "statut": "ok"
+      },
       "id": "vacqueyras-reserve-2016-rouge-gc4r5",
       "domaine": "Chateau des Tours",
       "cuvee": "Reserve",
       "appellation": "Vacqueyras",
-      "millesime": 2016,
+      "millesime": "2016",
       "apogeeDebut": 2022,
       "apogeeFin": 2038,
-      "notes": "",
+      "notes": "Cote iDealwine (prix d'adjudication, frais acheteur inclus) - fiche sans la mention Reserve, assimilation validee par le proprietaire.",
       "casierId": "G-C4-R5",
       "quantite": 2
     },
@@ -14486,15 +14289,22 @@
       "couleur": "rouge",
       "format": "75 cl",
       "dateEntree": 1792886400000,
-      "cote": null,
+      "cote": {
+        "valeur_eur": 104,
+        "devise": "EUR",
+        "source": "idealwine (cote encheres) — releve du 25/10/2026",
+        "dateReleve": "2026-10-25",
+        "url": "https://www.idealwine.com/en/wine-prices/113516-2022-Bottle-Rhone-Valley-Cotes-du-Rhone-Chateau-des-Tours-red",
+        "statut": "ok"
+      },
       "id": "cotes-du-rhone-reserve-2022-rouge-gc4r5",
       "domaine": "Chateau des Tours",
       "cuvee": "Reserve",
       "appellation": "Cotes du Rhone",
-      "millesime": 2022,
+      "millesime": "2022",
       "apogeeDebut": 2026,
       "apogeeFin": 2036,
-      "notes": "",
+      "notes": "Cote iDealwine (prix d'adjudication, frais acheteur inclus) - cuvee standard, la Grande Reserve n'est pas cotee en 2022 - assimilation validee par le proprietaire.",
       "casierId": "G-C4-R5",
       "quantite": 4
     },
@@ -14503,15 +14313,22 @@
       "couleur": "rouge",
       "format": "75 cl",
       "dateEntree": 1792886400000,
-      "cote": null,
+      "cote": {
+        "valeur_eur": 75,
+        "devise": "EUR",
+        "source": "idealwine (cote encheres) — releve du 25/10/2026",
+        "dateReleve": "2026-10-25",
+        "url": "https://www.idealwine.com/en/wine-prices/123955-2011-Bottle-Rhone-Valley-Vaucluse-Vin-de-Pays-de-Vaucluse-Chateau-des-Tours-red",
+        "statut": "ok"
+      },
       "id": "vdp-vaucluse-reserve-2011-rouge-gc4r4",
       "domaine": "Domaine des Tours",
       "cuvee": "Reserve",
       "appellation": "Vin de Pays de Vaucluse",
-      "millesime": 2011,
+      "millesime": "2011",
       "apogeeDebut": 2016,
       "apogeeFin": 2030,
-      "notes": "Merlot (mention etiquette)",
+      "notes": "Merlot (mention etiquette) | Cote iDealwine (prix d'adjudication, frais acheteur inclus) - fiche sans la mention Reserve, assimilation validee par le proprietaire.",
       "casierId": "G-C4-R4",
       "quantite": 1
     },
@@ -14520,15 +14337,22 @@
       "couleur": "rouge",
       "format": "75 cl",
       "dateEntree": 1792886400000,
-      "cote": null,
+      "cote": {
+        "valeur_eur": 138,
+        "devise": "EUR",
+        "source": "idealwine (cote encheres) — releve du 25/10/2026",
+        "dateReleve": "2026-10-25",
+        "url": "https://www.idealwine.com/fr/prix-vin/113515-2016-Bouteille-Vallee-du-Rhone-Vacqueyras-Chateau-des-Tours-rouge",
+        "statut": "ok"
+      },
       "id": "vacqueyras-reserve-2016-rouge-gc4r4",
       "domaine": "Chateau des Tours",
       "cuvee": "Reserve",
       "appellation": "Vacqueyras",
-      "millesime": 2016,
+      "millesime": "2016",
       "apogeeDebut": 2022,
       "apogeeFin": 2038,
-      "notes": "",
+      "notes": "Cote iDealwine (prix d'adjudication, frais acheteur inclus) - fiche sans la mention Reserve, assimilation validee par le proprietaire.",
       "casierId": "G-C4-R4",
       "quantite": 2
     },
@@ -14577,11 +14401,18 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Cote iDealwine (prix d'adjudication, frais acheteur inclus) - non comparable a une cote Wine-Searcher (detail HT).",
       "casierId": "G-G7-R6",
       "quantite": 2,
       "dateEntree": 1792928202199,
-      "cote": null
+      "cote": {
+        "valeur_eur": 154,
+        "devise": "EUR",
+        "source": "idealwine (cote encheres) — releve du 25/10/2026",
+        "dateReleve": "2026-10-25",
+        "url": "https://www.idealwine.com/en/wine-prices/122111-2023-Bottle-Burgundy-Chambolle-Musigny-Premier-Cru-Les-Veroilles-Ghislaine-Barthod-red",
+        "statut": "ok"
+      }
     },
     {
       "id": "barthod-chambolle-cras-2023-G-G7-R6",
@@ -14594,11 +14425,18 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Cote iDealwine (prix d'adjudication, frais acheteur inclus) - non comparable a une cote Wine-Searcher (detail HT).",
       "casierId": "G-G7-R6",
       "quantite": 2,
       "dateEntree": 1792928202199,
-      "cote": null
+      "cote": {
+        "valeur_eur": 176,
+        "devise": "EUR",
+        "source": "idealwine (cote encheres) — releve du 25/10/2026",
+        "dateReleve": "2026-10-25",
+        "url": "https://www.idealwine.com/en/wine-prices/122110-2023-Bottle-Burgundy-Chambolle-Musigny-Premier-Cru-Les-Cras-Ghislaine-Barthod-red",
+        "statut": "ok"
+      }
     },
     {
       "id": "barthod-chambolle-village-2023-G-C7-R6",
@@ -14645,11 +14483,18 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Cote iDealwine (prix d'adjudication, frais acheteur inclus) - non comparable a une cote Wine-Searcher (detail HT).",
       "casierId": "G-C7-R6",
       "quantite": 2,
       "dateEntree": 1792928310206,
-      "cote": null
+      "cote": {
+        "valeur_eur": 154,
+        "devise": "EUR",
+        "source": "idealwine (cote encheres) — releve du 25/10/2026",
+        "dateReleve": "2026-10-25",
+        "url": "https://www.idealwine.com/en/wine-prices/122111-2023-Bottle-Burgundy-Chambolle-Musigny-Premier-Cru-Les-Veroilles-Ghislaine-Barthod-red",
+        "statut": "ok"
+      }
     },
     {
       "id": "barthod-chambolle-cras-2023-G-C7-R6",
@@ -14662,11 +14507,18 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Cote iDealwine (prix d'adjudication, frais acheteur inclus) - non comparable a une cote Wine-Searcher (detail HT).",
       "casierId": "G-C7-R6",
       "quantite": 2,
       "dateEntree": 1792928310206,
-      "cote": null
+      "cote": {
+        "valeur_eur": 176,
+        "devise": "EUR",
+        "source": "idealwine (cote encheres) — releve du 25/10/2026",
+        "dateReleve": "2026-10-25",
+        "url": "https://www.idealwine.com/en/wine-prices/122110-2023-Bottle-Burgundy-Chambolle-Musigny-Premier-Cru-Les-Cras-Ghislaine-Barthod-red",
+        "statut": "ok"
+      }
     },
     {
       "id": "arlaud-msd-village-2024",
@@ -14849,11 +14701,18 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Cote iDealwine (prix d'adjudication, frais acheteur inclus) - non comparable a une cote Wine-Searcher (detail HT).",
       "casierId": "D-C3-R1",
       "quantite": 3,
       "dateEntree": 1792936321280,
-      "cote": null
+      "cote": {
+        "valeur_eur": 56,
+        "devise": "EUR",
+        "source": "idealwine (cote encheres) — releve du 25/10/2026",
+        "dateReleve": "2026-10-25",
+        "url": "https://www.idealwine.com/en/wine-prices/150971-2022-Bottle-Burgundy-Savigny-les-Beaune-Simon-Bize-et-Fils-red",
+        "statut": "ok"
+      }
     },
     {
       "id": "bize-savigny-vergelesses-1er-2020",
@@ -14866,11 +14725,18 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Cote iDealwine (prix d'adjudication, frais acheteur inclus) - non comparable a une cote Wine-Searcher (detail HT).",
       "casierId": "D-C3-R1",
       "quantite": 3,
       "dateEntree": 1792936321280,
-      "cote": null
+      "cote": {
+        "valeur_eur": 60,
+        "devise": "EUR",
+        "source": "idealwine (cote encheres) — releve du 25/10/2026",
+        "dateReleve": "2026-10-25",
+        "url": "https://www.idealwine.com/fr/prix-vin/115904-2020-Bouteille-Bourgogne-Savigny-les-Beaune-1er-Cru-Aux-Vergelesses-Simon-Bize-et-Fils-rouge",
+        "statut": "ok"
+      }
     },
     {
       "id": "montcalmes-terrasses-larzac-2023",
@@ -14985,11 +14851,18 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "| Tarif domaine millésime 2024 : 56.00 € TTC, soit 46.67 € HT (base retenue, homogène avec les cotes Wine-Searcher HT).",
       "casierId": "F-C4-R1",
       "quantite": 1,
       "dateEntree": 1792934994628,
-      "cote": null
+      "cote": {
+        "valeur_eur": 46.67,
+        "devise": "EUR",
+        "source": "tarif domaine",
+        "dateReleve": "2026-10-25",
+        "url": "",
+        "statut": "ok"
+      }
     },
     {
       "id": "chevillon-nsg-bousselots-2024-fc4r1-b",
@@ -15002,11 +14875,18 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "| Tarif domaine millésime 2024 : 56.00 € TTC, soit 46.67 € HT (base retenue, homogène avec les cotes Wine-Searcher HT).",
       "casierId": "F-C4-R1",
       "quantite": 1,
       "dateEntree": 1792934994628,
-      "cote": null
+      "cote": {
+        "valeur_eur": 46.67,
+        "devise": "EUR",
+        "source": "tarif domaine",
+        "dateReleve": "2026-10-25",
+        "url": "",
+        "statut": "ok"
+      }
     },
     {
       "id": "chevillon-nsg-bousselots-2024-fc4r1-c",
@@ -15019,9 +14899,9 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "| Retiré de l'inventaire le 25/10/2026 : enlèvement réel de 6 bouteilles (2 par cru), saisie initiale de 9 erronée.",
       "casierId": "F-C4-R1",
-      "quantite": 1,
+      "quantite": 0,
       "dateEntree": 1792934994628,
       "cote": null
     },
@@ -15036,11 +14916,18 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "| Tarif domaine millésime 2024 : 56.00 € TTC, soit 46.67 € HT (base retenue, homogène avec les cotes Wine-Searcher HT).",
       "casierId": "F-C4-R1",
       "quantite": 1,
       "dateEntree": 1792934994628,
-      "cote": null
+      "cote": {
+        "valeur_eur": 46.67,
+        "devise": "EUR",
+        "source": "tarif domaine",
+        "dateReleve": "2026-10-25",
+        "url": "",
+        "statut": "ok"
+      }
     },
     {
       "id": "chevillon-nsg-chaignots-2024-fc4r1-b",
@@ -15053,11 +14940,18 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "| Tarif domaine millésime 2024 : 56.00 € TTC, soit 46.67 € HT (base retenue, homogène avec les cotes Wine-Searcher HT).",
       "casierId": "F-C4-R1",
       "quantite": 1,
       "dateEntree": 1792934994628,
-      "cote": null
+      "cote": {
+        "valeur_eur": 46.67,
+        "devise": "EUR",
+        "source": "tarif domaine",
+        "dateReleve": "2026-10-25",
+        "url": "",
+        "statut": "ok"
+      }
     },
     {
       "id": "chevillon-nsg-chaignots-2024-fc4r1-c",
@@ -15070,9 +14964,9 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "| Retiré de l'inventaire le 25/10/2026 : enlèvement réel de 6 bouteilles (2 par cru), saisie initiale de 9 erronée.",
       "casierId": "F-C4-R1",
-      "quantite": 1,
+      "quantite": 0,
       "dateEntree": 1792934994628,
       "cote": null
     },
@@ -15087,11 +14981,18 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "| Tarif domaine millésime 2024 : 56.00 € TTC, soit 46.67 € HT (base retenue, homogène avec les cotes Wine-Searcher HT).",
       "casierId": "F-C4-R1",
       "quantite": 1,
       "dateEntree": 1792934994628,
-      "cote": null
+      "cote": {
+        "valeur_eur": 46.67,
+        "devise": "EUR",
+        "source": "tarif domaine",
+        "dateReleve": "2026-10-25",
+        "url": "",
+        "statut": "ok"
+      }
     },
     {
       "id": "chevillon-nsg-ronciere-2024-fc4r1-b",
@@ -15104,11 +15005,18 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "| Tarif domaine millésime 2024 : 56.00 € TTC, soit 46.67 € HT (base retenue, homogène avec les cotes Wine-Searcher HT).",
       "casierId": "F-C4-R1",
       "quantite": 1,
       "dateEntree": 1792934994628,
-      "cote": null
+      "cote": {
+        "valeur_eur": 46.67,
+        "devise": "EUR",
+        "source": "tarif domaine",
+        "dateReleve": "2026-10-25",
+        "url": "",
+        "statut": "ok"
+      }
     },
     {
       "id": "chevillon-nsg-ronciere-2024-fc4r1-c",
@@ -15121,9 +15029,9 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "| Retiré de l'inventaire le 25/10/2026 : enlèvement réel de 6 bouteilles (2 par cru), saisie initiale de 9 erronée.",
       "casierId": "F-C4-R1",
-      "quantite": 1,
+      "quantite": 0,
       "dateEntree": 1792934994628,
       "cote": null
     },
@@ -15410,11 +15318,18 @@
       "format": "75 cl",
       "apogeeDebut": "",
       "apogeeFin": "",
-      "notes": "",
+      "notes": "Cote iDealwine (prix d'adjudication, frais acheteur inclus) - non comparable a une cote Wine-Searcher (detail HT).",
       "casierId": "D-C10-R3",
       "quantite": 2,
       "dateEntree": 1792937095978,
-      "cote": null
+      "cote": {
+        "valeur_eur": 62,
+        "devise": "EUR",
+        "source": "idealwine (cote encheres) — releve du 25/10/2026",
+        "dateReleve": "2026-10-25",
+        "url": "https://www.idealwine.com/en/wine-prices/141149-2023-Bottle-Nahe-Riesling-Grosses-Gewachs-GG-Niederhauser-Hermannshohle-Trocken-Donnhoff-white",
+        "statut": "ok"
+      }
     },
     {
       "id": "bart-marsannay-chezots-2024",
@@ -21292,5 +21207,5 @@
       "ts": 1780704000000
     }
   ],
-  "date": "2026-10-25T15:34:17.881Z"
+  "date": "2026-10-25T17:04:20.689Z"
 }
