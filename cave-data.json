@@ -6470,7 +6470,7 @@
       "apogeeFin": "",
       "notes": "",
       "casierId": "F-C1-R2",
-      "quantite": 1,
+      "quantite": 0,
       "dateEntree": 1780704000000,
       "cote": {
         "valeur_eur": 101.89,
@@ -15962,6 +15962,16 @@
   ],
   "movements": [
     {
+      "id": "r2bibn53",
+      "lot": "noellat-vr-village-2015",
+      "label": "Georges Noëllat — Vosne-Romanée 2015",
+      "couleur": "rouge",
+      "addr": "F · C1 · R2",
+      "delta": -1,
+      "reason": "Sortie",
+      "ts": 1793554818112
+    },
+    {
       "id": "adj-1792949571640",
       "label": "Régularisation d'inventaire",
       "couleur": null,
@@ -21640,5 +21650,5 @@
       "ts": 1780704000000
     }
   ],
-  "date": "2026-10-25T17:33:07.040Z"
+  "date": "2026-11-01T17:40:20.360Z"
 }
