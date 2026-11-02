@@ -14927,7 +14927,7 @@
       "apogeeFin": "",
       "notes": "Cote iDealwine (prix d'adjudication, frais acheteur inclus) - non comparable a une cote Wine-Searcher (detail HT).",
       "casierId": "D-C3-R1",
-      "quantite": 3,
+      "quantite": 2,
       "dateEntree": 1792936321280,
       "cote": {
         "valeur_eur": 60,
@@ -15961,6 +15961,16 @@
     }
   ],
   "movements": [
+    {
+      "id": "vnh0ic8v",
+      "lot": "bize-savigny-vergelesses-1er-2020",
+      "label": "Simon Bize & Fils — 1er Cru Aux Vergelesses 2020",
+      "couleur": "rouge",
+      "addr": "D · C3 · R1",
+      "delta": -1,
+      "reason": "Sortie",
+      "ts": 1793638843473
+    },
     {
       "id": "r2bibn53",
       "lot": "noellat-vr-village-2015",
@@ -21650,5 +21660,5 @@
       "ts": 1780704000000
     }
   ],
-  "date": "2026-11-01T17:40:31.367Z"
+  "date": "2026-11-02T17:00:46.620Z"
 }
