@@ -11870,7 +11870,7 @@
       "apogeeFin": "",
       "notes": "Cote remise a zero le 25/10/2026 : Wine-Searcher avait renvoye statut ok avec une valeur de 0 EUR, et iDealwine ne cote pas ce vin.",
       "casierId": "D-C8-R1",
-      "quantite": 3,
+      "quantite": 2,
       "dateEntree": 1780704000000,
       "cote": null
     },
@@ -15961,6 +15961,16 @@
     }
   ],
   "movements": [
+    {
+      "id": "8unu57t4",
+      "lot": "crochet-sancerre-chene-2014",
+      "label": "Lucien Crochet — Le Chêne 2014",
+      "couleur": "blanc",
+      "addr": "D · C8 · R1",
+      "delta": -1,
+      "reason": "Sortie",
+      "ts": 1794078672948
+    },
     {
       "id": "vnh0ic8v",
       "lot": "bize-savigny-vergelesses-1er-2020",
@@ -21660,5 +21670,5 @@
       "ts": 1780704000000
     }
   ],
-  "date": "2026-11-03T18:15:16.581Z"
+  "date": "2026-11-07T19:11:16.316Z"
 }
