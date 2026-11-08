@@ -3658,7 +3658,7 @@
       "apogeeFin": "",
       "notes": "",
       "casierId": "G-C7-R2",
-      "quantite": 2,
+      "quantite": 1,
       "dateEntree": 1780704000000,
       "cote": {
         "valeur_eur": 340.41,
@@ -15962,6 +15962,16 @@
   ],
   "movements": [
     {
+      "id": "7zrq35f0",
+      "lot": "barthod-chambolle-veroilles-2016",
+      "label": "Ghislaine Barthod — 1er Cru Les Véroilles 2016",
+      "couleur": "rouge",
+      "addr": "G · C7 · R2",
+      "delta": -1,
+      "reason": "Sortie",
+      "ts": 1794134470727
+    },
+    {
       "id": "8unu57t4",
       "lot": "crochet-sancerre-chene-2014",
       "label": "Lucien Crochet — Le Chêne 2014",
@@ -21670,5 +21680,5 @@
       "ts": 1780704000000
     }
   ],
-  "date": "2026-11-07T19:11:16.316Z"
+  "date": "2026-11-08T10:41:13.054Z"
 }
