@@ -11326,7 +11326,7 @@
       "apogeeFin": "",
       "notes": "",
       "casierId": "D-C1-R1",
-      "quantite": 2,
+      "quantite": 1,
       "dateEntree": 1780704000000,
       "cote": {
         "valeur_eur": 52.1,
@@ -15961,6 +15961,16 @@
     }
   ],
   "movements": [
+    {
+      "id": "7tisalr2",
+      "lot": "albert-morot-beaune-bressandes-2018",
+      "label": "Albert Morot — 1er Cru Les Bressandes 2018",
+      "couleur": "rouge",
+      "addr": "D · C1 · R1",
+      "delta": -1,
+      "reason": "Sortie",
+      "ts": 1794333064558
+    },
     {
       "id": "7zrq35f0",
       "lot": "barthod-chambolle-veroilles-2016",
@@ -21680,5 +21690,5 @@
       "ts": 1780704000000
     }
   ],
-  "date": "2026-11-08T10:41:13.054Z"
+  "date": "2026-11-10T17:51:06.391Z"
 }
