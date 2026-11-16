@@ -9754,7 +9754,7 @@
       "apogeeFin": "",
       "notes": "Village VV",
       "casierId": "F-C5-R5",
-      "quantite": 4,
+      "quantite": 3,
       "dateEntree": 1780704000000,
       "cote": {
         "valeur_eur": 52.1,
@@ -15912,6 +15912,16 @@
   ],
   "movements": [
     {
+      "id": "lzylcrov",
+      "lot": "rossignol-trapet-gevrey-vv-2021-r5",
+      "label": "Domaine Rossignol-Trapet — Vieilles Vignes 2021",
+      "couleur": "rouge",
+      "addr": "F · C5 · R5",
+      "delta": -1,
+      "reason": "Sortie",
+      "ts": 1794854789870
+    },
+    {
       "id": "cqpqwb9b",
       "lot": "chevillon-nsg-chaignots-2015-fc3r2-c",
       "label": "Domaine Robert Chevillon — 1er Cru Les Chaignots 2015",
@@ -21650,5 +21660,5 @@
       "ts": 1780704000000
     }
   ],
-  "date": "2026-11-12T17:48:22.462Z"
+  "date": "2026-11-16T18:46:32.124Z"
 }
