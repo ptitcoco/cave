@@ -126,31 +126,6 @@
       }
     },
     {
-      "id": "droin-chablis-2021",
-      "domaine": "Jean-Paul & Benoît Droin",
-      "cuvee": "",
-      "appellation": "Chablis",
-      "region": "Bourgogne",
-      "millesime": "2021",
-      "couleur": "blanc",
-      "format": "75 cl",
-      "apogeeDebut": "",
-      "apogeeFin": "",
-      "notes": "",
-      "casierId": "E-C1-R1",
-      "quantite": 1,
-      "dateEntree": 1780687691444,
-      "cote": {
-        "valeur_eur": 28.95,
-        "devise": "EUR",
-        "source": "wine-searcher (calculateur de cave)",
-        "valeurLocation": "Europe (HT)",
-        "dateReleve": "2026-06-08T14:35:09.921Z",
-        "url": "https://www.wine-searcher.com/find/jean+paul+benoit+droin+chablis+burgundy+france/2021/europe",
-        "statut": "ok"
-      }
-    },
-    {
       "id": "droin-vaudesir-2024",
       "domaine": "Jean-Paul & Benoît Droin",
       "cuvee": "Vaudésir",
@@ -15912,6 +15887,16 @@
   ],
   "movements": [
     {
+      "id": "p4hm9db7",
+      "lot": "droin-chablis-2021",
+      "label": "Jean-Paul & Benoît Droin — Chablis 2021",
+      "couleur": "blanc",
+      "addr": "E · C1 · R1",
+      "delta": -1,
+      "reason": "Sortie",
+      "ts": 1794930478045
+    },
+    {
       "id": "lzylcrov",
       "lot": "rossignol-trapet-gevrey-vv-2021-r5",
       "label": "Domaine Rossignol-Trapet — Vieilles Vignes 2021",
@@ -21660,5 +21645,5 @@
       "ts": 1780704000000
     }
   ],
-  "date": "2026-11-16T18:46:32.124Z"
+  "date": "2026-11-17T15:48:00.454Z"
 }
