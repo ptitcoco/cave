@@ -13500,30 +13500,6 @@
       }
     },
     {
-      "id": "bachelet-chassagne-encegnieres-2016",
-      "domaine": "Jean-Claude Bachelet et Fils",
-      "cuvee": "Les Encégnières",
-      "appellation": "Chassagne-Montrachet",
-      "region": "Bourgogne",
-      "millesime": "2016",
-      "couleur": "blanc",
-      "format": "75 cl",
-      "apogeeDebut": "",
-      "apogeeFin": "",
-      "notes": "Cote iDealwine (prix d'adjudication, frais acheteur inclus) - non comparable a une cote Wine-Searcher (detail HT).",
-      "casierId": "D-C11-R3",
-      "quantite": 1,
-      "dateEntree": 1780704000000,
-      "cote": {
-        "valeur_eur": 82,
-        "devise": "EUR",
-        "source": "idealwine (cote encheres) — releve du 25/10/2026",
-        "dateReleve": "2026-10-25",
-        "url": "https://www.idealwine.com/fr/prix-vin/163410-2016-Bouteille-Bourgogne-Chassagne-Montrachet-Les-Encegnieres-Jean-Claude-Bachelet-Domaine-blanc",
-        "statut": "ok"
-      }
-    },
-    {
       "id": "bachelet-saintaubin-charmois-2021-a",
       "domaine": "Jean-Claude Bachelet",
       "cuvee": "1er Cru Le Charmois",
@@ -15886,6 +15862,16 @@
     }
   ],
   "movements": [
+    {
+      "id": "j26q1fuh",
+      "lot": "bachelet-chassagne-encegnieres-2016",
+      "label": "Jean-Claude Bachelet et Fils — Les Encégnières 2016",
+      "couleur": "blanc",
+      "addr": "D · C11 · R3",
+      "delta": -1,
+      "reason": "Sortie",
+      "ts": 1795462830359
+    },
     {
       "id": "p4hm9db7",
       "lot": "droin-chablis-2021",
@@ -21645,5 +21631,5 @@
       "ts": 1780704000000
     }
   ],
-  "date": "2026-11-23T19:38:33.914Z"
+  "date": "2026-11-23T19:40:40.642Z"
 }
