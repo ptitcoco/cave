@@ -15863,14 +15863,14 @@
   ],
   "movements": [
     {
-      "id": "j26q1fuh",
+      "id": "ks0i5h30",
       "lot": "bachelet-chassagne-encegnieres-2016",
       "label": "Jean-Claude Bachelet et Fils — Les Encégnières 2016",
       "couleur": "blanc",
       "addr": "D · C11 · R3",
       "delta": -1,
       "reason": "Sortie",
-      "ts": 1795462830359
+      "ts": 1795458445133
     },
     {
       "id": "p4hm9db7",
@@ -21631,5 +21631,5 @@
       "ts": 1780704000000
     }
   ],
-  "date": "2026-11-23T19:40:40.642Z"
+  "date": "2026-11-23T19:45:02.358Z"
 }
