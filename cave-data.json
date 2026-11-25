@@ -1665,7 +1665,7 @@
       "apogeeFin": "",
       "notes": "Cote remise a zero le 25/10/2026 : Wine-Searcher avait renvoye statut ok avec une valeur de 0 EUR, et iDealwine ne cote pas ce vin. | Prix d'achat 35.00 EUR TTC soit 29.17 EUR HT - tarif Comte Peraldi.",
       "casierId": "G-C2-R2",
-      "quantite": 4,
+      "quantite": 3,
       "dateEntree": 1780723261922,
       "cote": {
         "valeur_eur": 29.17,
@@ -15863,6 +15863,16 @@
   ],
   "movements": [
     {
+      "id": "cr0ldrgx",
+      "lot": "peraldi-cardinal-2019",
+      "label": "Domaine Comte Peraldi — Cuvée du Cardinal 2019",
+      "couleur": "rouge",
+      "addr": "G · C2 · R2",
+      "delta": -1,
+      "reason": "Sortie",
+      "ts": 1795632050872
+    },
+    {
       "id": "ks0i5h30",
       "lot": "bachelet-chassagne-encegnieres-2016",
       "label": "Jean-Claude Bachelet et Fils — Les Encégnières 2016",
@@ -21631,5 +21641,5 @@
       "ts": 1780704000000
     }
   ],
-  "date": "2026-11-23T19:45:02.358Z"
+  "date": "2026-11-25T18:40:53.025Z"
 }
